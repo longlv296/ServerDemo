@@ -26,8 +26,8 @@ GRID_SIZE = 64          # number of columns in the pixel grid
 PIXEL_SCALE = 2         # each grid cell → 2x2 px in preview PNG
 DEFAULT_COLOR_COUNT = 12 # default palette size for coloring (stored in JSON)
 MAX_KMEANS_ITER = 20
-CATEGORIES = ["abstract", "anime", "cyberpunk", "fantasy", "minimal", "nature", "space"]
-IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png"}
+CATEGORIES = ["abstract", "aieditor", "aitools", "anime", "cyberpunk", "fantasy", "minimal", "nature", "space"]
+IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 
 # Paths
 SCRIPT_DIR = Path(__file__).resolve().parent
