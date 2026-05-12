@@ -209,12 +209,36 @@ def process_image(image_path: Path, category: str) -> dict | None:
     }
 
 
+def cleanup_orphans(cat_dir: Path, source_stems: set[str]):
+    """
+    Remove _preview.png and _data.json files whose source image no longer exists.
+    source_stems: set of stems of current source images (e.g. {"abstract_01", "abstract_02"})
+    """
+    removed = 0
+    for f in cat_dir.iterdir():
+        # Match generated files: *_preview.png and *_data.json
+        if f.name.endswith("_preview.png"):
+            base_stem = f.stem.removesuffix("_preview")
+            if base_stem not in source_stems:
+                f.unlink()
+                print(f"  [CLEAN] Removed orphan: {f.name}")
+                removed += 1
+        elif f.name.endswith("_data.json"):
+            base_stem = f.stem.removesuffix("_data")
+            if base_stem not in source_stems:
+                f.unlink()
+                print(f"  [CLEAN] Removed orphan: {f.name}")
+                removed += 1
+    return removed
+
+
 def main():
     print("=" * 60)
     print("Pixel Art Preview Generator")
     print("=" * 60)
 
     catalog = {"categories": []}
+    total_cleaned = 0
 
     for cat_name in CATEGORIES:
         cat_dir = IMAGE_DIR / cat_name
@@ -231,6 +255,10 @@ def main():
             and "_preview" not in f.stem
             and not (f.suffix.lower() == ".png" and "_" in f.stem and len(f.stem.split("_")[-1]) == 8)
         ])
+
+        # Cleanup orphaned preview/data files from deleted images
+        source_stems = {img.stem for img in images}
+        total_cleaned += cleanup_orphans(cat_dir, source_stems)
 
         if not images:
             print("  (no images found)")
@@ -255,6 +283,8 @@ def main():
     total_puzzles = sum(len(c["puzzles"]) for c in catalog["categories"])
     print(f"\n{'=' * 60}")
     print(f"[DONE] Generated {total_puzzles} previews across {len(catalog['categories'])} categories.")
+    if total_cleaned > 0:
+        print(f"[CLEAN] Removed {total_cleaned} orphaned files.")
     print(f"[FILE] Catalog written to: {OUTPUT_JSON}")
     print(f"{'=' * 60}")
 
