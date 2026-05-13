@@ -206,6 +206,7 @@ def process_image(image_path: Path, category: str) -> dict | None:
         "width": grid_w,
         "height": grid_h,
         "isPremium": False,
+        "isMystics": False,
     }
 
 
