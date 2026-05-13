@@ -207,6 +207,9 @@ def process_image(image_path: Path, category: str) -> dict | None:
         "height": grid_h,
         "isPremium": False,
         "isMystics": False,
+        "isJigsaw": False,
+        "jigsawGrid": None,
+        "jigsawAdSlots": None,
     }
 
 
