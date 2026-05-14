@@ -114,7 +114,16 @@ def convert_to_bw_pixel_art(img: Image.Image, grid_size: int):
 
     # Downscale to grid dimensions (nearest neighbor for pixel look)
     scaled = img.resize((grid_w, grid_h), Image.Resampling.NEAREST)
-    scaled_rgb = scaled.convert("RGB")
+
+    # Handle transparent PNGs: composite onto white background so
+    # transparent areas become white instead of black.
+    if scaled.mode in ("RGBA", "LA", "PA"):
+        background = Image.new("RGB", scaled.size, (255, 255, 255))
+        # Use alpha channel as mask for compositing
+        background.paste(scaled, mask=scaled.split()[-1])
+        scaled_rgb = background
+    else:
+        scaled_rgb = scaled.convert("RGB")
 
     # Extract pixel data
     pixels = np.array(scaled_rgb, dtype=np.float32).reshape(-1, 3)
