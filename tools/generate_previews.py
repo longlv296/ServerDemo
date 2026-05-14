@@ -2,7 +2,7 @@
 Pixel Art Preview Generator
 ============================
 Converts source images in ServerDemo/image/[category]/ into:
-  1. B&W pixel art preview PNGs (64-col grid, rendered at 4x scale)
+  1. Color-quantized pixel art preview PNGs (64-col grid, 20 colors, at 2x scale)
   2. Per-image pixel array data JSON files  (_data.json)
   3. A master puzzles.json catalog at the repo root
 
@@ -98,14 +98,17 @@ def kmeans_quantize(pixels: np.ndarray, k: int, max_iter: int = MAX_KMEANS_ITER)
 
     return np.clip(centroids, 0, 255).astype(np.float32)
 
+PREVIEW_COLOR_COUNT = 20  # number of colors for preview quantization
 
-def convert_to_bw_pixel_art(img: Image.Image, grid_size: int):
+
+def convert_to_color_pixel_art(img: Image.Image, grid_size: int, color_count: int = PREVIEW_COLOR_COUNT):
     """
-    Convert an image to B&W pixel art.
+    Convert an image to color-quantized pixel art.
     Returns:
         grid_w, grid_h: grid dimensions
-        color_ids: list[int] — 0 = white, 1 = black for each pixel
-        bw_image: PIL Image of the rendered pixel art
+        color_ids: list[int] — 0 = transparent, 1..N = palette colors
+        palette: dict[int, str] — colorId → hex color (e.g. "#FF6B35")
+        preview_image: PIL Image (RGBA) of the rendered pixel art
     """
     w, h = img.size
     aspect = h / w
@@ -115,56 +118,89 @@ def convert_to_bw_pixel_art(img: Image.Image, grid_size: int):
     # Downscale to grid dimensions (nearest neighbor for pixel look)
     scaled = img.resize((grid_w, grid_h), Image.Resampling.NEAREST)
 
-    # Handle transparent PNGs: composite onto white background so
-    # transparent areas become white instead of black.
-    if scaled.mode in ("RGBA", "LA", "PA"):
+    # Detect transparency
+    has_alpha = scaled.mode in ("RGBA", "LA", "PA")
+    alpha_mask = None
+
+    if has_alpha:
+        # Extract alpha channel before converting to RGB
+        rgba = scaled.convert("RGBA")
+        alpha_data = np.array(rgba)[:, :, 3].flatten()
+        alpha_mask = alpha_data < 128  # True = transparent
+
+        # Composite onto white for RGB extraction (opaque pixels only)
         background = Image.new("RGB", scaled.size, (255, 255, 255))
-        # Use alpha channel as mask for compositing
         background.paste(scaled, mask=scaled.split()[-1])
         scaled_rgb = background
     else:
         scaled_rgb = scaled.convert("RGB")
 
     # Extract pixel data
-    pixels = np.array(scaled_rgb, dtype=np.float32).reshape(-1, 3)
+    all_pixels = np.array(scaled_rgb, dtype=np.float32).reshape(-1, 3)
 
-    # K-Means with k=2 for B&W
-    centroids = kmeans_quantize(pixels, k=2)
+    # Separate opaque pixels for K-Means
+    if alpha_mask is not None:
+        opaque_pixels = all_pixels[~alpha_mask]
+    else:
+        opaque_pixels = all_pixels
 
-    # Determine which centroid is "black" and which is "white"
-    brightness = centroids.sum(axis=1)
-    dark_idx = int(np.argmin(brightness))
-    light_idx = int(np.argmax(brightness))
+    if len(opaque_pixels) == 0:
+        # Entirely transparent image
+        color_ids = [0] * (grid_w * grid_h)
+        palette = {}
+        preview = Image.new("RGBA", (grid_w * PIXEL_SCALE, grid_h * PIXEL_SCALE), (0, 0, 0, 0))
+        return grid_w, grid_h, color_ids, palette, preview
+
+    # K-Means with color_count colors (on opaque pixels only)
+    centroids = kmeans_quantize(opaque_pixels, k=min(color_count, len(np.unique(opaque_pixels, axis=0))))
 
     # Assign each pixel to nearest centroid
-    diffs = pixels[:, None, :] - centroids[None, :, :]
+    diffs = all_pixels[:, None, :] - centroids[None, :, :]
     dists = np.sum(diffs ** 2, axis=2)
     labels = np.argmin(dists, axis=1)
 
-    # Map: dark centroid → 1 (black), light centroid → 0 (white)
-    color_ids = []
-    for label in labels:
-        if label == dark_idx:
-            color_ids.append(1)  # black
-        else:
-            color_ids.append(0)  # white
+    # Build palette: colorId (1-based) → hex color
+    palette = {}
+    for idx, c in enumerate(centroids):
+        r, g, b = int(np.clip(c[0], 0, 255)), int(np.clip(c[1], 0, 255)), int(np.clip(c[2], 0, 255))
+        palette[idx + 1] = f"#{r:02X}{g:02X}{b:02X}"
 
-    # Render pixel art preview image
+    # Build color_ids: transparent → 0, opaque → 1-based label
+    color_ids = []
+    for i in range(len(all_pixels)):
+        if alpha_mask is not None and alpha_mask[i]:
+            color_ids.append(0)  # transparent
+        else:
+            color_ids.append(int(labels[i]) + 1)  # 1-based
+
+    # Render pixel art preview image in "unfilled" grayscale style
+    # Uses the same formula as ColoringScreen.kt for consistency:
+    #   lum = 0.299*R + 0.587*G + 0.114*B
+    #   gray = 180 + (lum * 60 / 255)  → range [180, 240]
     preview_w = grid_w * PIXEL_SCALE
     preview_h = grid_h * PIXEL_SCALE
-    preview = Image.new("RGB", (preview_w, preview_h), (255, 255, 255))
+    preview = Image.new("RGBA", (preview_w, preview_h), (0, 0, 0, 0))
     preview_pixels = preview.load()
 
     for row in range(grid_h):
         for col in range(grid_w):
             idx = row * grid_w + col
-            color = (0, 0, 0) if color_ids[idx] == 1 else (255, 255, 255)
+            cid = color_ids[idx]
+            if cid == 0:
+                color = (0, 0, 0, 0)  # transparent
+            else:
+                c = centroids[cid - 1]
+                r, g, b = float(c[0]), float(c[1]), float(c[2])
+                lum = 0.299 * r + 0.587 * g + 0.114 * b
+                gray = int(180 + (lum * 60 / 255))
+                gray = max(180, min(240, gray))
+                color = (gray, gray, gray, 255)
             # Fill the PIXEL_SCALE x PIXEL_SCALE block
             for dy in range(PIXEL_SCALE):
                 for dx in range(PIXEL_SCALE):
                     preview_pixels[col * PIXEL_SCALE + dx, row * PIXEL_SCALE + dy] = color
 
-    return grid_w, grid_h, color_ids, preview
+    return grid_w, grid_h, color_ids, palette, preview
 
 
 def process_image(image_path: Path, category: str) -> dict | None:
@@ -180,27 +216,30 @@ def process_image(image_path: Path, category: str) -> dict | None:
 
     print(f"  -> Processing {image_path.name}...", end=" ")
 
-    grid_w, grid_h, color_ids, preview_img = convert_to_bw_pixel_art(img, GRID_SIZE)
+    grid_w, grid_h, color_ids, palette, preview_img = convert_to_color_pixel_art(img, GRID_SIZE)
 
     # Save preview PNG
     preview_path = parent / f"{stem}_preview.png"
     preview_img.save(preview_path, "PNG", optimize=True)
 
-    # Save pixel array data JSON
+    # Save pixel array data JSON (includes palette for color rendering)
     data_path = parent / f"{stem}_data.json"
     data_json = {
         "id": stem,
         "width": grid_w,
         "height": grid_h,
         "colorIds": color_ids,
+        "palette": palette,
     }
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(data_json, f, separators=(",", ":"))
 
-    print(f"OK ({grid_w}x{grid_h}, preview: {preview_path.name}, data: {data_path.name})")
+    num_colors = len(palette)
+    print(f"OK ({grid_w}x{grid_h}, {num_colors} colors, preview: {preview_path.name})")
 
     # Determine color count suggestion based on image complexity
-    img_small = img.resize((64, 64), Image.Resampling.LANCZOS).convert("RGB")
+    img_rgb = img.convert("RGBA") if img.mode in ("RGBA", "LA", "PA") else img.convert("RGB")
+    img_small = img_rgb.resize((64, 64), Image.Resampling.LANCZOS).convert("RGB")
     unique_colors = len(set(img_small.getdata()))
     suggested_colors = min(max(8, unique_colors // 20), 20)
 
