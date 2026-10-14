@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T07:13:05+00:00",
+ "updatedAt": "2026-10-14T07:35:57+00:00",
  "categories": [
   {
    "id": "anime",
@@ -65,7 +65,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "da7f13c274db51cf346b44f9f4f5e5a7c8284f7621efdec00f62fa9e46bec2cd",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_1/line_paths.json"
   },
   {
    "id": "anime_3d_10",
@@ -84,7 +85,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "e44226c1185a979eaf636703347aa0520016f73f561570b0d53231f6b853b1bc",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_10/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_10/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_10/line_paths.json"
   },
   {
    "id": "anime_3d_11",
@@ -103,7 +105,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "84c657b220cf7d6699373e49b5a3ad1daeb3bae51d421170e8657a8003dcea26",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_11/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_11/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_11/line_paths.json"
   },
   {
    "id": "anime_3d_12",
@@ -122,7 +125,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "73abdc768861b13a8116315df73464d8242fb5990ba0f1bc99e1771d4230a216",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_12/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_12/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_12/line_paths.json"
   },
   {
    "id": "anime_3d_2",
@@ -141,7 +145,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "90a5d0e6c0aa50a86a2b9656c4cbb1a1e6e8d252a1e8a1744bbb4d1c769e31f9",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_2/line_paths.json"
   },
   {
    "id": "anime_3d_3",
@@ -160,7 +165,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "96d986996b87a66ed65240a7ed58acadbf9b0e2b35943bb5160a602539948cb8",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_3/line_paths.json"
   },
   {
    "id": "anime_3d_5",
@@ -179,7 +185,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "55ef10a0a772a0763a2a90003c18c3fe51e4b277de4a987d009164c6bb8162ec",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_5/line_paths.json"
   },
   {
    "id": "anime_3d_7",
@@ -198,7 +205,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "e9005b76fa7110f371ceb3295fd0c8d4af9438ee511c7b2d06f2bd92f52a47eb",
-   "lineArtThumbnailUrl": "artworks/anime/anime_3d_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_3d_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_3d_7/line_paths.json"
   },
   {
    "id": "anime_4k_1",
@@ -217,7 +225,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "078a9ccf6c444595a990a0d1e9787026d837fa635952f2d7f74a47f98cfcf444",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_1/line_paths.json"
   },
   {
    "id": "anime_4k_10",
@@ -236,7 +245,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "39fe80a29b03976bedad2ff6cd60c4963a4109e2ad1d655b47fe4fbbab4ad608",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_10/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_10/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_10/line_paths.json"
   },
   {
    "id": "anime_4k_2",
@@ -255,7 +265,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "72d8a4f2baf7ab6bf73b6afb95c21757f47c01cf3caf56b1c1047da5be81ad73",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_2/line_paths.json"
   },
   {
    "id": "anime_4k_3",
@@ -274,7 +285,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "9fd35694b470e8692b9db0868ecccba39f9ecb88d33a86e2918254eca1d9c96f",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_3/line_paths.json"
   },
   {
    "id": "anime_4k_4",
@@ -293,7 +305,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "fd721cb66c9a6f68855a65fc00c784c93979e963c5de47d5535c75bc8e452b33",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_4/line_paths.json"
   },
   {
    "id": "anime_4k_5",
@@ -312,7 +325,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "4bc5e3a2e97e2e21f81ccf05a0aed19d8530fe480b912ffa5e57dc4a9371b327",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_5/line_paths.json"
   },
   {
    "id": "anime_4k_6",
@@ -331,7 +345,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "eb0be781cae1af605217cf418f03ce914d36d978321759a824b578d1dbb42ab1",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_6/line_paths.json"
   },
   {
    "id": "anime_4k_7",
@@ -350,7 +365,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "7fbc84626d2e6e7f98bf04a6ed6852675aa127866d7a12e5b3376993b52efac5",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_7/line_paths.json"
   },
   {
    "id": "anime_4k_8",
@@ -369,7 +385,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "22702ccabc95c001e46e9229920ea436f811e86df53fa04402f707727e8b3795",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_8/line_paths.json"
   },
   {
    "id": "anime_4k_9",
@@ -388,7 +405,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "230be56359bfcabad88c97cafd055e1cf8631141cbb596828eb5db8d0345e7fd",
-   "lineArtThumbnailUrl": "artworks/anime/anime_4k_9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_4k_9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_4k_9/line_paths.json"
   },
   {
    "id": "anime_flame_mage",
@@ -418,7 +436,8 @@
      "regionMapUrl": "artworks/anime/anime_flame_mage/levels/easy/region_map.png",
      "paintDataUrl": "artworks/anime/anime_flame_mage/levels/easy/paint_data.json",
      "regionMapSha256": "0ddbbb25be045d98f4cc2f4f355e2ee0a46b0ad0fcb1455e0e5955284f0bc51e",
-     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_flame_mage/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -429,7 +448,8 @@
      "regionMapUrl": "artworks/anime/anime_flame_mage/levels/normal/region_map.png",
      "paintDataUrl": "artworks/anime/anime_flame_mage/levels/normal/paint_data.json",
      "regionMapSha256": "9366adbfba7276387bb1c321734d6c36e27de2294b0a4ce434e8bada515a9b8b",
-     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_flame_mage/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -440,7 +460,8 @@
      "regionMapUrl": "artworks/anime/anime_flame_mage/levels/hard/region_map.png",
      "paintDataUrl": "artworks/anime/anime_flame_mage/levels/hard/paint_data.json",
      "regionMapSha256": "a63801dcc91605f9bf29bc470440939d56b6dec80e94945f665fa05d3026a799",
-     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_flame_mage/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -451,10 +472,12 @@
      "regionMapUrl": "artworks/anime/anime_flame_mage/levels/hell/region_map.png",
      "paintDataUrl": "artworks/anime/anime_flame_mage/levels/hell/paint_data.json",
      "regionMapSha256": "956a374bd1a3aaed57444ddf0cd5a72992487d02b71c601de58efd1b9a37e466",
-     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_flame_mage/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_flame_mage/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_flame_mage/line_paths.json"
   },
   {
    "id": "anime_forest_archer",
@@ -484,7 +507,8 @@
      "regionMapUrl": "artworks/anime/anime_forest_archer/levels/easy/region_map.png",
      "paintDataUrl": "artworks/anime/anime_forest_archer/levels/easy/paint_data.json",
      "regionMapSha256": "d7716e4a474810fbf96ea841ff8b7a72ba48fe1e70931d48d9fd87f9802b5237",
-     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_forest_archer/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -495,7 +519,8 @@
      "regionMapUrl": "artworks/anime/anime_forest_archer/levels/normal/region_map.png",
      "paintDataUrl": "artworks/anime/anime_forest_archer/levels/normal/paint_data.json",
      "regionMapSha256": "2d0c5478fd2d65bdedc8fefaf26894248eac0335eab0337aa15816b2748dfd65",
-     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_forest_archer/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -506,7 +531,8 @@
      "regionMapUrl": "artworks/anime/anime_forest_archer/levels/hard/region_map.png",
      "paintDataUrl": "artworks/anime/anime_forest_archer/levels/hard/paint_data.json",
      "regionMapSha256": "293343dc811cd7b88c7c702c6871398adbf4af6b0d8415046496dc2f70db6728",
-     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_forest_archer/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -517,10 +543,12 @@
      "regionMapUrl": "artworks/anime/anime_forest_archer/levels/hell/region_map.png",
      "paintDataUrl": "artworks/anime/anime_forest_archer/levels/hell/paint_data.json",
      "regionMapSha256": "86d5a9fd512e48ef26e66f54d5926c927c5db27f677b683b1843c29f6d61d34f",
-     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_forest_archer/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_forest_archer/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_forest_archer/line_paths.json"
   },
   {
    "id": "anime_moon_princess",
@@ -550,7 +578,8 @@
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/easy/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/easy/paint_data.json",
      "regionMapSha256": "8c7306a345ddd0a6eb2a3f8e323cc094a81f68ad6862527a1e7ffd7d4244ee2b",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -561,7 +590,8 @@
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/normal/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/normal/paint_data.json",
      "regionMapSha256": "b05f1b42cc54a0b86a10c392718557fc7d4174e10f5915db8b31c1351b214d2a",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -572,7 +602,8 @@
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/hard/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/hard/paint_data.json",
      "regionMapSha256": "18b5675073c2e37e0ccf33e306b5ddf5f47be964e1dc30f2bde70a267602e918",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -583,10 +614,12 @@
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/hell/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/hell/paint_data.json",
      "regionMapSha256": "afa45c587a6d653ee38845a7ea38ca59747fb65154949a90a4aed3ce8347cff4",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_moon_princess/line_paths.json"
   },
   {
    "id": "anime_moon_sorceress",
@@ -616,7 +649,8 @@
      "regionMapUrl": "artworks/anime/anime_moon_sorceress/levels/easy/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_sorceress/levels/easy/paint_data.json",
      "regionMapSha256": "b9a4cb4f152f864a53b301c74e447f46784645b40ee1f06544d5a3f91947bb61",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_sorceress/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -627,7 +661,8 @@
      "regionMapUrl": "artworks/anime/anime_moon_sorceress/levels/normal/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_sorceress/levels/normal/paint_data.json",
      "regionMapSha256": "619d65c5014e90dc734eb6290c583de6dcf1f22105b0c20e8b95ebdc439086a0",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_sorceress/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -638,7 +673,8 @@
      "regionMapUrl": "artworks/anime/anime_moon_sorceress/levels/hard/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_sorceress/levels/hard/paint_data.json",
      "regionMapSha256": "9ca21bd2055ba9ce688cd6a2fdecfe692257c120e7607fe2448ca9d16c18a714",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_sorceress/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -649,10 +685,12 @@
      "regionMapUrl": "artworks/anime/anime_moon_sorceress/levels/hell/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_sorceress/levels/hell/paint_data.json",
      "regionMapSha256": "3068bea60cebffeb459e03bc7a7804ae27ab4824b6e182e784f7d3628b53caf9",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_sorceress/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/anime/anime_moon_sorceress/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_moon_sorceress/line_paths.json"
   },
   {
    "id": "animals_0b256976",
@@ -671,7 +709,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6742352/vector-public-domain-illustrations",
    "regionMapSha256": "064493f40a2cffb4088d294fbdfc49ed1239e8319368c60de755b0d1669cd965",
-   "lineArtThumbnailUrl": "artworks/animals/animals_0b256976/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_0b256976/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_0b256976/line_paths.json"
   },
   {
    "id": "animals_0faebbb7",
@@ -690,7 +729,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6478672/vector-sticker-public-domain-black",
    "regionMapSha256": "95652f23cff3fe0fcc353fdad7ddf482e0dde1431510fa66abbc2c66e9adf574",
-   "lineArtThumbnailUrl": "artworks/animals/animals_0faebbb7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_0faebbb7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_0faebbb7/line_paths.json"
   },
   {
    "id": "animals_189e10ad",
@@ -709,7 +749,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6501084/vector-sticker-public-domain-collage",
    "regionMapSha256": "a879be91407bba3b2b1ff1bb5981e5b3ca492ba07a227f01c689271c562edeff",
-   "lineArtThumbnailUrl": "artworks/animals/animals_189e10ad/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_189e10ad/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_189e10ad/line_paths.json"
   },
   {
    "id": "animals_1e320949",
@@ -728,7 +769,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6673050/vector-public-domain-blue-illustrations",
    "regionMapSha256": "c6031bcbce79fbde760894d39c5f87c8c4ab00175db2a9e76dbb6582ec437f6a",
-   "lineArtThumbnailUrl": "artworks/animals/animals_1e320949/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_1e320949/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_1e320949/line_paths.json"
   },
   {
    "id": "animals_207fb595",
@@ -747,7 +789,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6288508/vector-public-domain-illustrations-red",
    "regionMapSha256": "e162be83b0d76e5ee59dafa93d29cdaf9c83a47782420419195e2ef0bcf7d1c3",
-   "lineArtThumbnailUrl": "artworks/animals/animals_207fb595/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_207fb595/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_207fb595/line_paths.json"
   },
   {
    "id": "animals_2ecc042b",
@@ -766,7 +809,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6864684/vector-sticker-public-domain-illustrations",
    "regionMapSha256": "87ae8354013a967a24ca130c5beca3c2270423c7a85381a4327e6766dafc54b2",
-   "lineArtThumbnailUrl": "artworks/animals/animals_2ecc042b/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_2ecc042b/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_2ecc042b/line_paths.json"
   },
   {
    "id": "animals_3aa4ffd2",
@@ -785,7 +829,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6431116/vector-sticker-public-domain-pink",
    "regionMapSha256": "291d0126db0a9d5e3c735dc5be79d1c57095ba155a3d0b7e801a3e05e4f90043",
-   "lineArtThumbnailUrl": "artworks/animals/animals_3aa4ffd2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_3aa4ffd2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_3aa4ffd2/line_paths.json"
   },
   {
    "id": "animals_4405b803",
@@ -804,7 +849,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6283272/vector-sticker-public-domain-black",
    "regionMapSha256": "01613545a035ff3651996ffccb4aca000715f70ff7aa7bcac425921bd3c45723",
-   "lineArtThumbnailUrl": "artworks/animals/animals_4405b803/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_4405b803/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_4405b803/line_paths.json"
   },
   {
    "id": "animals_4f936d68",
@@ -823,7 +869,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6710930/vector-public-domain-bird-illustrations",
    "regionMapSha256": "6c1b425fc3cb74acf034cb8b0af07d9dd5d46595cbf8c1001653ec1ec96c8d80",
-   "lineArtThumbnailUrl": "artworks/animals/animals_4f936d68/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_4f936d68/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_4f936d68/line_paths.json"
   },
   {
    "id": "animals_5010c7fa",
@@ -842,7 +889,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6481601/vector-sticker-public-domain-illustrations",
    "regionMapSha256": "1e4dd4138d1bf89e859cad5f1dc69fe737c712eda07c9ccd897ccf3816d48389",
-   "lineArtThumbnailUrl": "artworks/animals/animals_5010c7fa/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_5010c7fa/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_5010c7fa/line_paths.json"
   },
   {
    "id": "animals_60a234e8",
@@ -861,7 +909,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6431543/vector-sticker-public-domain-illustrations",
    "regionMapSha256": "efc989c6d1a79f8f1bac3b5bb7f4cfe1dadd23cbb162af78b2926b1f02decbc6",
-   "lineArtThumbnailUrl": "artworks/animals/animals_60a234e8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_60a234e8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_60a234e8/line_paths.json"
   },
   {
    "id": "animals_63ed17bf",
@@ -880,7 +929,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6286586/image-public-domain-pink-illustrations",
    "regionMapSha256": "721894579695acc0c239a6016ad7fc35154c7d1e03762453e289fd8769c1bc37",
-   "lineArtThumbnailUrl": "artworks/animals/animals_63ed17bf/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_63ed17bf/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_63ed17bf/line_paths.json"
   },
   {
    "id": "animals_748aa4a0",
@@ -899,7 +949,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6710499/png-sticker-public-domain",
    "regionMapSha256": "64b3cbcd0beb83feb79002260fbe030c20ad78eff5573b363f7b4380fa6f9964",
-   "lineArtThumbnailUrl": "artworks/animals/animals_748aa4a0/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_748aa4a0/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_748aa4a0/line_paths.json"
   },
   {
    "id": "animals_7bb80dd1",
@@ -918,7 +969,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6742507/vector-public-domain-illustrations-orange",
    "regionMapSha256": "3c8bbdb19afeeebc585143871688956f56e88bb38fd42f0f2efdb6262882cc7d",
-   "lineArtThumbnailUrl": "artworks/animals/animals_7bb80dd1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_7bb80dd1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_7bb80dd1/line_paths.json"
   },
   {
    "id": "animals_a9190699",
@@ -937,7 +989,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6436478/png-sticker-public-domain",
    "regionMapSha256": "fbb66497b0df9d9f49695568683f60ac609e0b14a8b1413ad2d23bb926aad96e",
-   "lineArtThumbnailUrl": "artworks/animals/animals_a9190699/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_a9190699/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_a9190699/line_paths.json"
   },
   {
    "id": "animals_bc6a5bc3",
@@ -956,7 +1009,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6431167/vector-sticker-public-domain-illustrations",
    "regionMapSha256": "c68b0c6f9bf8b05e5c9cd7cb5ff32116ea83690ac05c68e0b89b03e582fd65c7",
-   "lineArtThumbnailUrl": "artworks/animals/animals_bc6a5bc3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_bc6a5bc3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_bc6a5bc3/line_paths.json"
   },
   {
    "id": "animals_bcb1e409",
@@ -975,7 +1029,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6864909/vector-sticker-public-domain-tiger",
    "regionMapSha256": "ff0a58dbb3be5fdad19dd1830fdcc27d710a77c6e22fc551aa1a322730eee91f",
-   "lineArtThumbnailUrl": "artworks/animals/animals_bcb1e409/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_bcb1e409/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_bcb1e409/line_paths.json"
   },
   {
    "id": "animals_d630efb4",
@@ -994,7 +1049,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6481986/vector-sticker-public-domain-green",
    "regionMapSha256": "620db07884179d96a9bba162868c279deaa3f0259466984d4839f997e69aa928",
-   "lineArtThumbnailUrl": "artworks/animals/animals_d630efb4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_d630efb4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_d630efb4/line_paths.json"
   },
   {
    "id": "animals_e7e5a18d",
@@ -1013,7 +1069,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6536252/image-public-domain-illustrations-cat",
    "regionMapSha256": "80561fbdc528ff528d7ed41d6861ebd0cbefb4996979f12291bc8e63f7dfda64",
-   "lineArtThumbnailUrl": "artworks/animals/animals_e7e5a18d/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_e7e5a18d/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_e7e5a18d/line_paths.json"
   },
   {
    "id": "animals_fb56e10f",
@@ -1032,7 +1089,8 @@
    "creator": null,
    "sourceUrl": "https://www.rawpixel.com/image/6870618/png-sticker-public-domain",
    "regionMapSha256": "9c64ffc77d3acc48dacd00c1d7a96d0228f7fb2af6a7e40523d48712341ef3cb",
-   "lineArtThumbnailUrl": "artworks/animals/animals_fb56e10f/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/animals/animals_fb56e10f/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_fb56e10f/line_paths.json"
   },
   {
    "id": "cartoon_3d_1",
@@ -1051,7 +1109,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "e32c8148ba87dc5ca2848b0f5c9b1cc6ed883fef51aa832ace995d63bc90d7be",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_1/line_paths.json"
   },
   {
    "id": "cartoon_3d_10",
@@ -1070,7 +1129,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "2a24346038acb1209d1e92c22745eea5f0c8a58178280b442f628b330832a027",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_10/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_10/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_10/line_paths.json"
   },
   {
    "id": "cartoon_3d_11",
@@ -1089,7 +1149,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "6b747d79312dacb4a76ace326e63d2503e04e843bb16d59c4e2e4ccface1328f",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_11/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_11/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_11/line_paths.json"
   },
   {
    "id": "cartoon_3d_2",
@@ -1108,7 +1169,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "247c8ffbe1702152ca360ddf3f68541f54986d8fcba748f4b2a7ce26cd8e8626",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_2/line_paths.json"
   },
   {
    "id": "cartoon_3d_3",
@@ -1127,7 +1189,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "f18e1ab033dd7c1775664c9e7fa514d0469b88f8c0c7a67c8e8a9314bf7f2d13",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_3/line_paths.json"
   },
   {
    "id": "cartoon_3d_4",
@@ -1146,7 +1209,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "d012d1c2658ecd49f2fbc7383aa762d7a48752419defdc68807ca8b82264c19f",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_4/line_paths.json"
   },
   {
    "id": "cartoon_3d_5",
@@ -1165,7 +1229,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "e73505d02bda495f55618e79fe3a904f929a086fb49ac3f0dbd29b5f977ef5ad",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_5/line_paths.json"
   },
   {
    "id": "cartoon_3d_7",
@@ -1184,7 +1249,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "d89b2e91fe4afbd7f9c1dee249ba2fb67e74c18107fcbf4b1d44f0ee94c13bc8",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_3d_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_3d_7/line_paths.json"
   },
   {
    "id": "cartoon_4k_1",
@@ -1203,7 +1269,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "d9ddcec5ca2a8fa5bba8cc26a8349de7700c4a1e447ef4a84b326d0ca2256962",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_1/line_paths.json"
   },
   {
    "id": "cartoon_4k_10",
@@ -1222,7 +1289,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "f6368b1dd85d6482c25aafbe9be494734fe2070e01a40942872967a278302523",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_10/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_10/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_10/line_paths.json"
   },
   {
    "id": "cartoon_4k_11",
@@ -1241,7 +1309,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "d8a7472df1714fe99c584a9c4209c94bdbc04b65bfc7859efba5e119a3a3161f",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_11/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_11/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_11/line_paths.json"
   },
   {
    "id": "cartoon_4k_12",
@@ -1260,7 +1329,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "70844c054d739f09b1a397fcb6e1d4e8c02db578cdc37c3a0ea5ad670cfa8859",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_12/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_12/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_12/line_paths.json"
   },
   {
    "id": "cartoon_4k_15",
@@ -1279,7 +1349,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "bf76e11dee3b2a8ff3efc0f009768daac2652409aaddfb39954babc514a8fa99",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_15/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_15/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_15/line_paths.json"
   },
   {
    "id": "cartoon_4k_16",
@@ -1298,7 +1369,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "26f2de4317117366080b39ae225014a98ef9b9cb2cf292c38e7cca5a0ed947ac",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_16/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_16/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_16/line_paths.json"
   },
   {
    "id": "cartoon_4k_17",
@@ -1317,7 +1389,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "79149ddfdc250422d9de30d6b6952e82317a12d6d1118fd927e60df8a1e0601f",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_17/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_17/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_17/line_paths.json"
   },
   {
    "id": "cartoon_4k_18",
@@ -1336,7 +1409,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "8599b6fc5ed14cb19c602168c7417aba8900026fcfe1d19ba91eeba97262feff",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_18/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_18/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_18/line_paths.json"
   },
   {
    "id": "cartoon_4k_2",
@@ -1355,7 +1429,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "4c4b38012e04f9da87df14a2d8aa7f910e6ab4c130bc19664605ef464dba3041",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_2/line_paths.json"
   },
   {
    "id": "cartoon_4k_4",
@@ -1374,7 +1449,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "da603342db51a31f9d2b6a81b2e2ff1cab159ce1b81d0c13c33c3a2b7b9596ca",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_4/line_paths.json"
   },
   {
    "id": "cartoon_4k_5",
@@ -1393,7 +1469,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "c6ff863532e1dd613ba1fe8578cb43ccd1061fe2fa8bfcea74b5c08e212d8bc6",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_5/line_paths.json"
   },
   {
    "id": "cartoon_4k_7",
@@ -1412,7 +1489,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "09619be4ff6d94a49ecda762405329529e1e93973fac370e8e57a44e34766336",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_7/line_paths.json"
   },
   {
    "id": "cartoon_4k_8",
@@ -1431,7 +1509,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "3b7333ba983e44ce3e8953e981e7b8003d494bcace4d972f4fe835a5f829e01b",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_8/line_paths.json"
   },
   {
    "id": "cartoon_4k_9",
@@ -1450,7 +1529,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "90f2e3241096bb51e82bbf278ca488ca88d6a057230f2fdf3b95ff2435772de1",
-   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/cartoon/cartoon_4k_9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cartoon_4k_9/line_paths.json"
   },
   {
    "id": "double_4k_1",
@@ -1469,7 +1549,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "7dc71b0cd46680ea3cdabc36c1a969933ffa28d57af12462de4391a1adf1cd02",
-   "lineArtThumbnailUrl": "artworks/popular/double_4k_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/double_4k_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/double_4k_1/line_paths.json"
   },
   {
    "id": "double_4k_2",
@@ -1488,7 +1569,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "54055bba30cc01cc90dbe568ddaf61f3053e53d94e62adf643170afff0974d31",
-   "lineArtThumbnailUrl": "artworks/popular/double_4k_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/double_4k_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/double_4k_2/line_paths.json"
   },
   {
    "id": "double_4k_5",
@@ -1507,7 +1589,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "ccf7b012b8c9995b682fa5195254c61d945d872c560c98276c4423fab137b0a9",
-   "lineArtThumbnailUrl": "artworks/popular/double_4k_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/double_4k_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/double_4k_5/line_paths.json"
   },
   {
    "id": "popular_3d_10",
@@ -1526,7 +1609,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "524d6a691187345d69ce461ffc7b424b3be682f2a5031a18595b41be4ea099e8",
-   "lineArtThumbnailUrl": "artworks/popular/popular_3d_10/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_3d_10/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_3d_10/line_paths.json"
   },
   {
    "id": "popular_3d_11",
@@ -1545,7 +1629,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "ef2bfdf1366569e1ae356bddc5452b38f0f29e93757970221c144650f49c8b07",
-   "lineArtThumbnailUrl": "artworks/popular/popular_3d_11/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_3d_11/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_3d_11/line_paths.json"
   },
   {
    "id": "popular_3d_3",
@@ -1564,7 +1649,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "35a864200b49dc18f424bd98d55b9de77cf9b7946249024d063f827c4563a56f",
-   "lineArtThumbnailUrl": "artworks/popular/popular_3d_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_3d_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_3d_3/line_paths.json"
   },
   {
    "id": "popular_3d_4",
@@ -1583,7 +1669,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "1172bc1729457be8f6eeae4fbd25b85f66f1435b0ab01a2b18a82e9dc2173d10",
-   "lineArtThumbnailUrl": "artworks/popular/popular_3d_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_3d_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_3d_4/line_paths.json"
   },
   {
    "id": "popular_3d_5",
@@ -1602,7 +1689,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "9b44f73138aa241243fe9b50854512f76ddbd3fcf2811d2e135c7090989392ec",
-   "lineArtThumbnailUrl": "artworks/popular/popular_3d_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_3d_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_3d_5/line_paths.json"
   },
   {
    "id": "popular_3d_6",
@@ -1621,7 +1709,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "68410bd44a1dab406c1d3685db256c043f55fef411513e4c1d7fa9c9e3f98aec",
-   "lineArtThumbnailUrl": "artworks/popular/popular_3d_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_3d_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_3d_6/line_paths.json"
   },
   {
    "id": "popular_3d_9",
@@ -1640,7 +1729,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "644a9b792c38ab5f704a089866ecb019f951575466433d35d36f8a36c66de8c1",
-   "lineArtThumbnailUrl": "artworks/popular/popular_3d_9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_3d_9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_3d_9/line_paths.json"
   },
   {
    "id": "popular_4k_2",
@@ -1659,7 +1749,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "f557ed3c5e25f7450c3592a10b9b3bcdf96c6ef651da50e38b2d1c361347d5ea",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_2/line_paths.json"
   },
   {
    "id": "popular_4k_3",
@@ -1678,7 +1769,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "8abd02e6a01b9f600edbf12b7cb9fec02507d7375ef8e348807b8bf55cf34e02",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_3/line_paths.json"
   },
   {
    "id": "popular_4k_4",
@@ -1697,7 +1789,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "62fd7f22de207c341f65ed68e2b120a9e444d7fd64b8af802609d80696726d09",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_4/line_paths.json"
   },
   {
    "id": "popular_4k_5",
@@ -1716,7 +1809,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "76f6667994a6bf62a132f6cc7b01aeabf339ddd795bca8986cc7bfc251501794",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_5/line_paths.json"
   },
   {
    "id": "popular_4k_6",
@@ -1735,7 +1829,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "4d0d921715c3381519f2c030e47ebc4313d135ea4397fdf7999367612e391b6d",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_6/line_paths.json"
   },
   {
    "id": "popular_4k_7",
@@ -1754,7 +1849,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "23dbeb13c22dad4c5f624fed07d03c9b93b7b1b184ad6424e8779c2a9a5d39bb",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_7/line_paths.json"
   },
   {
    "id": "popular_4k_8",
@@ -1773,7 +1869,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "1037065bf3f3e63b766e0edb61908da40bbaffbee252168d50f5b105c8b85c87",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_8/line_paths.json"
   },
   {
    "id": "popular_4k_9",
@@ -1792,7 +1889,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "b0d583b90addb2775baed797303bce6ab0a9901656e8e17d38b766f82c9f7510",
-   "lineArtThumbnailUrl": "artworks/popular/popular_4k_9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/popular/popular_4k_9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/popular/popular_4k_9/line_paths.json"
   },
   {
    "id": "gaming_3d_1",
@@ -1811,7 +1909,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "c29e0e7fbef113a18bc84feb4f41edf059a825ec3dc4d20268800cb949f2890c",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_3d_1/line_paths.json"
   },
   {
    "id": "gaming_3d_2",
@@ -1830,7 +1929,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "f3b0939212e86b67d038695605703acaf5277918a5cf510613717bab76b6d6d2",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_3d_2/line_paths.json"
   },
   {
    "id": "gaming_3d_3",
@@ -1849,7 +1949,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "ce26dc5ba1417455118087ac6239670cc812923177df59f3a8dd06791f106aae",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_3d_3/line_paths.json"
   },
   {
    "id": "gaming_3d_4",
@@ -1868,7 +1969,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "3c15803f85fcc6b011c951afeae9b2248d19d626f4122106a3c98654a6c386c8",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_3d_4/line_paths.json"
   },
   {
    "id": "gaming_3d_6",
@@ -1887,7 +1989,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "a13ae8b377d19b9594abb6e3cba624c205d9ce2ac31782d0987f3cee368fb976",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_3d_6/line_paths.json"
   },
   {
    "id": "gaming_3d_7",
@@ -1906,7 +2009,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "c00868c4bab36f3043eba411934b42bd2a693c2368464db9367128fa6b6417e6",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_3d_7/line_paths.json"
   },
   {
    "id": "gaming_3d_8",
@@ -1925,7 +2029,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "cb25fa678ec41c673a25047b6a1334479fba76e43e78549402bc039810a4c6ce",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_3d_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_3d_8/line_paths.json"
   },
   {
    "id": "gaming_4k_10",
@@ -1944,7 +2049,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "fb8f1f752cb1818fd86179f9e11f6c562ba7615ac4269fd39215a0d005e01d70",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_10/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_10/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_4k_10/line_paths.json"
   },
   {
    "id": "gaming_4k_2",
@@ -1963,7 +2069,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "9ea213b1480c92e05cfea6e6f6bd186c2937da21454945b6499ae42923a4ff80",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_4k_2/line_paths.json"
   },
   {
    "id": "gaming_4k_3",
@@ -1982,7 +2089,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "8d4e8057fbf7e08d8955a18e78c79b5d4f0f4173115501554d201cdc0896260c",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_4k_3/line_paths.json"
   },
   {
    "id": "gaming_4k_4",
@@ -2001,7 +2109,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "c1a6a4d279bcaaf7e390b2f65f73b660a864e37ef8b56f212d97862c73aeb2d1",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_4k_4/line_paths.json"
   },
   {
    "id": "gaming_4k_6",
@@ -2020,7 +2129,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "bee5a716ee5a403bb3e9e7e211f6246208eb352c3c3ce62f00620c1c800683d4",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_4k_6/line_paths.json"
   },
   {
    "id": "gaming_4k_8",
@@ -2039,7 +2149,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "29c96d37400b86b4b8d0a78f7d422deff6ff6c377c980c8539881922ed504933",
-   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/gaming/gaming_4k_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/gaming/gaming_4k_8/line_paths.json"
   },
   {
    "id": "sports_3d_1",
@@ -2058,7 +2169,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "68afc41919881f6a77ff70fb267672cd02398000091cad27a9725818d14f9466",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_1/line_paths.json"
   },
   {
    "id": "sports_3d_10",
@@ -2077,7 +2189,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "f6dbeb1979c35555550f970e020c5137102694e9ba3dd3ab71ab9c5c34a549de",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_10/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_10/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_10/line_paths.json"
   },
   {
    "id": "sports_3d_11",
@@ -2096,7 +2209,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "db63fa8c4e89665da69f5566b19084bf45c5091dccef517ccf3c11330bee92cc",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_11/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_11/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_11/line_paths.json"
   },
   {
    "id": "sports_3d_12",
@@ -2115,7 +2229,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "46b480a08237fa0fa99ac26af93596a3ac93f0e84beb047222bfefd2a14cba53",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_12/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_12/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_12/line_paths.json"
   },
   {
    "id": "sports_3d_2",
@@ -2134,7 +2249,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "9d0f7d9f6a10a2d0f6124891038f29b605ba040e8c308214491659fa0dbbd640",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_2/line_paths.json"
   },
   {
    "id": "sports_3d_4",
@@ -2153,7 +2269,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "cd0b34fb4c69fd76be1b49514716a11ae0d79d993700a60d654094104bb356c4",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_4/line_paths.json"
   },
   {
    "id": "sports_3d_6",
@@ -2172,7 +2289,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "9ef87670892bae6ba9fa0dd535e6c72519ff214b06196e998a859b0527164ca3",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_6/line_paths.json"
   },
   {
    "id": "sports_3d_9",
@@ -2191,7 +2309,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "452006b39ec566f37e18548825b1231cd789fdae1231520fdbd84f38aec7c61f",
-   "lineArtThumbnailUrl": "artworks/sports/sports_3d_9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_3d_9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_3d_9/line_paths.json"
   },
   {
    "id": "sports_4k_1",
@@ -2210,7 +2329,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "b9bb5baf7143d00791d4893e405152c97f2a0a16dfeaec63d08a0a4898d45bf4",
-   "lineArtThumbnailUrl": "artworks/sports/sports_4k_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_4k_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_4k_1/line_paths.json"
   },
   {
    "id": "sports_4k_11",
@@ -2229,7 +2349,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "abc48ee6bdb7ea625f02465d01cde092c785cdf8da05edb38a28af510de11667",
-   "lineArtThumbnailUrl": "artworks/sports/sports_4k_11/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_4k_11/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_4k_11/line_paths.json"
   },
   {
    "id": "sports_4k_12",
@@ -2248,7 +2369,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "430887961ac50574fd94f119be58c655c238dc9e0e54f07794b6a11b426978f5",
-   "lineArtThumbnailUrl": "artworks/sports/sports_4k_12/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_4k_12/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_4k_12/line_paths.json"
   },
   {
    "id": "sports_4k_3",
@@ -2267,7 +2389,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "efd46612d17743f952aa9c2c9fe03be5040e405ecc4094cf48542d0c83c1df72",
-   "lineArtThumbnailUrl": "artworks/sports/sports_4k_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_4k_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_4k_3/line_paths.json"
   },
   {
    "id": "sports_4k_6",
@@ -2286,7 +2409,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "5e9b7f06d67de1634fb33c4fee659f681655f7985f0f076763e2f20c5b6eb90a",
-   "lineArtThumbnailUrl": "artworks/sports/sports_4k_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_4k_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_4k_6/line_paths.json"
   },
   {
    "id": "sports_4k_7",
@@ -2305,7 +2429,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "58e1b98e0f1e10c992d8c62b8b80f1e684613b17c29e80056c96d38ebdafa5ba",
-   "lineArtThumbnailUrl": "artworks/sports/sports_4k_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_4k_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_4k_7/line_paths.json"
   },
   {
    "id": "sports_4k_8",
@@ -2324,7 +2449,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "de7dd4a76b2f2de9004c2e7a78d3f515d206b01d94e26baa85f684c2a4a9d397",
-   "lineArtThumbnailUrl": "artworks/sports/sports_4k_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/sports/sports_4k_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/sports_4k_8/line_paths.json"
   },
   {
    "id": "space_3d_1",
@@ -2343,7 +2469,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "1bb7957b6ea5eb4e99d9195a82b892ea809c889420bd77739d44880e9fa54fd7",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_1/line_paths.json"
   },
   {
    "id": "space_3d_11",
@@ -2362,7 +2489,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "a79bdb9bfe39f5d3f0819bed815c41349fe6d0ea71410d894308b18396103b17",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_11/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_11/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_11/line_paths.json"
   },
   {
    "id": "space_3d_12",
@@ -2381,7 +2509,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "430bdbd79369af09eba7c5cb1d0b350fa319c6a7b8951c1ecb0c77ea365ad8a3",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_12/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_12/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_12/line_paths.json"
   },
   {
    "id": "space_3d_2",
@@ -2400,7 +2529,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "edec9de8a2e844a8ebcf976d607d4104193702fdb64b3b710feab0bb1e11144f",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_2/line_paths.json"
   },
   {
    "id": "space_3d_6",
@@ -2419,7 +2549,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "cd4c00db4c6caf8b3816adeb669773cf971c84be5c24ffc4e0fde688af0441a0",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_6/line_paths.json"
   },
   {
    "id": "space_3d_7",
@@ -2438,7 +2569,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "31fb3d15b05fd0557140e4ad713f2a5543460d8502b8bf13812720b91a9da847",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_7/line_paths.json"
   },
   {
    "id": "space_3d_8",
@@ -2457,7 +2589,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "9ed71a59e05f0370c390b92b281bdd11e2d7a0e364be8d11307ad10f92de62a3",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_8/line_paths.json"
   },
   {
    "id": "space_3d_9",
@@ -2476,7 +2609,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "e0fa68efe351a47ed8aabc1aa2a1a460aea98fc82e0100a27b700cc2800ef24d",
-   "lineArtThumbnailUrl": "artworks/space/space_3d_9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_3d_9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_3d_9/line_paths.json"
   },
   {
    "id": "space_4k_9",
@@ -2495,7 +2629,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "2b5370a94c1e5582cd5eddf81262bc4bf85aee19c7748a4d908e8536f5d52022",
-   "lineArtThumbnailUrl": "artworks/space/space_4k_9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/space/space_4k_9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/space/space_4k_9/line_paths.json"
   },
   {
    "id": "nature_3d_1",
@@ -2514,7 +2649,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "979f589b207caf5fb6fc136b68f732b0304bf4213cc92c07e9add6a13821b978",
-   "lineArtThumbnailUrl": "artworks/nature/nature_3d_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_3d_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_3d_1/line_paths.json"
   },
   {
    "id": "nature_3d_3",
@@ -2533,7 +2669,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "973bb3797c296fdd601e04e2b5decf3e5017cd3e0924df45db68740536ed5157",
-   "lineArtThumbnailUrl": "artworks/nature/nature_3d_3/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_3d_3/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_3d_3/line_paths.json"
   },
   {
    "id": "nature_3d_5",
@@ -2552,7 +2689,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "5a8ccc0bbaef947ba26d800ed31e08b25fda0cf535927f5b104e8443714f87c6",
-   "lineArtThumbnailUrl": "artworks/nature/nature_3d_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_3d_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_3d_5/line_paths.json"
   },
   {
    "id": "nature_4k_1",
@@ -2571,7 +2709,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "f4aeccea8d03cb82d528318535e960998ecacbb78c7ac61b383edffb59ef45b0",
-   "lineArtThumbnailUrl": "artworks/nature/nature_4k_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_4k_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_4k_1/line_paths.json"
   },
   {
    "id": "nature_4k_2",
@@ -2590,7 +2729,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "975fc47a1be506bece3951a0efe42fb3b682281ec7a218bc6ca12c32c0723a54",
-   "lineArtThumbnailUrl": "artworks/nature/nature_4k_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_4k_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_4k_2/line_paths.json"
   },
   {
    "id": "nature_4k_4",
@@ -2609,7 +2749,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "dcfe4577685e5393f7797ed2a19515da6784a47d60bb9dc3478b374a8bc3a9e1",
-   "lineArtThumbnailUrl": "artworks/nature/nature_4k_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_4k_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_4k_4/line_paths.json"
   },
   {
    "id": "nature_4k_7",
@@ -2628,7 +2769,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "838e809860509e80a0d20d5507cd71497e1773e9b2ddaacbc35041fd7a30909d",
-   "lineArtThumbnailUrl": "artworks/nature/nature_4k_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_4k_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_4k_7/line_paths.json"
   },
   {
    "id": "nature_4k_8",
@@ -2647,7 +2789,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "313da457c512260191c862f7503a6cca609dd03f10cbb7e5006e07a2bd19af13",
-   "lineArtThumbnailUrl": "artworks/nature/nature_4k_8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/nature/nature_4k_8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/nature_4k_8/line_paths.json"
   },
   {
    "id": "ramadan_4k_1",
@@ -2666,7 +2809,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "36670894b2fa2b1bff7163cf4163f9c9990310631b3eb90cfac0f0f24d301003",
-   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_1/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_1/line_art_thumb.webp",
+   "linePathsUrl": "artworks/ramadan/ramadan_4k_1/line_paths.json"
   },
   {
    "id": "ramadan_4k_2",
@@ -2685,7 +2829,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "0eb0c4d70b3066ad46a9287e9800858cf0c8c9a51377f160d26c3052bce29ba6",
-   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_2/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_2/line_art_thumb.webp",
+   "linePathsUrl": "artworks/ramadan/ramadan_4k_2/line_paths.json"
   },
   {
    "id": "ramadan_4k_4",
@@ -2704,7 +2849,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "fa88a492bd8b823a0bad8f63bf80985b515fada0b36a1a634327f7de4b95d34a",
-   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_4/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_4/line_art_thumb.webp",
+   "linePathsUrl": "artworks/ramadan/ramadan_4k_4/line_paths.json"
   },
   {
    "id": "ramadan_4k_5",
@@ -2723,7 +2869,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "2889db47ddffa43bce1ee90431ebdeef2d7a876cd1268553554918b16ac1c510",
-   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_5/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_5/line_art_thumb.webp",
+   "linePathsUrl": "artworks/ramadan/ramadan_4k_5/line_paths.json"
   },
   {
    "id": "ramadan_4k_6",
@@ -2742,7 +2889,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "8b7ca0df5422a3e3b9b19cdb512f8ff2d099563e065c1da49b2e07efd5566077",
-   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_6/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_6/line_art_thumb.webp",
+   "linePathsUrl": "artworks/ramadan/ramadan_4k_6/line_paths.json"
   },
   {
    "id": "ramadan_4k_7",
@@ -2761,7 +2909,8 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "c432b3b3d1fbdbf390026d17c51de71322034f0b0e85790e71f0afd301dfdac2",
-   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_7/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/ramadan/ramadan_4k_7/line_art_thumb.webp",
+   "linePathsUrl": "artworks/ramadan/ramadan_4k_7/line_paths.json"
   },
   {
    "id": "chibi_01_strawberry_girl",
@@ -2791,7 +2940,8 @@
      "regionMapUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/easy/paint_data.json",
      "regionMapSha256": "40cc80a7a417cf2ba91b293a2007b726f8b15b47124ad7f2aa7b63eca27d3d20",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -2802,7 +2952,8 @@
      "regionMapUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/normal/paint_data.json",
      "regionMapSha256": "ee62a3fe3a651b2589f004037a51cf57e60f400af9d7620b99aa78344fd6d97e",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -2813,7 +2964,8 @@
      "regionMapUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hard/paint_data.json",
      "regionMapSha256": "925fabed10ed7c3079641093fe339accd715d0687071de8dc269057e9f25fd8e",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -2824,10 +2976,12 @@
      "regionMapUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hell/paint_data.json",
      "regionMapSha256": "c0a32ec1aa42f94f946ecc4d17c6782078136b91526c44087bc9318d1bebb213",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_01_strawberry_girl/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_01_strawberry_girl/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_01_strawberry_girl/line_paths.json"
   },
   {
    "id": "chibi_02_little_witch",
@@ -2857,7 +3011,8 @@
      "regionMapUrl": "artworks/chibi/chibi_02_little_witch/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_02_little_witch/levels/easy/paint_data.json",
      "regionMapSha256": "bf2526340acd9bc1907236001f203ed14f8ae089ca225bd07e0a5bcf0276c8bb",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_02_little_witch/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -2868,7 +3023,8 @@
      "regionMapUrl": "artworks/chibi/chibi_02_little_witch/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_02_little_witch/levels/normal/paint_data.json",
      "regionMapSha256": "0bf50cd346f965153995a016ce4629fdff544df219d1c69ce8a6440fd49db403",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_02_little_witch/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -2879,7 +3035,8 @@
      "regionMapUrl": "artworks/chibi/chibi_02_little_witch/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_02_little_witch/levels/hard/paint_data.json",
      "regionMapSha256": "45c61f5a886e1f49249413c1d8fdfe97681bd991a5bd5107158c3f3812f49c90",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_02_little_witch/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -2890,10 +3047,12 @@
      "regionMapUrl": "artworks/chibi/chibi_02_little_witch/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_02_little_witch/levels/hell/paint_data.json",
      "regionMapSha256": "d3483f13a2fc5e9f239a22bb7b0f48183f4292976251dd23999a3df73960f97a",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_02_little_witch/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_02_little_witch/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_02_little_witch/line_paths.json"
   },
   {
    "id": "chibi_03_space_astronaut",
@@ -2923,7 +3082,8 @@
      "regionMapUrl": "artworks/chibi/chibi_03_space_astronaut/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_03_space_astronaut/levels/easy/paint_data.json",
      "regionMapSha256": "39a95d57522c41451fa4c4e1962f2eea157b791cce01ef3380c069bce88b6815",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_03_space_astronaut/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -2934,7 +3094,8 @@
      "regionMapUrl": "artworks/chibi/chibi_03_space_astronaut/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_03_space_astronaut/levels/normal/paint_data.json",
      "regionMapSha256": "13f26da94f4daac1019ecd22ac5308d590c6a3c9192d26d77fa3ee16b55bdf0d",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_03_space_astronaut/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -2945,7 +3106,8 @@
      "regionMapUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hard/paint_data.json",
      "regionMapSha256": "03bb18daefe41da87bfe18e4b1a9de0147ca6166784e84af0a249b19e95069c8",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -2956,10 +3118,12 @@
      "regionMapUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hell/paint_data.json",
      "regionMapSha256": "4daee2920836c1a7cd79a5b9c3459892288ba90c8b56d827908d88f553bc1084",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_03_space_astronaut/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_03_space_astronaut/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_03_space_astronaut/line_paths.json"
   },
   {
    "id": "chibi_04_cupcake_chef",
@@ -2989,7 +3153,8 @@
      "regionMapUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/easy/paint_data.json",
      "regionMapSha256": "3617c9d73e46d66c495d195e614cca1de69c1aada297d5e8dbfc9a6706990844",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3000,7 +3165,8 @@
      "regionMapUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/normal/paint_data.json",
      "regionMapSha256": "8332db62b301994abc2aee3434126656d8e040541de610ca104de8fe71da4ee9",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3011,7 +3177,8 @@
      "regionMapUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hard/paint_data.json",
      "regionMapSha256": "264e6ccec8f587f4d46e6d7c79147a1dd4dc2ccd798702219d0104a278edc3f6",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3022,10 +3189,12 @@
      "regionMapUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hell/paint_data.json",
      "regionMapSha256": "4359f1f7dca257596056fe57e93886490c9f8300847fdce9879bc565148ba775",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_04_cupcake_chef/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_04_cupcake_chef/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_04_cupcake_chef/line_paths.json"
   },
   {
    "id": "chibi_05_little_knight",
@@ -3055,7 +3224,8 @@
      "regionMapUrl": "artworks/chibi/chibi_05_little_knight/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_05_little_knight/levels/easy/paint_data.json",
      "regionMapSha256": "1db239b7758630010ea00fe64349d0c8957176983678284b29530414631b4010",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_05_little_knight/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3066,7 +3236,8 @@
      "regionMapUrl": "artworks/chibi/chibi_05_little_knight/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_05_little_knight/levels/normal/paint_data.json",
      "regionMapSha256": "95b55779a7e7b685f1a7fd09a5a4f71bb3613be6e9b0d1521c121f7ce660994e",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_05_little_knight/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3077,7 +3248,8 @@
      "regionMapUrl": "artworks/chibi/chibi_05_little_knight/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_05_little_knight/levels/hard/paint_data.json",
      "regionMapSha256": "8298febc658b3d30f3af5d7cf0d9eca647f0764c1417aadc126933492eda17ad",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_05_little_knight/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3088,10 +3260,12 @@
      "regionMapUrl": "artworks/chibi/chibi_05_little_knight/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_05_little_knight/levels/hell/paint_data.json",
      "regionMapSha256": "843ee151997937860ef1918e942638bda0d13887eb1c898e1bc7f4c390e2d640",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_05_little_knight/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_05_little_knight/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_05_little_knight/line_paths.json"
   },
   {
    "id": "chibi_06_little_mermaid",
@@ -3121,7 +3295,8 @@
      "regionMapUrl": "artworks/chibi/chibi_06_little_mermaid/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_06_little_mermaid/levels/easy/paint_data.json",
      "regionMapSha256": "eb832ab15d4f1d1898f4cbd4edb2434d1a29e7f709a901fcc676ebc19834e148",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_06_little_mermaid/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3132,7 +3307,8 @@
      "regionMapUrl": "artworks/chibi/chibi_06_little_mermaid/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_06_little_mermaid/levels/normal/paint_data.json",
      "regionMapSha256": "05cb3c875f5dcf94ba181f9df3a07b35eb885d2be830c4ced49d4d6b96694a06",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_06_little_mermaid/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3143,7 +3319,8 @@
      "regionMapUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hard/paint_data.json",
      "regionMapSha256": "088f6d61668b6320b24721825156939338573c8d14bde81847385dee1b8ed7f7",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3154,10 +3331,12 @@
      "regionMapUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hell/paint_data.json",
      "regionMapSha256": "8f575a72bcf0f405e62c4c5b19474c6c72bd824e6bcfadf544aa1c8d85ef096c",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_06_little_mermaid/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_06_little_mermaid/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_06_little_mermaid/line_paths.json"
   },
   {
    "id": "chibi_07_frog_raincoat_girl",
@@ -3187,7 +3366,8 @@
      "regionMapUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/easy/paint_data.json",
      "regionMapSha256": "3079282eed72a51bbd8cdbdfbf0159e0718f5f60cd8882c30d403824b5994d52",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3198,7 +3378,8 @@
      "regionMapUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/normal/paint_data.json",
      "regionMapSha256": "23835566c2c18a7418564c702aeb275ab9f2a850ce18db201cddf89db44c190d",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3209,7 +3390,8 @@
      "regionMapUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hard/paint_data.json",
      "regionMapSha256": "59abfa25c32db6eb982242cc60a23c9ae7fc75177b450ad480e8238f76d3f757",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3220,10 +3402,12 @@
      "regionMapUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hell/paint_data.json",
      "regionMapSha256": "9dc5c370e0461dc386c5407709ecc38d4a3c7f4d0fc836f70c8f168ad3135537",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_07_frog_raincoat_girl/line_paths.json"
   },
   {
    "id": "chibi_08_sunflower_gardener",
@@ -3253,7 +3437,8 @@
      "regionMapUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/easy/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/easy/paint_data.json",
      "regionMapSha256": "cfc3e1214994cca521baf1eae8e2684191cfecdcbabe91ca2751f03ed3c27792",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3264,7 +3449,8 @@
      "regionMapUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/normal/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/normal/paint_data.json",
      "regionMapSha256": "5357f640030b424d3e35b7ec00f47aacef05ec7e31685fbfa6117cfe60d1636e",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3275,7 +3461,8 @@
      "regionMapUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hard/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hard/paint_data.json",
      "regionMapSha256": "aeb1ae7a2bea9343a194a95233be1425de8ff249a5f82d2da871962ecaadfef0",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3286,10 +3473,12 @@
      "regionMapUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hell/region_map.png",
      "paintDataUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hell/paint_data.json",
      "regionMapSha256": "814208c990c89b45fa581f0ad856c6340ce4ec0a7a112f20d615f9e52a495e80",
-     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_08_sunflower_gardener/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_08_sunflower_gardener/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_08_sunflower_gardener/line_paths.json"
   },
   {
    "id": "flowers_065d339f",
@@ -3319,7 +3508,8 @@
      "regionMapUrl": "artworks/flowers/flowers_065d339f/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_065d339f/levels/easy/paint_data.json",
      "regionMapSha256": "1e7908e827074c25e0bb4e3d775ef8258310d7c68582b42d5baac9203b7052d7",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_065d339f/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3330,7 +3520,8 @@
      "regionMapUrl": "artworks/flowers/flowers_065d339f/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_065d339f/levels/normal/paint_data.json",
      "regionMapSha256": "94030b81298f92f9c41e1a10a6ff908b114266085e59dfab7e71af049c3713d5",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_065d339f/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3341,7 +3532,8 @@
      "regionMapUrl": "artworks/flowers/flowers_065d339f/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_065d339f/levels/hard/paint_data.json",
      "regionMapSha256": "6756a278946d6c0edcd44ede9a79f7b5e30f285b20b805d3b93384ca2aae528b",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_065d339f/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3352,10 +3544,12 @@
      "regionMapUrl": "artworks/flowers/flowers_065d339f/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_065d339f/levels/hell/paint_data.json",
      "regionMapSha256": "602ea9aa6d329daaf7a34cf973813cab11762a92664aaf256d2a462696267bc3",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_065d339f/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_065d339f/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_065d339f/line_paths.json"
   },
   {
    "id": "flowers_2f0bd8ae",
@@ -3385,7 +3579,8 @@
      "regionMapUrl": "artworks/flowers/flowers_2f0bd8ae/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_2f0bd8ae/levels/easy/paint_data.json",
      "regionMapSha256": "b3cea4d5f06e15b66b9c16626909a2109f071bb1604f123e85fb1b789c629aa6",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_2f0bd8ae/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3396,7 +3591,8 @@
      "regionMapUrl": "artworks/flowers/flowers_2f0bd8ae/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_2f0bd8ae/levels/normal/paint_data.json",
      "regionMapSha256": "b663db677522ad27e2dd036c0394d2b45591a2ff4dae59b665b03143dbf6df01",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_2f0bd8ae/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3407,7 +3603,8 @@
      "regionMapUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hard/paint_data.json",
      "regionMapSha256": "776657d89ea7d73225a481892a8e6978119df1fcf7066696632cca8c96d1e500",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3418,10 +3615,12 @@
      "regionMapUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hell/paint_data.json",
      "regionMapSha256": "da59d69a081cdc5d17e1053228ce509db316a153ccbc4b60aea955d709855119",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_2f0bd8ae/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_2f0bd8ae/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_2f0bd8ae/line_paths.json"
   },
   {
    "id": "flowers_6de2c219",
@@ -3451,7 +3650,8 @@
      "regionMapUrl": "artworks/flowers/flowers_6de2c219/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_6de2c219/levels/easy/paint_data.json",
      "regionMapSha256": "865984ecc27de505c2120006337e7e00bc9940d686d78c41a0feab4c28a7c6e4",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_6de2c219/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3462,7 +3662,8 @@
      "regionMapUrl": "artworks/flowers/flowers_6de2c219/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_6de2c219/levels/normal/paint_data.json",
      "regionMapSha256": "954116a1733a1465681d22bce8454560995fc6e25b91e102056733a099cd2b2b",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_6de2c219/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3473,7 +3674,8 @@
      "regionMapUrl": "artworks/flowers/flowers_6de2c219/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_6de2c219/levels/hard/paint_data.json",
      "regionMapSha256": "17b26a31ac77c59d7195a76f1e1d990181955f33aaf1b3c4a9548cbb28912aa4",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_6de2c219/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3484,10 +3686,12 @@
      "regionMapUrl": "artworks/flowers/flowers_6de2c219/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_6de2c219/levels/hell/paint_data.json",
      "regionMapSha256": "30f94b986594a35c2350db9813a59f0d77b361acb4ebdccdfede4b0040b9628b",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_6de2c219/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_6de2c219/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_6de2c219/line_paths.json"
   },
   {
    "id": "flowers_7b3610ef",
@@ -3517,7 +3721,8 @@
      "regionMapUrl": "artworks/flowers/flowers_7b3610ef/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_7b3610ef/levels/easy/paint_data.json",
      "regionMapSha256": "03be82a236d6aeadd461346f8085cadab5bba27517dc5b190bb75e18e2cb2bd4",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_7b3610ef/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3528,7 +3733,8 @@
      "regionMapUrl": "artworks/flowers/flowers_7b3610ef/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_7b3610ef/levels/normal/paint_data.json",
      "regionMapSha256": "e762ad076fdfad3d5f25d48897aea108a598fd1378415122dfc3dae55db2a5a9",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_7b3610ef/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3539,7 +3745,8 @@
      "regionMapUrl": "artworks/flowers/flowers_7b3610ef/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_7b3610ef/levels/hard/paint_data.json",
      "regionMapSha256": "e34837a4dae9dc37b8746b960337d0fa4ed42f3bac80111340205f6d1200d8c0",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_7b3610ef/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3550,10 +3757,12 @@
      "regionMapUrl": "artworks/flowers/flowers_7b3610ef/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_7b3610ef/levels/hell/paint_data.json",
      "regionMapSha256": "5fdd2853d9359785cd027d2fa097348626915237083865c8a0ab21381fa367a6",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_7b3610ef/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_7b3610ef/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_7b3610ef/line_paths.json"
   },
   {
    "id": "flowers_9cebb151",
@@ -3583,7 +3792,8 @@
      "regionMapUrl": "artworks/flowers/flowers_9cebb151/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_9cebb151/levels/easy/paint_data.json",
      "regionMapSha256": "58347c11ed7f73b71dc8e782267059f49dffd0ba0216ca790580917f846b3788",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_9cebb151/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3594,7 +3804,8 @@
      "regionMapUrl": "artworks/flowers/flowers_9cebb151/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_9cebb151/levels/normal/paint_data.json",
      "regionMapSha256": "56505f95e5f112f4a474f46ca1c1efeeedf827a733934504706ebbb7b3aceb4a",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_9cebb151/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3605,7 +3816,8 @@
      "regionMapUrl": "artworks/flowers/flowers_9cebb151/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_9cebb151/levels/hard/paint_data.json",
      "regionMapSha256": "f7e4685ba64235520c0a828bc82c8384e8696a24d62bfb73c1b2e6832aa7b70f",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_9cebb151/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3616,10 +3828,12 @@
      "regionMapUrl": "artworks/flowers/flowers_9cebb151/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_9cebb151/levels/hell/paint_data.json",
      "regionMapSha256": "7326391b4d185d31b7a021d7d8a0dd1f8136c8cd13146fe50a86892e9402c5e2",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_9cebb151/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_9cebb151/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_9cebb151/line_paths.json"
   },
   {
    "id": "flowers_a1143004",
@@ -3649,7 +3863,8 @@
      "regionMapUrl": "artworks/flowers/flowers_a1143004/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_a1143004/levels/easy/paint_data.json",
      "regionMapSha256": "35e2def02f7e74f4f47ddc291d90de7c39d46e1d9827eee4996d228f73058765",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_a1143004/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3660,7 +3875,8 @@
      "regionMapUrl": "artworks/flowers/flowers_a1143004/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_a1143004/levels/normal/paint_data.json",
      "regionMapSha256": "1cc9cf9a5e03718f6e188e95f3d3677b149976ddd56d79a76bcbafe41947a858",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_a1143004/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3671,7 +3887,8 @@
      "regionMapUrl": "artworks/flowers/flowers_a1143004/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_a1143004/levels/hard/paint_data.json",
      "regionMapSha256": "3cded1f4a77bedb2446339735c3f5e146e7e756a2f864c3398d54ad1ca4baf0c",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_a1143004/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3682,10 +3899,12 @@
      "regionMapUrl": "artworks/flowers/flowers_a1143004/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_a1143004/levels/hell/paint_data.json",
      "regionMapSha256": "89d71f8d2d3c3c0068ea18f65f64a229e0893132e90638a86d9a255c7235a47d",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_a1143004/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_a1143004/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_a1143004/line_paths.json"
   },
   {
    "id": "flowers_ae944df8",
@@ -3715,7 +3934,8 @@
      "regionMapUrl": "artworks/flowers/flowers_ae944df8/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_ae944df8/levels/easy/paint_data.json",
      "regionMapSha256": "0fe8b4b4d541f4ed35cd858b37cc54bce1135f544cda115b09d2e22c35e4513d",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_ae944df8/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3726,7 +3946,8 @@
      "regionMapUrl": "artworks/flowers/flowers_ae944df8/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_ae944df8/levels/normal/paint_data.json",
      "regionMapSha256": "66f9034c4e58a9e5a349d7660ad2191d879ce7d0e76bf21d76d6747ff722cb77",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_ae944df8/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3737,7 +3958,8 @@
      "regionMapUrl": "artworks/flowers/flowers_ae944df8/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_ae944df8/levels/hard/paint_data.json",
      "regionMapSha256": "6cd99ce4c619148c2f64a7605074ba74818ff9f007e7a0224f478dc704c700c4",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_ae944df8/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3748,10 +3970,12 @@
      "regionMapUrl": "artworks/flowers/flowers_ae944df8/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_ae944df8/levels/hell/paint_data.json",
      "regionMapSha256": "9d72be7f62a97e888740c06dfa97dac6a6b1da051b126ce9ad6ee98b57d958cf",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_ae944df8/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_ae944df8/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_ae944df8/line_paths.json"
   },
   {
    "id": "flowers_c89c21c9",
@@ -3781,7 +4005,8 @@
      "regionMapUrl": "artworks/flowers/flowers_c89c21c9/levels/easy/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_c89c21c9/levels/easy/paint_data.json",
      "regionMapSha256": "c6299f6949b3686f142f337b4b3b92bed2739ec557ffb87b8f5f2477677098f8",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/easy/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_c89c21c9/levels/easy/line_paths.json"
     },
     {
      "id": "normal",
@@ -3792,7 +4017,8 @@
      "regionMapUrl": "artworks/flowers/flowers_c89c21c9/levels/normal/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_c89c21c9/levels/normal/paint_data.json",
      "regionMapSha256": "17b24ea1492673b8ce817b8745b2e2256eb203a6ff09410eee83b910c6e01abd",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/normal/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_c89c21c9/levels/normal/line_paths.json"
     },
     {
      "id": "hard",
@@ -3803,7 +4029,8 @@
      "regionMapUrl": "artworks/flowers/flowers_c89c21c9/levels/hard/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_c89c21c9/levels/hard/paint_data.json",
      "regionMapSha256": "2e5337bd3ab5e0ed91e2351f40ac6ef150aa6c6b06bc9a621ff3648225858a34",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/hard/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_c89c21c9/levels/hard/line_paths.json"
     },
     {
      "id": "hell",
@@ -3814,10 +4041,12 @@
      "regionMapUrl": "artworks/flowers/flowers_c89c21c9/levels/hell/region_map.png",
      "paintDataUrl": "artworks/flowers/flowers_c89c21c9/levels/hell/paint_data.json",
      "regionMapSha256": "25103a50b43ce729afbc05b966eb984116be4103893a09394c1c9a92066569c0",
-     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/hell/line_art_thumb.webp"
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_c89c21c9/levels/hell/line_paths.json"
     }
    ],
-   "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/line_art_thumb.webp"
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_c89c21c9/line_paths.json"
   }
  ]
 }
