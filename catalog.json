@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T08:58:41+00:00",
+ "updatedAt": "2026-10-14T10:11:56+00:00",
  "categories": [
   {
    "id": "anime",
@@ -551,6 +551,77 @@
    "linePathsUrl": "artworks/anime/anime_forest_archer/line_paths_v2.json"
   },
   {
+   "id": "anime_ice_queen",
+   "title": "Ice Queen",
+   "category": "anime",
+   "colorCount": 16,
+   "regionCount": 198,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/anime_ice_queen/thumbnail.jpg",
+   "imageUrl": "artworks/anime/anime_ice_queen/image.jpg",
+   "lineArtUrl": "artworks/anime/anime_ice_queen/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/anime_ice_queen/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_ice_queen/line_paths_v2.json",
+   "regionMapUrl": "artworks/anime/anime_ice_queen/region_map.png",
+   "paintDataUrl": "artworks/anime/anime_ice_queen/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "b4898194143e5b484dd4fa0c598fd788925735df3e6570564a70facbe6c7f616",
+   "defaultLevel": "normal",
+   "levels": [
+    {
+     "id": "easy",
+     "colorCount": 9,
+     "regionCount": 109,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/anime/anime_ice_queen/levels/easy/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_ice_queen/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_ice_queen/levels/easy/line_paths_v2.json",
+     "regionMapUrl": "artworks/anime/anime_ice_queen/levels/easy/region_map.png",
+     "paintDataUrl": "artworks/anime/anime_ice_queen/levels/easy/paint_data.json",
+     "regionMapSha256": "a58dc3cfbfeb1b5bf0e8da3797b0e1be86b04c09b4b5059d1d7a0598b4e96c36"
+    },
+    {
+     "id": "normal",
+     "colorCount": 16,
+     "regionCount": 198,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/anime/anime_ice_queen/levels/normal/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_ice_queen/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_ice_queen/levels/normal/line_paths_v2.json",
+     "regionMapUrl": "artworks/anime/anime_ice_queen/levels/normal/region_map.png",
+     "paintDataUrl": "artworks/anime/anime_ice_queen/levels/normal/paint_data.json",
+     "regionMapSha256": "b4898194143e5b484dd4fa0c598fd788925735df3e6570564a70facbe6c7f616"
+    },
+    {
+     "id": "hard",
+     "colorCount": 24,
+     "regionCount": 363,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/anime/anime_ice_queen/levels/hard/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_ice_queen/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_ice_queen/levels/hard/line_paths_v2.json",
+     "regionMapUrl": "artworks/anime/anime_ice_queen/levels/hard/region_map.png",
+     "paintDataUrl": "artworks/anime/anime_ice_queen/levels/hard/paint_data.json",
+     "regionMapSha256": "5cb0c3877b376d9d5ca1a9b7299a389b79d825d768663f00e6c3a8f361481062"
+    },
+    {
+     "id": "hell",
+     "colorCount": 35,
+     "regionCount": 897,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/anime/anime_ice_queen/levels/hell/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_ice_queen/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_ice_queen/levels/hell/line_paths_v2.json",
+     "regionMapUrl": "artworks/anime/anime_ice_queen/levels/hell/region_map.png",
+     "paintDataUrl": "artworks/anime/anime_ice_queen/levels/hell/paint_data.json",
+     "regionMapSha256": "61183ce8617557cd3f466c6f6addd44cee0c67d56b9e5a1f40085c3ab0fb1032"
+    }
+   ]
+  },
+  {
    "id": "anime_moon_princess",
    "title": "Moon Princess",
    "category": "anime",
@@ -991,6 +1062,77 @@
    "regionMapSha256": "fbb66497b0df9d9f49695568683f60ac609e0b14a8b1413ad2d23bb926aad96e",
    "lineArtThumbnailUrl": "artworks/animals/animals_a9190699/line_art_thumb.webp",
    "linePathsUrl": "artworks/animals/animals_a9190699/line_paths_v2.json"
+  },
+  {
+   "id": "animals_autumn_fox",
+   "title": "Autumn Fox",
+   "category": "animals",
+   "colorCount": 16,
+   "regionCount": 150,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/animals/animals_autumn_fox/thumbnail.jpg",
+   "imageUrl": "artworks/animals/animals_autumn_fox/image.jpg",
+   "lineArtUrl": "artworks/animals/animals_autumn_fox/line_art.png",
+   "lineArtThumbnailUrl": "artworks/animals/animals_autumn_fox/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/animals_autumn_fox/line_paths_v2.json",
+   "regionMapUrl": "artworks/animals/animals_autumn_fox/region_map.png",
+   "paintDataUrl": "artworks/animals/animals_autumn_fox/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "f2286cd56746b2c1d114b4f2cefb10dd0f031ab4f2e9360d1538c01e42bdabf6",
+   "defaultLevel": "normal",
+   "levels": [
+    {
+     "id": "easy",
+     "colorCount": 10,
+     "regionCount": 88,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/animals/animals_autumn_fox/levels/easy/line_art.png",
+     "lineArtThumbnailUrl": "artworks/animals/animals_autumn_fox/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/animals/animals_autumn_fox/levels/easy/line_paths_v2.json",
+     "regionMapUrl": "artworks/animals/animals_autumn_fox/levels/easy/region_map.png",
+     "paintDataUrl": "artworks/animals/animals_autumn_fox/levels/easy/paint_data.json",
+     "regionMapSha256": "3cd35cc4628f4c67dfd57f3a080c3e7a0145fc724763fc8cef6faea27d3bc862"
+    },
+    {
+     "id": "normal",
+     "colorCount": 16,
+     "regionCount": 150,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/animals/animals_autumn_fox/levels/normal/line_art.png",
+     "lineArtThumbnailUrl": "artworks/animals/animals_autumn_fox/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/animals/animals_autumn_fox/levels/normal/line_paths_v2.json",
+     "regionMapUrl": "artworks/animals/animals_autumn_fox/levels/normal/region_map.png",
+     "paintDataUrl": "artworks/animals/animals_autumn_fox/levels/normal/paint_data.json",
+     "regionMapSha256": "f2286cd56746b2c1d114b4f2cefb10dd0f031ab4f2e9360d1538c01e42bdabf6"
+    },
+    {
+     "id": "hard",
+     "colorCount": 24,
+     "regionCount": 223,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/animals/animals_autumn_fox/levels/hard/line_art.png",
+     "lineArtThumbnailUrl": "artworks/animals/animals_autumn_fox/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/animals/animals_autumn_fox/levels/hard/line_paths_v2.json",
+     "regionMapUrl": "artworks/animals/animals_autumn_fox/levels/hard/region_map.png",
+     "paintDataUrl": "artworks/animals/animals_autumn_fox/levels/hard/paint_data.json",
+     "regionMapSha256": "10fb444a6e83533ba8c9f2452084639bf03c37848a824154173511b9686fc646"
+    },
+    {
+     "id": "hell",
+     "colorCount": 36,
+     "regionCount": 415,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/animals/animals_autumn_fox/levels/hell/line_art.png",
+     "lineArtThumbnailUrl": "artworks/animals/animals_autumn_fox/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/animals/animals_autumn_fox/levels/hell/line_paths_v2.json",
+     "regionMapUrl": "artworks/animals/animals_autumn_fox/levels/hell/region_map.png",
+     "paintDataUrl": "artworks/animals/animals_autumn_fox/levels/hell/paint_data.json",
+     "regionMapSha256": "45c3f0d1a72b5bb07ef09af97e14b9ddb5453910d96ffc048f740311a7e736a5"
+    }
+   ]
   },
   {
    "id": "animals_bc6a5bc3",
@@ -3481,6 +3623,77 @@
    "linePathsUrl": "artworks/chibi/chibi_08_sunflower_gardener/line_paths_v2.json"
   },
   {
+   "id": "chibi_lemon_girl",
+   "title": "Lemon Girl",
+   "category": "chibi",
+   "colorCount": 14,
+   "regionCount": 93,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/chibi/chibi_lemon_girl/thumbnail.jpg",
+   "imageUrl": "artworks/chibi/chibi_lemon_girl/image.jpg",
+   "lineArtUrl": "artworks/chibi/chibi_lemon_girl/line_art.png",
+   "lineArtThumbnailUrl": "artworks/chibi/chibi_lemon_girl/line_art_thumb.webp",
+   "linePathsUrl": "artworks/chibi/chibi_lemon_girl/line_paths_v2.json",
+   "regionMapUrl": "artworks/chibi/chibi_lemon_girl/region_map.png",
+   "paintDataUrl": "artworks/chibi/chibi_lemon_girl/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "dc186d0e90a20c6ef178081627273fb52b2d0b394a6b69c30ac3de44c2ba600c",
+   "defaultLevel": "normal",
+   "levels": [
+    {
+     "id": "easy",
+     "colorCount": 9,
+     "regionCount": 52,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/chibi/chibi_lemon_girl/levels/easy/line_art.png",
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_lemon_girl/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_lemon_girl/levels/easy/line_paths_v2.json",
+     "regionMapUrl": "artworks/chibi/chibi_lemon_girl/levels/easy/region_map.png",
+     "paintDataUrl": "artworks/chibi/chibi_lemon_girl/levels/easy/paint_data.json",
+     "regionMapSha256": "b41acf912aed5e75dbe4bf7b7a3c72d23db99fa9b1dd066264b34bd899149052"
+    },
+    {
+     "id": "normal",
+     "colorCount": 14,
+     "regionCount": 93,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/chibi/chibi_lemon_girl/levels/normal/line_art.png",
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_lemon_girl/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_lemon_girl/levels/normal/line_paths_v2.json",
+     "regionMapUrl": "artworks/chibi/chibi_lemon_girl/levels/normal/region_map.png",
+     "paintDataUrl": "artworks/chibi/chibi_lemon_girl/levels/normal/paint_data.json",
+     "regionMapSha256": "dc186d0e90a20c6ef178081627273fb52b2d0b394a6b69c30ac3de44c2ba600c"
+    },
+    {
+     "id": "hard",
+     "colorCount": 20,
+     "regionCount": 170,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/chibi/chibi_lemon_girl/levels/hard/line_art.png",
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_lemon_girl/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_lemon_girl/levels/hard/line_paths_v2.json",
+     "regionMapUrl": "artworks/chibi/chibi_lemon_girl/levels/hard/region_map.png",
+     "paintDataUrl": "artworks/chibi/chibi_lemon_girl/levels/hard/paint_data.json",
+     "regionMapSha256": "ea15a90c81bbdc7ad7af2205eb77b37080169414f89f0745783583232d9330b6"
+    },
+    {
+     "id": "hell",
+     "colorCount": 30,
+     "regionCount": 408,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/chibi/chibi_lemon_girl/levels/hell/line_art.png",
+     "lineArtThumbnailUrl": "artworks/chibi/chibi_lemon_girl/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/chibi/chibi_lemon_girl/levels/hell/line_paths_v2.json",
+     "regionMapUrl": "artworks/chibi/chibi_lemon_girl/levels/hell/region_map.png",
+     "paintDataUrl": "artworks/chibi/chibi_lemon_girl/levels/hell/paint_data.json",
+     "regionMapSha256": "0d73c0b04b80dbee1131a4fa36d9f46c8000e25f255e0cfdfda11749a6e21116"
+    }
+   ]
+  },
+  {
    "id": "flowers_065d339f",
    "title": "Lilies and Irises",
    "category": "flowers",
@@ -4047,6 +4260,77 @@
    ],
    "lineArtThumbnailUrl": "artworks/flowers/flowers_c89c21c9/line_art_thumb.webp",
    "linePathsUrl": "artworks/flowers/flowers_c89c21c9/line_paths_v2.json"
+  },
+  {
+   "id": "flowers_peony_vase",
+   "title": "Peony Vase",
+   "category": "flowers",
+   "colorCount": 16,
+   "regionCount": 232,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/flowers/flowers_peony_vase/thumbnail.jpg",
+   "imageUrl": "artworks/flowers/flowers_peony_vase/image.jpg",
+   "lineArtUrl": "artworks/flowers/flowers_peony_vase/line_art.png",
+   "lineArtThumbnailUrl": "artworks/flowers/flowers_peony_vase/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/flowers_peony_vase/line_paths_v2.json",
+   "regionMapUrl": "artworks/flowers/flowers_peony_vase/region_map.png",
+   "paintDataUrl": "artworks/flowers/flowers_peony_vase/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "183fd95aecbc90bb300b38276535b050ac5223315688b235271826081504b22b",
+   "defaultLevel": "normal",
+   "levels": [
+    {
+     "id": "easy",
+     "colorCount": 10,
+     "regionCount": 134,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/flowers/flowers_peony_vase/levels/easy/line_art.png",
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_peony_vase/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_peony_vase/levels/easy/line_paths_v2.json",
+     "regionMapUrl": "artworks/flowers/flowers_peony_vase/levels/easy/region_map.png",
+     "paintDataUrl": "artworks/flowers/flowers_peony_vase/levels/easy/paint_data.json",
+     "regionMapSha256": "06ea3232fe06e395105b51857112426dce2ccca0f45dd56a3df396609a0d69cf"
+    },
+    {
+     "id": "normal",
+     "colorCount": 16,
+     "regionCount": 232,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/flowers/flowers_peony_vase/levels/normal/line_art.png",
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_peony_vase/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_peony_vase/levels/normal/line_paths_v2.json",
+     "regionMapUrl": "artworks/flowers/flowers_peony_vase/levels/normal/region_map.png",
+     "paintDataUrl": "artworks/flowers/flowers_peony_vase/levels/normal/paint_data.json",
+     "regionMapSha256": "183fd95aecbc90bb300b38276535b050ac5223315688b235271826081504b22b"
+    },
+    {
+     "id": "hard",
+     "colorCount": 24,
+     "regionCount": 424,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/flowers/flowers_peony_vase/levels/hard/line_art.png",
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_peony_vase/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_peony_vase/levels/hard/line_paths_v2.json",
+     "regionMapUrl": "artworks/flowers/flowers_peony_vase/levels/hard/region_map.png",
+     "paintDataUrl": "artworks/flowers/flowers_peony_vase/levels/hard/paint_data.json",
+     "regionMapSha256": "2705d246af834fe90413b31b5bc3bc82f26d4f1bf43ad103cd081c26fb518103"
+    },
+    {
+     "id": "hell",
+     "colorCount": 36,
+     "regionCount": 613,
+     "contentVersion": 1,
+     "lineArtUrl": "artworks/flowers/flowers_peony_vase/levels/hell/line_art.png",
+     "lineArtThumbnailUrl": "artworks/flowers/flowers_peony_vase/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/flowers/flowers_peony_vase/levels/hell/line_paths_v2.json",
+     "regionMapUrl": "artworks/flowers/flowers_peony_vase/levels/hell/region_map.png",
+     "paintDataUrl": "artworks/flowers/flowers_peony_vase/levels/hell/paint_data.json",
+     "regionMapSha256": "f63ee8aea507e4689e546ac88f979b958a5b4a10fd49f76b0686933e5716b215"
+    }
+   ]
   }
  ]
 }
