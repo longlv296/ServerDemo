@@ -1,78 +1,150 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T01:06:28+00:00",
+ "updatedAt": "2026-10-15T07:38:35+00:00",
  "categories": [
   {
    "id": "anime",
-   "name": "Anime"
+   "name": "Anime",
+   "icon": {
+    "type": "emoji",
+    "value": "🌸"
+   }
   },
   {
    "id": "chibi",
-   "name": "Chibi"
+   "name": "Chibi",
+   "icon": {
+    "type": "emoji",
+    "value": "🧸"
+   }
   },
   {
    "id": "cartoon",
-   "name": "Cartoon"
+   "name": "Cartoon",
+   "icon": {
+    "type": "emoji",
+    "value": "🎈"
+   }
   },
   {
    "id": "animals",
-   "name": "Animals"
+   "name": "Animals",
+   "icon": {
+    "type": "emoji",
+    "value": "🐾"
+   }
   },
   {
    "id": "flowers",
-   "name": "Flowers"
+   "name": "Flowers",
+   "icon": {
+    "type": "emoji",
+    "value": "🌷"
+   }
   },
   {
    "id": "kpop_hunters",
-   "name": "K-pop Hunters"
+   "name": "K-pop Hunters",
+   "icon": {
+    "type": "emoji",
+    "value": "🎤"
+   }
   },
   {
    "id": "hindu_gods",
-   "name": "Hindu Gods"
+   "name": "Hindu Gods",
+   "icon": {
+    "type": "emoji",
+    "value": "🪔"
+   }
   },
   {
    "id": "football",
-   "name": "Football"
+   "name": "Football",
+   "icon": {
+    "type": "emoji",
+    "value": "⚽"
+   }
   },
   {
    "id": "celebs",
-   "name": "Celebs"
+   "name": "Celebs",
+   "icon": {
+    "type": "emoji",
+    "value": "⭐"
+   }
   },
   {
    "id": "people",
-   "name": "People"
+   "name": "People",
+   "icon": {
+    "type": "emoji",
+    "value": "👫"
+   }
   },
   {
    "id": "christmas",
-   "name": "Christmas"
+   "name": "Christmas",
+   "icon": {
+    "type": "emoji",
+    "value": "🎄"
+   }
   },
   {
    "id": "halloween",
-   "name": "Halloween"
+   "name": "Halloween",
+   "icon": {
+    "type": "emoji",
+    "value": "🎃"
+   }
   },
   {
    "id": "heroes",
-   "name": "Heroes"
+   "name": "Heroes",
+   "icon": {
+    "type": "emoji",
+    "value": "🦸"
+   }
   },
   {
    "id": "food",
-   "name": "Food"
+   "name": "Food",
+   "icon": {
+    "type": "emoji",
+    "value": "🍰"
+   }
   },
   {
    "id": "houses",
-   "name": "Houses"
+   "name": "Houses",
+   "icon": {
+    "type": "emoji",
+    "value": "🏡"
+   }
   },
   {
    "id": "vehicles",
-   "name": "Vehicles"
+   "name": "Vehicles",
+   "icon": {
+    "type": "emoji",
+    "value": "🚗"
+   }
   },
   {
    "id": "fashion",
-   "name": "Fashion"
+   "name": "Fashion",
+   "icon": {
+    "type": "emoji",
+    "value": "👗"
+   }
   },
   {
    "id": "children_day",
-   "name": "Children's Day"
+   "name": "Children's Day",
+   "icon": {
+    "type": "emoji",
+    "value": "🎠"
+   }
   }
  ],
  "artworks": [
