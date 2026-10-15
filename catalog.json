@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T07:54:45+00:00",
+ "updatedAt": "2026-10-15T10:37:40+00:00",
  "categories": [
   {
    "id": "anime",
@@ -635,72 +635,72 @@
    "id": "anime_moon_princess",
    "title": "Moon Princess",
    "category": "anime",
-   "colorCount": 15,
-   "regionCount": 209,
-   "contentVersion": 4,
+   "colorCount": 16,
+   "regionCount": 248,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/anime_moon_princess/thumbnail.jpg",
    "imageUrl": "artworks/anime/anime_moon_princess/image.jpg",
    "lineArtUrl": "artworks/anime/anime_moon_princess/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/anime_moon_princess/line_paths_v2.json",
    "regionMapUrl": "artworks/anime/anime_moon_princess/region_map.png",
    "paintDataUrl": "artworks/anime/anime_moon_princess/paint_data.json",
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "b05f1b42cc54a0b86a10c392718557fc7d4174e10f5915db8b31c1351b214d2a",
+   "regionMapSha256": "e6aacd79a4def89fab974f6eef5b379cbea8b327d66647475852bd49ce831c12",
    "defaultLevel": "normal",
    "levels": [
     {
      "id": "easy",
      "colorCount": 10,
-     "regionCount": 123,
-     "contentVersion": 1,
+     "regionCount": 132,
+     "contentVersion": 2,
      "lineArtUrl": "artworks/anime/anime_moon_princess/levels/easy/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/easy/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/easy/line_paths_v2.json",
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/easy/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/easy/paint_data.json",
-     "regionMapSha256": "8c7306a345ddd0a6eb2a3f8e323cc094a81f68ad6862527a1e7ffd7d4244ee2b",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/easy/line_art_thumb.webp",
-     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/easy/line_paths_v2.json"
+     "regionMapSha256": "4308930e882892ee62dd49f6cbfa2d2ed34690acf0a57efea020cca0e8be58bf"
     },
     {
      "id": "normal",
-     "colorCount": 15,
-     "regionCount": 209,
-     "contentVersion": 4,
+     "colorCount": 16,
+     "regionCount": 248,
+     "contentVersion": 5,
      "lineArtUrl": "artworks/anime/anime_moon_princess/levels/normal/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/normal/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/normal/line_paths_v2.json",
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/normal/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/normal/paint_data.json",
-     "regionMapSha256": "b05f1b42cc54a0b86a10c392718557fc7d4174e10f5915db8b31c1351b214d2a",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/normal/line_art_thumb.webp",
-     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/normal/line_paths_v2.json"
+     "regionMapSha256": "e6aacd79a4def89fab974f6eef5b379cbea8b327d66647475852bd49ce831c12"
     },
     {
      "id": "hard",
      "colorCount": 24,
-     "regionCount": 409,
-     "contentVersion": 1,
+     "regionCount": 435,
+     "contentVersion": 2,
      "lineArtUrl": "artworks/anime/anime_moon_princess/levels/hard/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hard/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/hard/line_paths_v2.json",
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/hard/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/hard/paint_data.json",
-     "regionMapSha256": "18b5675073c2e37e0ccf33e306b5ddf5f47be964e1dc30f2bde70a267602e918",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hard/line_art_thumb.webp",
-     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/hard/line_paths_v2.json"
+     "regionMapSha256": "36592c0c8c776aeba433175d4af2449bdc7c64c3802e4a86359eafee65c50f8d"
     },
     {
      "id": "hell",
      "colorCount": 36,
-     "regionCount": 906,
-     "contentVersion": 1,
+     "regionCount": 926,
+     "contentVersion": 2,
      "lineArtUrl": "artworks/anime/anime_moon_princess/levels/hell/line_art.png",
+     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hell/line_art_thumb.webp",
+     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/hell/line_paths_v2.json",
      "regionMapUrl": "artworks/anime/anime_moon_princess/levels/hell/region_map.png",
      "paintDataUrl": "artworks/anime/anime_moon_princess/levels/hell/paint_data.json",
-     "regionMapSha256": "afa45c587a6d653ee38845a7ea38ca59747fb65154949a90a4aed3ce8347cff4",
-     "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/levels/hell/line_art_thumb.webp",
-     "linePathsUrl": "artworks/anime/anime_moon_princess/levels/hell/line_paths_v2.json"
+     "regionMapSha256": "bc77a3e39320b08876942d591b6515b6c6edfe59e6941af2fa7281aa2e063f22"
     }
-   ],
-   "lineArtThumbnailUrl": "artworks/anime/anime_moon_princess/line_art_thumb.webp",
-   "linePathsUrl": "artworks/anime/anime_moon_princess/line_paths_v2.json"
+   ]
   },
   {
    "id": "anime_moon_sorceress",
