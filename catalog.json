@@ -1,13 +1,13 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T07:38:35+00:00",
+ "updatedAt": "2026-10-15T07:43:11+00:00",
  "categories": [
   {
    "id": "anime",
    "name": "Anime",
    "icon": {
     "type": "emoji",
-    "value": "🌸"
+    "value": "⚔️"
    }
   },
   {
@@ -15,7 +15,7 @@
    "name": "Chibi",
    "icon": {
     "type": "emoji",
-    "value": "🧸"
+    "value": "🎀"
    }
   },
   {
@@ -55,7 +55,7 @@
    "name": "Hindu Gods",
    "icon": {
     "type": "emoji",
-    "value": "🪔"
+    "value": "🕉️"
    }
   },
   {
@@ -79,7 +79,7 @@
    "name": "People",
    "icon": {
     "type": "emoji",
-    "value": "👫"
+    "value": "👨‍👩‍👧"
    }
   },
   {
@@ -143,7 +143,7 @@
    "name": "Children's Day",
    "icon": {
     "type": "emoji",
-    "value": "🎠"
+    "value": "🪁"
    }
   }
  ],
