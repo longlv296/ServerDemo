@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-14T11:35:35+00:00",
+ "updatedAt": "2026-10-15T01:06:28+00:00",
  "categories": [
   {
    "id": "anime",
@@ -433,7 +433,7 @@
   },
   {
    "id": "ds_anime_001",
-   "title": "Anime 1",
+   "title": "Gojo Windswept Hair",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 106,
@@ -453,7 +453,7 @@
   },
   {
    "id": "ds_anime_002",
-   "title": "Anime 2",
+   "title": "Gojo Blindfold Purple",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 80,
@@ -473,7 +473,7 @@
   },
   {
    "id": "ds_anime_003",
-   "title": "Anime 3",
+   "title": "Yuji Playful Wink",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 106,
@@ -493,7 +493,7 @@
   },
   {
    "id": "ds_anime_004",
-   "title": "Anime 4",
+   "title": "Yuji Expression Sheet",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 153,
@@ -513,7 +513,7 @@
   },
   {
    "id": "ds_anime_005",
-   "title": "Anime 5",
+   "title": "Naruto Ready Stance",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 105,
@@ -533,7 +533,7 @@
   },
   {
    "id": "ds_anime_006",
-   "title": "Anime 6",
+   "title": "Naruto Cheeky Grin",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 106,
@@ -553,7 +553,7 @@
   },
   {
    "id": "ds_anime_007",
-   "title": "Anime 7",
+   "title": "Gojo Round Sunglasses",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 99,
@@ -573,7 +573,7 @@
   },
   {
    "id": "ds_anime_008",
-   "title": "Anime 8",
+   "title": "Yuji Action Collage",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 203,
@@ -593,7 +593,7 @@
   },
   {
    "id": "ds_anime_009",
-   "title": "Anime 9",
+   "title": "Sukuna Sinister Smile",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 121,
@@ -613,7 +613,7 @@
   },
   {
    "id": "ds_anime_010",
-   "title": "Anime 10",
+   "title": "Tanjiro Green Kanji",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 92,
@@ -633,7 +633,7 @@
   },
   {
    "id": "ds_anime_011",
-   "title": "Anime 11",
+   "title": "Tanjiro Full Uniform",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 81,
@@ -653,7 +653,7 @@
   },
   {
    "id": "ds_anime_012",
-   "title": "Anime 12",
+   "title": "Tanjiro Cheerful Grin",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 99,
@@ -673,7 +673,7 @@
   },
   {
    "id": "ds_anime_013",
-   "title": "Anime 13",
+   "title": "Tanjiro Sword Grip",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 90,
@@ -693,7 +693,7 @@
   },
   {
    "id": "ds_anime_014",
-   "title": "Anime 14",
+   "title": "Tanjiro Thumbs Up",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 103,
@@ -713,7 +713,7 @@
   },
   {
    "id": "ds_anime_015",
-   "title": "Anime 15",
+   "title": "Tanjiro Starry Sky",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 107,
@@ -733,7 +733,7 @@
   },
   {
    "id": "ds_anime_016",
-   "title": "Anime 16",
+   "title": "Tanjiro Sword Leap",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 94,
@@ -753,7 +753,7 @@
   },
   {
    "id": "ds_anime_017",
-   "title": "Anime 17",
+   "title": "Kakashi Name Poster",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 76,
@@ -773,7 +773,7 @@
   },
   {
    "id": "ds_anime_018",
-   "title": "Anime 18",
+   "title": "Sukuna Bare Shoulders",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 147,
@@ -793,7 +793,7 @@
   },
   {
    "id": "ds_anime_019",
-   "title": "Anime 19",
+   "title": "Kakashi Arms Crossed",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 70,
@@ -813,7 +813,7 @@
   },
   {
    "id": "ds_anime_020",
-   "title": "Anime 20",
+   "title": "Kakashi Forest Glare",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 62,
@@ -833,7 +833,7 @@
   },
   {
    "id": "ds_anime_021",
-   "title": "Anime 21",
+   "title": "Kakashi Blue Lightning",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 132,
@@ -853,7 +853,7 @@
   },
   {
    "id": "ds_anime_022",
-   "title": "Anime 22",
+   "title": "Kakashi Sharingan Wink",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 58,
@@ -873,7 +873,7 @@
   },
   {
    "id": "ds_anime_023",
-   "title": "Anime 23",
+   "title": "Chibi Kakashi Standing",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 78,
@@ -893,7 +893,7 @@
   },
   {
    "id": "ds_anime_024",
-   "title": "Anime 24",
+   "title": "Chibi Kakashi Walking",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 61,
@@ -913,7 +913,7 @@
   },
   {
    "id": "ds_anime_025",
-   "title": "Anime 25",
+   "title": "Kid Goku White Shirt",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 106,
@@ -933,7 +933,7 @@
   },
   {
    "id": "ds_anime_026",
-   "title": "Anime 26",
+   "title": "Kid Goku Power Pole",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 86,
@@ -953,7 +953,7 @@
   },
   {
    "id": "ds_anime_027",
-   "title": "Anime 27",
+   "title": "Gojo Red Cat Hoodie",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 191,
@@ -973,7 +973,7 @@
   },
   {
    "id": "ds_anime_028",
-   "title": "Anime 28",
+   "title": "Kid Goku Flying Kick",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 107,
@@ -993,7 +993,7 @@
   },
   {
    "id": "ds_anime_029",
-   "title": "Anime 29",
+   "title": "Kid Goku Red Gi",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 75,
@@ -1013,7 +1013,7 @@
   },
   {
    "id": "ds_anime_030",
-   "title": "Anime 30",
+   "title": "Kid Goku Fighting Pose",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 74,
@@ -1033,7 +1033,7 @@
   },
   {
    "id": "ds_anime_031",
-   "title": "Anime 31",
+   "title": "Gojo Blindfold Laugh",
    "category": "anime",
    "colorCount": 12,
    "regionCount": 50,
@@ -1053,7 +1053,7 @@
   },
   {
    "id": "ds_anime_032",
-   "title": "Anime 32",
+   "title": "Chibi Lightning Boy",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 79,
@@ -1073,7 +1073,7 @@
   },
   {
    "id": "ds_anime_033",
-   "title": "Anime 33",
+   "title": "Tanjiro Black Blade",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 54,
@@ -1093,7 +1093,7 @@
   },
   {
    "id": "ds_anime_034",
-   "title": "Anime 34",
+   "title": "Chibi Tanjiro Sitting",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 83,
@@ -1113,7 +1113,7 @@
   },
   {
    "id": "ds_anime_035",
-   "title": "Anime 35",
+   "title": "Sukuna Wicked Laugh",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 99,
@@ -1133,7 +1133,7 @@
   },
   {
    "id": "ds_anime_036",
-   "title": "Anime 36",
+   "title": "Tanjiro Calm Portrait",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 110,
@@ -1153,7 +1153,7 @@
   },
   {
    "id": "ds_anime_037",
-   "title": "Anime 37",
+   "title": "Chibi Tanjiro Standing",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 74,
@@ -1173,7 +1173,7 @@
   },
   {
    "id": "ds_anime_038",
-   "title": "Anime 38",
+   "title": "Geto Round Glasses",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 87,
@@ -1193,7 +1193,7 @@
   },
   {
    "id": "ds_anime_039",
-   "title": "Anime 39",
+   "title": "Geto Sly Smirk",
    "category": "anime",
    "colorCount": 11,
    "regionCount": 32,
@@ -1213,7 +1213,7 @@
   },
   {
    "id": "ds_anime_040",
-   "title": "Anime 40",
+   "title": "Geto Calm Smile",
    "category": "anime",
    "colorCount": 11,
    "regionCount": 42,
@@ -1233,7 +1233,7 @@
   },
   {
    "id": "ds_anime_041",
-   "title": "Anime 41",
+   "title": "Geto Gentle Wink",
    "category": "anime",
    "colorCount": 9,
    "regionCount": 39,
@@ -1253,7 +1253,7 @@
   },
   {
    "id": "ds_anime_042",
-   "title": "Anime 42",
+   "title": "Sukuna Shirtless Grin",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 129,
@@ -1273,7 +1273,7 @@
   },
   {
    "id": "ds_anime_043",
-   "title": "Anime 43",
+   "title": "Anya Holding Bucket",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 78,
@@ -1293,7 +1293,7 @@
   },
   {
    "id": "ds_anime_044",
-   "title": "Anime 44",
+   "title": "Anya Detective Hat",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 91,
@@ -1313,7 +1313,7 @@
   },
   {
    "id": "ds_anime_045",
-   "title": "Anime 45",
+   "title": "Anya Waving Hello",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 60,
@@ -1333,7 +1333,7 @@
   },
   {
    "id": "ds_anime_046",
-   "title": "Anime 46",
+   "title": "Chibi Anya Kneeling",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 81,
@@ -1353,7 +1353,7 @@
   },
   {
    "id": "ds_anime_047",
-   "title": "Anime 47",
+   "title": "Sukuna Gray Scarf",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 86,
@@ -1373,7 +1373,7 @@
   },
   {
    "id": "ds_anime_048",
-   "title": "Anime 48",
+   "title": "Anya Shy Glance",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 75,
@@ -1393,7 +1393,7 @@
   },
   {
    "id": "ds_anime_049",
-   "title": "Anime 49",
+   "title": "Anya Hugging Bond",
    "category": "anime",
    "colorCount": 9,
    "regionCount": 54,
@@ -1413,7 +1413,7 @@
   },
   {
    "id": "ds_anime_050",
-   "title": "Anime 50",
+   "title": "Anya and Yor Hug",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 105,
@@ -1433,7 +1433,7 @@
   },
   {
    "id": "ds_anime_051",
-   "title": "Anime 51",
+   "title": "Anya with Chimera",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 122,
@@ -1453,7 +1453,7 @@
   },
   {
    "id": "ds_anime_052",
-   "title": "Anime 52",
+   "title": "Chibi Anya Uniform",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 85,
@@ -1473,7 +1473,7 @@
   },
   {
    "id": "ds_anime_053",
-   "title": "Anime 53",
+   "title": "Anya Finger Point",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 70,
@@ -1493,7 +1493,7 @@
   },
   {
    "id": "ds_anime_054",
-   "title": "Anime 54",
+   "title": "Naruto Hand Seal",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 98,
@@ -1513,7 +1513,7 @@
   },
   {
    "id": "ds_anime_055",
-   "title": "Anime 55",
+   "title": "Naruto Bright Smile",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 107,
@@ -1533,7 +1533,7 @@
   },
   {
    "id": "ds_anime_056",
-   "title": "Anime 56",
+   "title": "Naruto Ramen Bowl",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 105,
@@ -1553,7 +1553,7 @@
   },
   {
    "id": "ds_anime_057",
-   "title": "Anime 57",
+   "title": "Chibi Naruto Kunai",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 67,
@@ -1573,7 +1573,7 @@
   },
   {
    "id": "ds_anime_058",
-   "title": "Anime 58",
+   "title": "Sukuna Sketch Lineart",
    "category": "anime",
    "colorCount": 7,
    "regionCount": 56,
@@ -1593,7 +1593,7 @@
   },
   {
    "id": "ds_anime_059",
-   "title": "Anime 59",
+   "title": "Naruto Kunai Throw",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 64,
@@ -1613,7 +1613,7 @@
   },
   {
    "id": "ds_anime_060",
-   "title": "Anime 60",
+   "title": "Naruto Dark Backdrop",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 89,
@@ -1633,7 +1633,7 @@
   },
   {
    "id": "ds_anime_061",
-   "title": "Anime 61",
+   "title": "Naruto Rasengan",
    "category": "anime",
    "colorCount": 12,
    "regionCount": 52,
@@ -1653,7 +1653,7 @@
   },
   {
    "id": "ds_anime_062",
-   "title": "Anime 62",
+   "title": "Goku Arms Crossed",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 96,
@@ -1673,7 +1673,7 @@
   },
   {
    "id": "ds_anime_063",
-   "title": "Anime 63",
+   "title": "Goku Battle Ready",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 170,
@@ -1693,7 +1693,7 @@
   },
   {
    "id": "ds_anime_064",
-   "title": "Anime 64",
+   "title": "Goku Calm Smile",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 72,
@@ -1713,7 +1713,7 @@
   },
   {
    "id": "ds_anime_065",
-   "title": "Anime 65",
+   "title": "Goku Clenched Fists",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 97,
@@ -1733,7 +1733,7 @@
   },
   {
    "id": "ds_anime_066",
-   "title": "Anime 66",
+   "title": "Goku Orange Backdrop",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 59,
@@ -1753,7 +1753,7 @@
   },
   {
    "id": "ds_anime_067",
-   "title": "Anime 67",
+   "title": "Kid Goku Serious Look",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 74,
@@ -1773,7 +1773,7 @@
   },
   {
    "id": "ds_anime_068",
-   "title": "Anime 68",
+   "title": "Sukuna Playful Wink",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 89,
@@ -1793,7 +1793,7 @@
   },
   {
    "id": "ds_anime_069",
-   "title": "Anime 69",
+   "title": "Kid Goku Jumping Joy",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 60,
@@ -1813,7 +1813,7 @@
   },
   {
    "id": "ds_anime_070",
-   "title": "Anime 70",
+   "title": "Kid Goku Peace Sign",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 96,
@@ -1833,7 +1833,7 @@
   },
   {
    "id": "ds_anime_071",
-   "title": "Anime 71",
+   "title": "Kid Goku Sitting",
    "category": "anime",
    "colorCount": 10,
    "regionCount": 63,
@@ -1853,7 +1853,7 @@
   },
   {
    "id": "ds_anime_072",
-   "title": "Anime 72",
+   "title": "Naruto Fiery Splash",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 121,
@@ -1873,7 +1873,7 @@
   },
   {
    "id": "ds_anime_073",
-   "title": "Anime 73",
+   "title": "Luffy Chin in Hand",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 182,
@@ -1893,7 +1893,7 @@
   },
   {
    "id": "ds_anime_074",
-   "title": "Anime 74",
+   "title": "Luffy Big Laugh",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 212,
@@ -1913,7 +1913,7 @@
   },
   {
    "id": "ds_anime_075",
-   "title": "Anime 75",
+   "title": "Luffy Hat Grab",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 141,
@@ -1933,7 +1933,7 @@
   },
   {
    "id": "ds_anime_076",
-   "title": "Anime 76",
+   "title": "Luffy Ocean Smile",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 52,
@@ -1953,7 +1953,7 @@
   },
   {
    "id": "ds_anime_077",
-   "title": "Anime 77",
+   "title": "Gojo Sunglasses Peek",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 251,
@@ -1973,7 +1973,7 @@
   },
   {
    "id": "ds_anime_078",
-   "title": "Anime 78",
+   "title": "Luffy Running Punch",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 103,
@@ -1993,7 +1993,7 @@
   },
   {
    "id": "ds_anime_079",
-   "title": "Anime 79",
+   "title": "Luffy Sunny Grin",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 111,
@@ -2013,7 +2013,7 @@
   },
   {
    "id": "ds_anime_080",
-   "title": "Anime 80",
+   "title": "Luffy Pirate Ship",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 268,
@@ -2033,7 +2033,7 @@
   },
   {
    "id": "ds_anime_081",
-   "title": "Anime 81",
+   "title": "Zenitsu Serious Stare",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 121,
@@ -2053,7 +2053,7 @@
   },
   {
    "id": "ds_anime_082",
-   "title": "Anime 82",
+   "title": "Chibi Zenitsu Sparkle",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 120,
@@ -2073,7 +2073,7 @@
   },
   {
    "id": "ds_anime_083",
-   "title": "Anime 83",
+   "title": "Deku Fiery Fist",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 233,
@@ -2093,7 +2093,7 @@
   },
   {
    "id": "ds_anime_084",
-   "title": "Anime 84",
+   "title": "Zenitsu Thunder Dash",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 147,
@@ -2113,7 +2113,7 @@
   },
   {
    "id": "ds_anime_085",
-   "title": "Anime 85",
+   "title": "Zoro White Tee",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 88,
@@ -2133,7 +2133,7 @@
   },
   {
    "id": "ds_anime_086",
-   "title": "Anime 86",
+   "title": "Chibi Zoro Pouting",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 129,
@@ -2153,7 +2153,7 @@
   },
   {
    "id": "ds_anime_087",
-   "title": "Anime 87",
+   "title": "Zoro Gray Shirt Grin",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 92,
@@ -2173,7 +2173,7 @@
   },
   {
    "id": "ds_anime_088",
-   "title": "Anime 88",
+   "title": "Zoro Two Swords",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 73,
@@ -2193,7 +2193,7 @@
   },
   {
    "id": "ds_anime_089",
-   "title": "Anime 89",
+   "title": "Zoro Looking Up",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 70,
@@ -2213,7 +2213,7 @@
   },
   {
    "id": "ds_anime_090",
-   "title": "Anime 90",
+   "title": "Zoro Jolly Roger",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 111,
@@ -2233,7 +2233,7 @@
   },
   {
    "id": "ds_anime_091",
-   "title": "Anime 91",
+   "title": "Kid Goku Power Up",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 128,
@@ -2253,7 +2253,7 @@
   },
   {
    "id": "ds_anime_092",
-   "title": "Anime 92",
+   "title": "Nezuko Flame Poster",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 157,
@@ -2273,7 +2273,7 @@
   },
   {
    "id": "ds_anime_093",
-   "title": "Anime 93",
+   "title": "Zenitsu Name Poster",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 154,
@@ -2293,7 +2293,7 @@
   },
   {
    "id": "ds_anime_094",
-   "title": "Anime 94",
+   "title": "Deku Big Smile",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 215,
@@ -2313,7 +2313,7 @@
   },
   {
    "id": "ds_anime_095",
-   "title": "Anime 95",
+   "title": "Violet Arched Window",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 152,
@@ -2333,7 +2333,7 @@
   },
   {
    "id": "ds_anime_096",
-   "title": "Anime 96",
+   "title": "Violet Garden Ribbon",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 182,
@@ -2353,7 +2353,7 @@
   },
   {
    "id": "ds_anime_097",
-   "title": "Anime 97",
+   "title": "Violet Windy Sky",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 240,
@@ -2373,7 +2373,7 @@
   },
   {
    "id": "ds_anime_098",
-   "title": "Anime 98",
+   "title": "Violet White Backdrop",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 180,
@@ -2393,7 +2393,7 @@
   },
   {
    "id": "ds_anime_099",
-   "title": "Anime 99",
+   "title": "Violet Leafy Shade",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 146,
@@ -2413,7 +2413,7 @@
   },
   {
    "id": "ds_anime_100",
-   "title": "Anime",
+   "title": "Violet Castle View",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 205,
@@ -2433,7 +2433,7 @@
   },
   {
    "id": "ds_anime_101",
-   "title": "Anime",
+   "title": "Violet Evergarden Bow",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 207,
@@ -2453,7 +2453,7 @@
   },
   {
    "id": "ds_anime_102",
-   "title": "Anime",
+   "title": "Mitsuha Comet Cord",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 149,
@@ -2473,7 +2473,7 @@
   },
   {
    "id": "ds_anime_103",
-   "title": "Anime",
+   "title": "Taki and Mitsuha Comet",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 284,
@@ -2493,7 +2493,7 @@
   },
   {
    "id": "ds_anime_104",
-   "title": "Anime",
+   "title": "Taki Mitsuha Sunset",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 177,
@@ -2513,7 +2513,7 @@
   },
   {
    "id": "ds_anime_105",
-   "title": "Anime",
+   "title": "Mitsuha Taki Smiling",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 204,
@@ -2533,7 +2533,7 @@
   },
   {
    "id": "ds_anime_106",
-   "title": "Anime",
+   "title": "Mitsuha at the Shrine",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 156,
@@ -2553,7 +2553,7 @@
   },
   {
    "id": "ds_anime_107",
-   "title": "Anime",
+   "title": "Girl in White Blouse",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 70,
@@ -2573,7 +2573,7 @@
   },
   {
    "id": "ds_anime_108",
-   "title": "Anime",
+   "title": "Taki Under Blue Sky",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 66,
@@ -2593,7 +2593,7 @@
   },
   {
    "id": "ds_anime_109",
-   "title": "Anime",
+   "title": "Saber Blue Ribbon",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 243,
@@ -2613,7 +2613,7 @@
   },
   {
    "id": "ds_anime_110",
-   "title": "Anime",
+   "title": "Lancer Fierce Glare",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 170,
@@ -2633,7 +2633,7 @@
   },
   {
    "id": "ds_anime_111",
-   "title": "Anime",
+   "title": "Rin in Red Sweater",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 83,
@@ -2653,7 +2653,7 @@
   },
   {
    "id": "ds_anime_112",
-   "title": "Anime",
+   "title": "Nezuko Surprised Face",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 91,
@@ -2673,7 +2673,7 @@
   },
   {
    "id": "ds_anime_113",
-   "title": "Anime",
+   "title": "Saber Sword Stance",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 320,
@@ -2693,7 +2693,7 @@
   },
   {
    "id": "ds_anime_114",
-   "title": "Anime",
+   "title": "Archer Twin Blades",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 93,
@@ -2713,7 +2713,7 @@
   },
   {
    "id": "ds_anime_115",
-   "title": "Anime",
+   "title": "Archer Drawing Bow",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 132,
@@ -2733,7 +2733,7 @@
   },
   {
    "id": "ds_anime_116",
-   "title": "Anime",
+   "title": "Rin and Blond Partner",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 212,
@@ -2753,7 +2753,7 @@
   },
   {
    "id": "ds_anime_117",
-   "title": "Anime",
+   "title": "Archer Starry Sky",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 247,
@@ -2773,7 +2773,7 @@
   },
   {
    "id": "ds_anime_118",
-   "title": "Anime",
+   "title": "Eyepatch Duo Grinning",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 131,
@@ -2793,7 +2793,7 @@
   },
   {
    "id": "ds_anime_119",
-   "title": "Anime",
+   "title": "Couple Lying on Grass",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 130,
@@ -2813,7 +2813,7 @@
   },
   {
    "id": "ds_anime_120",
-   "title": "Anime",
+   "title": "Sunny Field Selfie",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 245,
@@ -2833,7 +2833,7 @@
   },
   {
    "id": "ds_anime_121",
-   "title": "Anime",
+   "title": "Hina Praying in Rain",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 158,
@@ -2853,7 +2853,7 @@
   },
   {
    "id": "ds_anime_122",
-   "title": "Anime",
+   "title": "Hina Yellow Umbrella",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 135,
@@ -2873,7 +2873,7 @@
   },
   {
    "id": "ds_anime_123",
-   "title": "Anime",
+   "title": "Hina Hodaka Sky Fall",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 149,
@@ -2893,7 +2893,7 @@
   },
   {
    "id": "ds_anime_124",
-   "title": "Anime",
+   "title": "Hina Hodaka Cheering",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 107,
@@ -2913,7 +2913,7 @@
   },
   {
    "id": "ds_anime_125",
-   "title": "Anime",
+   "title": "Hina Sunlit Smile",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 159,
@@ -2933,7 +2933,7 @@
   },
   {
    "id": "ds_anime_126",
-   "title": "Anime",
+   "title": "Sleepy Blue-Haired Boy",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 95,
@@ -2953,7 +2953,7 @@
   },
   {
    "id": "ds_anime_127",
-   "title": "Anime",
+   "title": "Gojo Sunglasses Grin",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 62,
@@ -2973,7 +2973,7 @@
   },
   {
    "id": "ds_anime_128",
-   "title": "Anime",
+   "title": "Gojo Blindfold Stance",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 91,
@@ -2993,7 +2993,7 @@
   },
   {
    "id": "ds_anime_129",
-   "title": "Anime",
+   "title": "Gojo Blindfold Profile",
    "category": "anime",
    "colorCount": 10,
    "regionCount": 39,
@@ -3013,7 +3013,7 @@
   },
   {
    "id": "ds_anime_130",
-   "title": "Anime",
+   "title": "Lelouch Geass Laugh",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 179,
@@ -3033,7 +3033,7 @@
   },
   {
    "id": "ds_anime_131",
-   "title": "Anime",
+   "title": "Eren Titan Marks",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 71,
@@ -3053,7 +3053,7 @@
   },
   {
    "id": "ds_anime_132",
-   "title": "Anime",
+   "title": "Geto Topknot Portrait",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 83,
@@ -3073,7 +3073,7 @@
   },
   {
    "id": "ds_anime_133",
-   "title": "Anime",
+   "title": "Lelouch Royal Cape",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 147,
@@ -3093,7 +3093,7 @@
   },
   {
    "id": "ds_anime_134",
-   "title": "Anime",
+   "title": "Mikasa Red Scarf",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 90,
@@ -3113,7 +3113,7 @@
   },
   {
    "id": "ds_anime_135",
-   "title": "Anime",
+   "title": "Scout Looking Back",
    "category": "anime",
    "colorCount": 13,
    "regionCount": 40,
@@ -3133,7 +3133,7 @@
   },
   {
    "id": "ds_anime_136",
-   "title": "Anime",
+   "title": "Luffy Arms Crossed",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 51,
@@ -3153,7 +3153,7 @@
   },
   {
    "id": "ds_anime_137",
-   "title": "Anime",
+   "title": "Girl in Pink Coat",
    "category": "anime",
    "colorCount": 9,
    "regionCount": 38,
@@ -3173,7 +3173,7 @@
   },
   {
    "id": "ds_anime_138",
-   "title": "Anime",
+   "title": "Girl in Black Hoodie",
    "category": "anime",
    "colorCount": 11,
    "regionCount": 41,
@@ -3193,7 +3193,7 @@
   },
   {
    "id": "ds_anime_139",
-   "title": "Anime",
+   "title": "Yuji Sukuna Split Face",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 89,
@@ -3213,7 +3213,7 @@
   },
   {
    "id": "ds_anime_140",
-   "title": "Anime",
+   "title": "Yuji Fierce Grin",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 117,
@@ -3233,7 +3233,7 @@
   },
   {
    "id": "ds_anime_141",
-   "title": "Anime",
+   "title": "Gojo Glowing Blue Eyes",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 99,
@@ -3253,7 +3253,7 @@
   },
   {
    "id": "ds_anime_142",
-   "title": "Anime",
+   "title": "Gojo Peeking Glasses",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 118,
@@ -3273,7 +3273,7 @@
   },
   {
    "id": "ds_anime_143",
-   "title": "Anime",
+   "title": "Naruto Sage Cloak",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 76,
@@ -3293,7 +3293,7 @@
   },
   {
    "id": "ds_anime_144",
-   "title": "Anime",
+   "title": "Naruto Fist Forward",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 103,
@@ -3313,7 +3313,7 @@
   },
   {
    "id": "ds_anime_145",
-   "title": "Anime",
+   "title": "Sukuna Clawed Hand",
    "category": "anime",
    "colorCount": 8,
    "regionCount": 50,
@@ -3333,7 +3333,7 @@
   },
   {
    "id": "ds_anime_146",
-   "title": "Anime",
+   "title": "Jinwoo Hush Gesture",
    "category": "anime",
    "colorCount": 17,
    "regionCount": 126,
@@ -3353,7 +3353,7 @@
   },
   {
    "id": "ds_anime_147",
-   "title": "Anime",
+   "title": "Man in Purple Jacket",
    "category": "anime",
    "colorCount": 12,
    "regionCount": 50,
@@ -3373,7 +3373,7 @@
   },
   {
    "id": "ds_anime_148",
-   "title": "Anime",
+   "title": "Jinwoo Shadow Flames",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 96,
@@ -3393,7 +3393,7 @@
   },
   {
    "id": "ds_anime_149",
-   "title": "Anime",
+   "title": "Jinwoo with Dagger",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 47,
@@ -3413,7 +3413,7 @@
   },
   {
    "id": "ds_anime_150",
-   "title": "Anime",
+   "title": "Igris Red Helmet",
    "category": "anime",
    "colorCount": 11,
    "regionCount": 51,
@@ -3433,7 +3433,7 @@
   },
   {
    "id": "ds_anime_151",
-   "title": "Anime",
+   "title": "Chibi Gojo Waving",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 45,
@@ -3453,7 +3453,7 @@
   },
   {
    "id": "ds_anime_152",
-   "title": "Anime",
+   "title": "Chibi Tanjiro Running",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 125,
@@ -3473,7 +3473,7 @@
   },
   {
    "id": "ds_anime_153",
-   "title": "Anime",
+   "title": "Chibi Giyu Sword",
    "category": "anime",
    "colorCount": 14,
    "regionCount": 87,
@@ -3493,7 +3493,7 @@
   },
   {
    "id": "ds_anime_154",
-   "title": "Anime",
+   "title": "Chibi Mitsuri Kneeling",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 96,
@@ -3513,7 +3513,7 @@
   },
   {
    "id": "ds_anime_155",
-   "title": "Anime",
+   "title": "Chibi Rengoku Flames",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 129,
@@ -3533,7 +3533,7 @@
   },
   {
    "id": "ds_anime_156",
-   "title": "Anime",
+   "title": "Chibi Zoro Grumpy",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 129,
@@ -3553,7 +3553,7 @@
   },
   {
    "id": "ds_anime_157",
-   "title": "Anime",
+   "title": "Chibi Luffy Leap",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 123,
@@ -3573,7 +3573,7 @@
   },
   {
    "id": "ds_anime_158",
-   "title": "Anime",
+   "title": "Chibi Sukuna Waving",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 91,
@@ -3593,7 +3593,7 @@
   },
   {
    "id": "ds_anime_159",
-   "title": "Anime",
+   "title": "Chibi Geto Laughing",
    "category": "anime",
    "colorCount": 15,
    "regionCount": 90,
@@ -3613,7 +3613,7 @@
   },
   {
    "id": "ds_anime_160",
-   "title": "Anime",
+   "title": "Chibi Zenitsu Smile",
    "category": "anime",
    "colorCount": 18,
    "regionCount": 123,
@@ -3633,7 +3633,7 @@
   },
   {
    "id": "ds_anime_161",
-   "title": "Anime",
+   "title": "Chainsaw Man Blade Arm",
    "category": "anime",
    "colorCount": 20,
    "regionCount": 112,
@@ -3653,7 +3653,7 @@
   },
   {
    "id": "ds_anime_162",
-   "title": "Anime",
+   "title": "Gojo Red Spark",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 229,
@@ -3673,7 +3673,7 @@
   },
   {
    "id": "ds_anime_163",
-   "title": "Anime",
+   "title": "Gojo Sukuna Split Face",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 162,
@@ -3693,7 +3693,7 @@
   },
   {
    "id": "ds_anime_164",
-   "title": "Anime",
+   "title": "Tanjiro Nezuko Forest",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 405,
@@ -3713,7 +3713,7 @@
   },
   {
    "id": "ds_anime_165",
-   "title": "Anime",
+   "title": "Kakashi Yellow Poster",
    "category": "anime",
    "colorCount": 16,
    "regionCount": 107,
@@ -3733,7 +3733,7 @@
   },
   {
    "id": "ds_anime_166",
-   "title": "Anime",
+   "title": "Gojo Purple Circle",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 440,
@@ -3753,7 +3753,7 @@
   },
   {
    "id": "ds_anime_167",
-   "title": "Anime",
+   "title": "Gojo Yuji Wolf Storm",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 457,
@@ -3773,7 +3773,7 @@
   },
   {
    "id": "ds_anime_168",
-   "title": "Anime",
+   "title": "Sukuna Cyan Energy",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 419,
@@ -3793,7 +3793,7 @@
   },
   {
    "id": "ds_anime_169",
-   "title": "Anime",
+   "title": "Sukuna Dark Void",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 297,
@@ -3813,7 +3813,7 @@
   },
   {
    "id": "ds_anime_170",
-   "title": "Anime",
+   "title": "Sukuna Fire Orb",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 224,
@@ -3833,7 +3833,7 @@
   },
   {
    "id": "ds_anime_171",
-   "title": "Anime",
+   "title": "Gojo Sukuna Storm Grin",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 384,
@@ -3853,7 +3853,7 @@
   },
   {
    "id": "ds_anime_172",
-   "title": "Anime",
+   "title": "Yuji Lightning Rage",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 421,
@@ -3873,7 +3873,7 @@
   },
   {
    "id": "ds_anime_173",
-   "title": "Anime",
+   "title": "Gojo Red Sigil Orb",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 428,
@@ -3893,7 +3893,7 @@
   },
   {
    "id": "ds_anime_174",
-   "title": "Anime",
+   "title": "Gojo Yuji Thumbs Up",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 418,
@@ -3913,7 +3913,7 @@
   },
   {
    "id": "ds_anime_175",
-   "title": "Anime",
+   "title": "Gojo Galaxy Orb",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 586,
@@ -3933,7 +3933,7 @@
   },
   {
    "id": "ds_anime_176",
-   "title": "Anime",
+   "title": "Gojo Blue Moon Seal",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 334,
@@ -3953,7 +3953,7 @@
   },
   {
    "id": "ds_anime_177",
-   "title": "Anime",
+   "title": "Gojo Blue Lightning",
    "category": "anime",
    "colorCount": 23,
    "regionCount": 377,
@@ -3973,7 +3973,7 @@
   },
   {
    "id": "ds_anime_178",
-   "title": "Anime",
+   "title": "Gojo Sukuna Shush",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 300,
@@ -3993,7 +3993,7 @@
   },
   {
    "id": "ds_anime_179",
-   "title": "Anime",
+   "title": "Gojo Two Looks Split",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 328,
@@ -4013,7 +4013,7 @@
   },
   {
    "id": "ds_anime_180",
-   "title": "Anime",
+   "title": "Gojo Gazing Skyward",
    "category": "anime",
    "colorCount": 21,
    "regionCount": 118,
@@ -4033,7 +4033,7 @@
   },
   {
    "id": "ds_anime_181",
-   "title": "Anime",
+   "title": "Shin-chan Pirate Luffy",
    "category": "anime",
    "colorCount": 24,
    "regionCount": 279,
@@ -4053,7 +4053,7 @@
   },
   {
    "id": "ds_anime_182",
-   "title": "Anime",
+   "title": "Pink Cat Maid Girl",
    "category": "anime",
    "colorCount": 19,
    "regionCount": 105,
@@ -4073,7 +4073,7 @@
   },
   {
    "id": "ds_anime_183",
-   "title": "Anime",
+   "title": "Eyepatch Butterfly Boy",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 258,
@@ -4093,7 +4093,7 @@
   },
   {
    "id": "ds_anime_184",
-   "title": "Anime",
+   "title": "Naruto Fire Swirl",
    "category": "anime",
    "colorCount": 22,
    "regionCount": 317,
@@ -4752,7 +4752,7 @@
   },
   {
    "id": "ds_chibi_001",
-   "title": "Chibi 1",
+   "title": "Waving Auburn Girl",
    "category": "chibi",
    "colorCount": 16,
    "regionCount": 70,
@@ -4772,7 +4772,7 @@
   },
   {
    "id": "ds_chibi_002",
-   "title": "Chibi 2",
+   "title": "Surprised Braided Girl",
    "category": "chibi",
    "colorCount": 15,
    "regionCount": 110,
@@ -4792,7 +4792,7 @@
   },
   {
    "id": "ds_chibi_003",
-   "title": "Chibi 3",
+   "title": "White Twin Tails Girl",
    "category": "chibi",
    "colorCount": 13,
    "regionCount": 89,
@@ -4812,7 +4812,7 @@
   },
   {
    "id": "ds_chibi_004",
-   "title": "Chibi 4",
+   "title": "Winking Idol Chibi",
    "category": "chibi",
    "colorCount": 17,
    "regionCount": 142,
@@ -4832,7 +4832,7 @@
   },
   {
    "id": "ds_chibi_005",
-   "title": "Chibi 5",
+   "title": "Cat-Eared Boy with Cat",
    "category": "chibi",
    "colorCount": 13,
    "regionCount": 65,
@@ -4852,7 +4852,7 @@
   },
   {
    "id": "ds_chibi_006",
-   "title": "Chibi 6",
+   "title": "Shikamaru Frowning",
    "category": "chibi",
    "colorCount": 12,
    "regionCount": 28,
@@ -4872,7 +4872,7 @@
   },
   {
    "id": "ds_chibi_007",
-   "title": "Chibi 7",
+   "title": "Snow White with Apples",
    "category": "chibi",
    "colorCount": 20,
    "regionCount": 82,
@@ -4892,7 +4892,7 @@
   },
   {
    "id": "ds_chibi_008",
-   "title": "Chibi 8",
+   "title": "Pale-Haired Ninja",
    "category": "chibi",
    "colorCount": 13,
    "regionCount": 66,
@@ -4912,7 +4912,7 @@
   },
   {
    "id": "ds_chibi_009",
-   "title": "Chibi 9",
+   "title": "Pointing Ponytail Girl",
    "category": "chibi",
    "colorCount": 13,
    "regionCount": 70,
@@ -4932,7 +4932,7 @@
   },
   {
    "id": "ds_chibi_010",
-   "title": "Chibi 10",
+   "title": "Crowned Prince Chibi",
    "category": "chibi",
    "colorCount": 16,
    "regionCount": 75,
@@ -4952,7 +4952,7 @@
   },
   {
    "id": "ds_chibi_011",
-   "title": "Chibi 11",
+   "title": "Beret and Green Coat",
    "category": "chibi",
    "colorCount": 13,
    "regionCount": 53,
@@ -4972,7 +4972,7 @@
   },
   {
    "id": "ds_chibi_012",
-   "title": "Chibi 12",
+   "title": "Ariel Mermaid Chibi",
    "category": "chibi",
    "colorCount": 16,
    "regionCount": 53,
@@ -4992,7 +4992,7 @@
   },
   {
    "id": "ds_chibi_013",
-   "title": "Chibi 13",
+   "title": "Sakura Standing",
    "category": "chibi",
    "colorCount": 14,
    "regionCount": 56,
@@ -5012,7 +5012,7 @@
   },
   {
    "id": "ds_chibi_014",
-   "title": "Chibi 14",
+   "title": "Shark Hoodie Girl",
    "category": "chibi",
    "colorCount": 15,
    "regionCount": 87,
@@ -5032,7 +5032,7 @@
   },
   {
    "id": "ds_chibi_015",
-   "title": "Chibi 15",
+   "title": "Naruto Serious Face",
    "category": "chibi",
    "colorCount": 12,
    "regionCount": 39,
@@ -5052,7 +5052,7 @@
   },
   {
    "id": "ds_chibi_016",
-   "title": "Chibi 16",
+   "title": "Sakura Sitting Pose",
    "category": "chibi",
    "colorCount": 18,
    "regionCount": 78,
@@ -5072,7 +5072,7 @@
   },
   {
    "id": "ds_chibi_017",
-   "title": "Chibi 17",
+   "title": "Sailor Moon Twin Tails",
    "category": "chibi",
    "colorCount": 20,
    "regionCount": 166,
@@ -5092,7 +5092,7 @@
   },
   {
    "id": "ds_chibi_018",
-   "title": "Chibi 18",
+   "title": "Hello Kitty Bear Suit",
    "category": "chibi",
    "colorCount": 10,
    "regionCount": 37,
@@ -5112,7 +5112,7 @@
   },
   {
    "id": "ds_chibi_019",
-   "title": "Chibi 19",
+   "title": "Chick in Pink Hood",
    "category": "chibi",
    "colorCount": 5,
    "regionCount": 23,
@@ -5132,7 +5132,7 @@
   },
   {
    "id": "ds_chibi_020",
-   "title": "Chibi 20",
+   "title": "Duck Hat Bubble Tea",
    "category": "chibi",
    "colorCount": 8,
    "regionCount": 34,
@@ -5152,7 +5152,7 @@
   },
   {
    "id": "ds_chibi_021",
-   "title": "Chibi 21",
+   "title": "Hello Kitty Angel",
    "category": "chibi",
    "colorCount": 3,
    "regionCount": 21,
@@ -5172,7 +5172,7 @@
   },
   {
    "id": "ds_chibi_022",
-   "title": "Chibi 22",
+   "title": "Panda in Teacup",
    "category": "chibi",
    "colorCount": 9,
    "regionCount": 26,
@@ -5192,7 +5192,7 @@
   },
   {
    "id": "ds_cartoon_001",
-   "title": "Cartoon 1",
+   "title": "Tom and Jerry Poster",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 55,
@@ -5212,7 +5212,7 @@
   },
   {
    "id": "ds_cartoon_002",
-   "title": "Cartoon 2",
+   "title": "Tom and Jerry Grinning",
    "category": "cartoon",
    "colorCount": 13,
    "regionCount": 45,
@@ -5232,7 +5232,7 @@
   },
   {
    "id": "ds_cartoon_003",
-   "title": "Cartoon 3",
+   "title": "Tom Pointing Up",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 22,
@@ -5252,7 +5252,7 @@
   },
   {
    "id": "ds_cartoon_004",
-   "title": "Cartoon 4",
+   "title": "Jerry Big Smile",
    "category": "cartoon",
    "colorCount": 6,
    "regionCount": 16,
@@ -5272,7 +5272,7 @@
   },
   {
    "id": "ds_cartoon_005",
-   "title": "Cartoon 5",
+   "title": "Doraemon Bamboo Copter",
    "category": "cartoon",
    "colorCount": 11,
    "regionCount": 48,
@@ -5292,7 +5292,7 @@
   },
   {
    "id": "ds_cartoon_006",
-   "title": "Cartoon 6",
+   "title": "Doraemon Sitting",
    "category": "cartoon",
    "colorCount": 6,
    "regionCount": 20,
@@ -5312,7 +5312,7 @@
   },
   {
    "id": "ds_cartoon_007",
-   "title": "Cartoon 7",
+   "title": "Doraemon Anywhere Door",
    "category": "cartoon",
    "colorCount": 13,
    "regionCount": 42,
@@ -5332,7 +5332,7 @@
   },
   {
    "id": "ds_cartoon_008",
-   "title": "Cartoon 8",
+   "title": "Doraemon Dessert Plate",
    "category": "cartoon",
    "colorCount": 10,
    "regionCount": 40,
@@ -5352,7 +5352,7 @@
   },
   {
    "id": "ds_cartoon_009",
-   "title": "Cartoon 9",
+   "title": "Doraemon Painter",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 40,
@@ -5372,7 +5372,7 @@
   },
   {
    "id": "ds_cartoon_010",
-   "title": "Cartoon 10",
+   "title": "Pikachu in Poke Ball",
    "category": "cartoon",
    "colorCount": 22,
    "regionCount": 112,
@@ -5392,7 +5392,7 @@
   },
   {
    "id": "ds_cartoon_011",
-   "title": "Cartoon 11",
+   "title": "Pikachu Red Cap",
    "category": "cartoon",
    "colorCount": 12,
    "regionCount": 41,
@@ -5412,7 +5412,7 @@
   },
   {
    "id": "ds_cartoon_012",
-   "title": "Cartoon 12",
+   "title": "Pikachu with Balloons",
    "category": "cartoon",
    "colorCount": 9,
    "regionCount": 33,
@@ -5432,7 +5432,7 @@
   },
   {
    "id": "ds_cartoon_013",
-   "title": "Cartoon 13",
+   "title": "Pikachu in Hoodie",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 51,
@@ -5452,7 +5452,7 @@
   },
   {
    "id": "ds_cartoon_014",
-   "title": "Cartoon 14",
+   "title": "Pikachu with Big Key",
    "category": "cartoon",
    "colorCount": 11,
    "regionCount": 39,
@@ -5472,7 +5472,7 @@
   },
   {
    "id": "ds_cartoon_015",
-   "title": "Cartoon 15",
+   "title": "Pikachu on Poke Ball",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 44,
@@ -5492,7 +5492,7 @@
   },
   {
    "id": "ds_cartoon_016",
-   "title": "Cartoon 16",
+   "title": "Pikachu Charizard Suit",
    "category": "cartoon",
    "colorCount": 18,
    "regionCount": 87,
@@ -5512,7 +5512,7 @@
   },
   {
    "id": "ds_cartoon_017",
-   "title": "Cartoon 17",
+   "title": "Ash and Pikachu",
    "category": "cartoon",
    "colorCount": 22,
    "regionCount": 126,
@@ -5532,7 +5532,7 @@
   },
   {
    "id": "ds_cartoon_018",
-   "title": "Cartoon 18",
+   "title": "Mickey Classic Pose",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 22,
@@ -5552,7 +5552,7 @@
   },
   {
    "id": "ds_cartoon_019",
-   "title": "Cartoon 19",
+   "title": "Mickey Wall Breakout",
    "category": "cartoon",
    "colorCount": 13,
    "regionCount": 56,
@@ -5572,7 +5572,7 @@
   },
   {
    "id": "ds_cartoon_020",
-   "title": "Cartoon 20",
+   "title": "Minnie Peeking Out",
    "category": "cartoon",
    "colorCount": 6,
    "regionCount": 30,
@@ -5592,7 +5592,7 @@
   },
   {
    "id": "ds_cartoon_021",
-   "title": "Cartoon 21",
+   "title": "Minnie Polka Dot Bow",
    "category": "cartoon",
    "colorCount": 5,
    "regionCount": 34,
@@ -5612,7 +5612,7 @@
   },
   {
    "id": "ds_cartoon_022",
-   "title": "Cartoon 22",
+   "title": "Minnie Heart Shades",
    "category": "cartoon",
    "colorCount": 12,
    "regionCount": 38,
@@ -5632,7 +5632,7 @@
   },
   {
    "id": "ds_cartoon_023",
-   "title": "Cartoon 23",
+   "title": "Minnie with Headphones",
    "category": "cartoon",
    "colorCount": 8,
    "regionCount": 43,
@@ -5652,7 +5652,7 @@
   },
   {
    "id": "ds_cartoon_024",
-   "title": "Cartoon 24",
+   "title": "Minnie Roller Skating",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 45,
@@ -5672,7 +5672,7 @@
   },
   {
    "id": "ds_cartoon_025",
-   "title": "Cartoon 25",
+   "title": "Shin-chan Dance Move",
    "category": "cartoon",
    "colorCount": 6,
    "regionCount": 17,
@@ -5692,7 +5692,7 @@
   },
   {
    "id": "ds_cartoon_026",
-   "title": "Cartoon 26",
+   "title": "Minnie in Red Sweater",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 41,
@@ -5712,7 +5712,7 @@
   },
   {
    "id": "ds_cartoon_027",
-   "title": "Cartoon 27",
+   "title": "Mickey in Gray Hoodie",
    "category": "cartoon",
    "colorCount": 8,
    "regionCount": 33,
@@ -5732,7 +5732,7 @@
   },
   {
    "id": "ds_cartoon_028",
-   "title": "Cartoon 28",
+   "title": "Mickey Baseball Swing",
    "category": "cartoon",
    "colorCount": 14,
    "regionCount": 76,
@@ -5752,7 +5752,7 @@
   },
   {
    "id": "ds_cartoon_029",
-   "title": "Cartoon 29",
+   "title": "Hello Kitty Bubble Tea",
    "category": "cartoon",
    "colorCount": 11,
    "regionCount": 54,
@@ -5772,7 +5772,7 @@
   },
   {
    "id": "ds_cartoon_030",
-   "title": "Cartoon 30",
+   "title": "Hello Kitty on Cloud",
    "category": "cartoon",
    "colorCount": 12,
    "regionCount": 59,
@@ -5792,7 +5792,7 @@
   },
   {
    "id": "ds_cartoon_031",
-   "title": "Cartoon 31",
+   "title": "Hello Kitty Big Heart",
    "category": "cartoon",
    "colorCount": 12,
    "regionCount": 43,
@@ -5812,7 +5812,7 @@
   },
   {
    "id": "ds_cartoon_032",
-   "title": "Cartoon 32",
+   "title": "Hello Kitty Phone Wink",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 43,
@@ -5832,7 +5832,7 @@
   },
   {
    "id": "ds_cartoon_033",
-   "title": "Cartoon 33",
+   "title": "Hello Kitty Pink Shirt",
    "category": "cartoon",
    "colorCount": 10,
    "regionCount": 44,
@@ -5852,7 +5852,7 @@
   },
   {
    "id": "ds_cartoon_034",
-   "title": "Cartoon 34",
+   "title": "Hello Kitty Sunglasses",
    "category": "cartoon",
    "colorCount": 13,
    "regionCount": 64,
@@ -5872,7 +5872,7 @@
   },
   {
    "id": "ds_cartoon_035",
-   "title": "Cartoon 35",
+   "title": "Hello Kitty Road Trip",
    "category": "cartoon",
    "colorCount": 13,
    "regionCount": 112,
@@ -5892,7 +5892,7 @@
   },
   {
    "id": "ds_cartoon_036",
-   "title": "Cartoon 36",
+   "title": "Bubbles Powerpuff Girl",
    "category": "cartoon",
    "colorCount": 8,
    "regionCount": 27,
@@ -5912,7 +5912,7 @@
   },
   {
    "id": "ds_cartoon_037",
-   "title": "Cartoon 37",
+   "title": "Suneo Winking",
    "category": "cartoon",
    "colorCount": 13,
    "regionCount": 44,
@@ -5932,7 +5932,7 @@
   },
   {
    "id": "ds_cartoon_038",
-   "title": "Cartoon 38",
+   "title": "Grumpy Green Cat",
    "category": "cartoon",
    "colorCount": 8,
    "regionCount": 27,
@@ -5952,7 +5952,7 @@
   },
   {
    "id": "ds_cartoon_039",
-   "title": "Cartoon 39",
+   "title": "Shizuka Waving",
    "category": "cartoon",
    "colorCount": 8,
    "regionCount": 21,
@@ -5972,7 +5972,7 @@
   },
   {
    "id": "ds_cartoon_040",
-   "title": "Cartoon 40",
+   "title": "Doraemon Waving Hi",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 20,
@@ -5992,7 +5992,7 @@
   },
   {
    "id": "ds_cartoon_041",
-   "title": "Cartoon 41",
+   "title": "Gian Singing",
    "category": "cartoon",
    "colorCount": 12,
    "regionCount": 24,
@@ -6012,7 +6012,7 @@
   },
   {
    "id": "ds_cartoon_042",
-   "title": "Cartoon 42",
+   "title": "Thinking Cockroach",
    "category": "cartoon",
    "colorCount": 5,
    "regionCount": 22,
@@ -6032,7 +6032,7 @@
   },
   {
    "id": "ds_cartoon_043",
-   "title": "Cartoon 43",
+   "title": "Cat with Yellow Bow",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 17,
@@ -6052,7 +6052,7 @@
   },
   {
    "id": "ds_cartoon_044",
-   "title": "Cartoon 44",
+   "title": "Chhota Bheem Smiling",
    "category": "cartoon",
    "colorCount": 11,
    "regionCount": 34,
@@ -6072,7 +6072,7 @@
   },
   {
    "id": "ds_cartoon_045",
-   "title": "Cartoon 45",
+   "title": "Lanky Green Cockroach",
    "category": "cartoon",
    "colorCount": 5,
    "regionCount": 15,
@@ -6092,7 +6092,7 @@
   },
   {
    "id": "ds_cartoon_046",
-   "title": "Cartoon 46",
+   "title": "Nobita Waving",
    "category": "cartoon",
    "colorCount": 8,
    "regionCount": 15,
@@ -6112,7 +6112,7 @@
   },
   {
    "id": "ds_cartoon_047",
-   "title": "Cartoon 47",
+   "title": "Marie Pink Bow",
    "category": "cartoon",
    "colorCount": 4,
    "regionCount": 24,
@@ -6132,7 +6132,7 @@
   },
   {
    "id": "ds_cartoon_048",
-   "title": "Cartoon 48",
+   "title": "Tweety Pink Cap",
    "category": "cartoon",
    "colorCount": 14,
    "regionCount": 106,
@@ -6152,7 +6152,7 @@
   },
   {
    "id": "ds_cartoon_049",
-   "title": "Cartoon 49",
+   "title": "Stitch Skateboard",
    "category": "cartoon",
    "colorCount": 19,
    "regionCount": 195,
@@ -6172,7 +6172,7 @@
   },
   {
    "id": "ds_cartoon_050",
-   "title": "Cartoon 50",
+   "title": "Garfield Breakout",
    "category": "cartoon",
    "colorCount": 12,
    "regionCount": 96,
@@ -6192,7 +6192,7 @@
   },
   {
    "id": "ds_cartoon_051",
-   "title": "Cartoon 51",
+   "title": "Minions Banana Party",
    "category": "cartoon",
    "colorCount": 20,
    "regionCount": 179,
@@ -6212,7 +6212,7 @@
   },
   {
    "id": "ds_cartoon_052",
-   "title": "Cartoon 52",
+   "title": "Tom and Jerry Duo",
    "category": "cartoon",
    "colorCount": 14,
    "regionCount": 44,
@@ -6232,7 +6232,7 @@
   },
   {
    "id": "ds_cartoon_053",
-   "title": "Cartoon 53",
+   "title": "Jerry Red Bow Tie",
    "category": "cartoon",
    "colorCount": 21,
    "regionCount": 91,
@@ -6252,7 +6252,7 @@
   },
   {
    "id": "ds_cartoon_054",
-   "title": "Cartoon 54",
+   "title": "Tom and Jerry Hug",
    "category": "cartoon",
    "colorCount": 19,
    "regionCount": 97,
@@ -6272,7 +6272,7 @@
   },
   {
    "id": "ds_cartoon_055",
-   "title": "Cartoon 55",
+   "title": "Tom and Jerry Stroll",
    "category": "cartoon",
    "colorCount": 23,
    "regionCount": 168,
@@ -6292,7 +6292,7 @@
   },
   {
    "id": "ds_cartoon_056",
-   "title": "Cartoon 56",
+   "title": "Tom and Jerry Pool",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 252,
@@ -6312,7 +6312,7 @@
   },
   {
    "id": "ds_cartoon_057",
-   "title": "Cartoon 57",
+   "title": "Nick and Judy Selfie",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 229,
@@ -6332,7 +6332,7 @@
   },
   {
    "id": "ds_cartoon_058",
-   "title": "Cartoon 58",
+   "title": "Judy and Nick Grinning",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 249,
@@ -6352,7 +6352,7 @@
   },
   {
    "id": "ds_cartoon_059",
-   "title": "Cartoon 59",
+   "title": "Nick and Judy Sunset",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 163,
@@ -6372,7 +6372,7 @@
   },
   {
    "id": "ds_cartoon_060",
-   "title": "Cartoon 60",
+   "title": "Judy Hopps Sketch",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 47,
@@ -6392,7 +6392,7 @@
   },
   {
    "id": "ds_cartoon_061",
-   "title": "Cartoon 61",
+   "title": "Officer Judy and Nick",
    "category": "cartoon",
    "colorCount": 18,
    "regionCount": 71,
@@ -6412,7 +6412,7 @@
   },
   {
    "id": "ds_cartoon_062",
-   "title": "Cartoon 62",
+   "title": "Looney Tunes Panels",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 71,
@@ -6432,7 +6432,7 @@
   },
   {
    "id": "ds_cartoon_063",
-   "title": "Cartoon 63",
+   "title": "Tweety and Sylvester",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 66,
@@ -6452,7 +6452,7 @@
   },
   {
    "id": "ds_cartoon_064",
-   "title": "Cartoon 64",
+   "title": "Baby Looney Tunes",
    "category": "cartoon",
    "colorCount": 17,
    "regionCount": 87,
@@ -6472,7 +6472,7 @@
   },
   {
    "id": "ds_cartoon_065",
-   "title": "Cartoon 65",
+   "title": "Minion with Teddy",
    "category": "cartoon",
    "colorCount": 21,
    "regionCount": 90,
@@ -6492,7 +6492,7 @@
   },
   {
    "id": "ds_cartoon_066",
-   "title": "Cartoon 66",
+   "title": "Minion with Banana",
    "category": "cartoon",
    "colorCount": 20,
    "regionCount": 124,
@@ -6512,7 +6512,7 @@
   },
   {
    "id": "ds_cartoon_067",
-   "title": "Cartoon 67",
+   "title": "Superman Minion",
    "category": "cartoon",
    "colorCount": 23,
    "regionCount": 113,
@@ -6532,7 +6532,7 @@
   },
   {
    "id": "ds_cartoon_068",
-   "title": "Cartoon 68",
+   "title": "Batman Minion",
    "category": "cartoon",
    "colorCount": 20,
    "regionCount": 110,
@@ -6552,7 +6552,7 @@
   },
   {
    "id": "ds_cartoon_069",
-   "title": "Cartoon 69",
+   "title": "Deadpool Minion",
    "category": "cartoon",
    "colorCount": 22,
    "regionCount": 147,
@@ -6572,7 +6572,7 @@
   },
   {
    "id": "ds_cartoon_070",
-   "title": "Cartoon 70",
+   "title": "Labubu Mom Pink",
    "category": "cartoon",
    "colorCount": 13,
    "regionCount": 67,
@@ -6592,7 +6592,7 @@
   },
   {
    "id": "ds_cartoon_071",
-   "title": "Cartoon 71",
+   "title": "Labubu Kuromi Hood",
    "category": "cartoon",
    "colorCount": 10,
    "regionCount": 128,
@@ -6612,7 +6612,7 @@
   },
   {
    "id": "ds_cartoon_072",
-   "title": "Cartoon 72",
+   "title": "Labubu Kitty Hood",
    "category": "cartoon",
    "colorCount": 15,
    "regionCount": 86,
@@ -6632,7 +6632,7 @@
   },
   {
    "id": "ds_cartoon_073",
-   "title": "Cartoon 73",
+   "title": "Labubu Pink Bunny",
    "category": "cartoon",
    "colorCount": 19,
    "regionCount": 112,
@@ -6652,7 +6652,7 @@
   },
   {
    "id": "ds_cartoon_074",
-   "title": "Cartoon 74",
+   "title": "Labubu Bubble Bath",
    "category": "cartoon",
    "colorCount": 10,
    "regionCount": 73,
@@ -6672,7 +6672,7 @@
   },
   {
    "id": "ds_cartoon_075",
-   "title": "Cartoon 75",
+   "title": "Labubu Car Ride",
    "category": "cartoon",
    "colorCount": 18,
    "regionCount": 116,
@@ -6692,7 +6692,7 @@
   },
   {
    "id": "ds_cartoon_076",
-   "title": "Cartoon 76",
+   "title": "Simpsons Girl Tank Top",
    "category": "cartoon",
    "colorCount": 10,
    "regionCount": 21,
@@ -6712,7 +6712,7 @@
   },
   {
    "id": "ds_cartoon_077",
-   "title": "Cartoon 77",
+   "title": "Simpsons Teen in Skirt",
    "category": "cartoon",
    "colorCount": 11,
    "regionCount": 42,
@@ -6732,7 +6732,7 @@
   },
   {
    "id": "ds_cartoon_078",
-   "title": "Cartoon 78",
+   "title": "Marge Sporty Outfit",
    "category": "cartoon",
    "colorCount": 9,
    "regionCount": 18,
@@ -6752,7 +6752,7 @@
   },
   {
    "id": "ds_cartoon_079",
-   "title": "Cartoon 79",
+   "title": "Homer Thumbs Up",
    "category": "cartoon",
    "colorCount": 7,
    "regionCount": 15,
@@ -6772,7 +6772,7 @@
   },
   {
    "id": "ds_cartoon_080",
-   "title": "Cartoon 80",
+   "title": "Lisa in Black Dress",
    "category": "cartoon",
    "colorCount": 10,
    "regionCount": 29,
@@ -6792,7 +6792,7 @@
   },
   {
    "id": "ds_cartoon_081",
-   "title": "Cartoon 81",
+   "title": "Nick and Judy Rooftop",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 235,
@@ -6812,7 +6812,7 @@
   },
   {
    "id": "ds_cartoon_082",
-   "title": "Cartoon 82",
+   "title": "SpongeBob Flower Field",
    "category": "cartoon",
    "colorCount": 19,
    "regionCount": 130,
@@ -6832,7 +6832,7 @@
   },
   {
    "id": "ds_cartoon_083",
-   "title": "Cartoon 83",
+   "title": "Judy Apron Selfie",
    "category": "cartoon",
    "colorCount": 23,
    "regionCount": 208,
@@ -6852,7 +6852,7 @@
   },
   {
    "id": "ds_cartoon_084",
-   "title": "Cartoon 84",
+   "title": "Anya Cheerful Wave",
    "category": "cartoon",
    "colorCount": 18,
    "regionCount": 118,
@@ -6872,7 +6872,7 @@
   },
   {
    "id": "ds_cartoon_085",
-   "title": "Cartoon 85",
+   "title": "Stitch Unicorn Hood",
    "category": "cartoon",
    "colorCount": 18,
    "regionCount": 100,
@@ -6892,7 +6892,7 @@
   },
   {
    "id": "ds_cartoon_086",
-   "title": "Cartoon 86",
+   "title": "Rapunzel Flower Braid",
    "category": "cartoon",
    "colorCount": 21,
    "regionCount": 143,
@@ -6912,7 +6912,7 @@
   },
   {
    "id": "ds_cartoon_087",
-   "title": "Cartoon 87",
+   "title": "Sanrio Friends Group",
    "category": "cartoon",
    "colorCount": 18,
    "regionCount": 148,
@@ -6932,7 +6932,7 @@
   },
   {
    "id": "ds_cartoon_088",
-   "title": "Cartoon 88",
+   "title": "Cinnamoroll Sundae",
    "category": "cartoon",
    "colorCount": 21,
    "regionCount": 126,
@@ -6952,7 +6952,7 @@
   },
   {
    "id": "ds_cartoon_089",
-   "title": "Cartoon 89",
+   "title": "Stitch and Cinnamoroll",
    "category": "cartoon",
    "colorCount": 16,
    "regionCount": 109,
@@ -6972,7 +6972,7 @@
   },
   {
    "id": "ds_cartoon_090",
-   "title": "Cartoon 90",
+   "title": "Nick Judy Sky Selfie",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 196,
@@ -6992,7 +6992,7 @@
   },
   {
    "id": "ds_cartoon_091",
-   "title": "Cartoon 91",
+   "title": "Nick Wilde Pink Heart",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 232,
@@ -7012,7 +7012,7 @@
   },
   {
    "id": "ds_cartoon_092",
-   "title": "Cartoon 92",
+   "title": "Judy and Nick Peeking",
    "category": "cartoon",
    "colorCount": 23,
    "regionCount": 161,
@@ -7032,7 +7032,7 @@
   },
   {
    "id": "ds_cartoon_093",
-   "title": "Cartoon 93",
+   "title": "Judy and Nick Snuggle",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 192,
@@ -7052,7 +7052,7 @@
   },
   {
    "id": "ds_cartoon_094",
-   "title": "Cartoon 94",
+   "title": "Judy Golden Gown",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 131,
@@ -7072,7 +7072,7 @@
   },
   {
    "id": "ds_cartoon_095",
-   "title": "Cartoon 95",
+   "title": "Judy Rainbow Clouds",
    "category": "cartoon",
    "colorCount": 23,
    "regionCount": 155,
@@ -7092,7 +7092,7 @@
   },
   {
    "id": "ds_cartoon_096",
-   "title": "Cartoon 96",
+   "title": "Nick Judy Blue Dragon",
    "category": "cartoon",
    "colorCount": 23,
    "regionCount": 223,
@@ -7112,7 +7112,7 @@
   },
   {
    "id": "ds_cartoon_097",
-   "title": "Cartoon 97",
+   "title": "Judy and Nick Balcony",
    "category": "cartoon",
    "colorCount": 24,
    "regionCount": 217,
@@ -7203,7 +7203,7 @@
   },
   {
    "id": "ds_animals_001",
-   "title": "Animals 1",
+   "title": "Happy Golden Puppy",
    "category": "animals",
    "colorCount": 18,
    "regionCount": 98,
@@ -7223,7 +7223,7 @@
   },
   {
    "id": "ds_animals_002",
-   "title": "Animals 2",
+   "title": "Flower Crown Kitty",
    "category": "animals",
    "colorCount": 20,
    "regionCount": 180,
@@ -7243,7 +7243,7 @@
   },
   {
    "id": "ds_animals_003",
-   "title": "Animals 3",
+   "title": "Corgi with Bone",
    "category": "animals",
    "colorCount": 4,
    "regionCount": 27,
@@ -7263,7 +7263,7 @@
   },
   {
    "id": "ds_animals_004",
-   "title": "Animals 4",
+   "title": "Turtle Hugging Heart",
    "category": "animals",
    "colorCount": 13,
    "regionCount": 90,
@@ -7283,7 +7283,7 @@
   },
   {
    "id": "ds_animals_005",
-   "title": "Animals 5",
+   "title": "Curly Mane Unicorn",
    "category": "animals",
    "colorCount": 9,
    "regionCount": 53,
@@ -7303,7 +7303,7 @@
   },
   {
    "id": "ds_animals_006",
-   "title": "Animals 6",
+   "title": "Smiling Clownfish",
    "category": "animals",
    "colorCount": 8,
    "regionCount": 41,
@@ -7323,7 +7323,7 @@
   },
   {
    "id": "ds_animals_007",
-   "title": "Animals 7",
+   "title": "Blue Tuna Fish",
    "category": "animals",
    "colorCount": 10,
    "regionCount": 16,
@@ -7343,7 +7343,7 @@
   },
   {
    "id": "ds_animals_008",
-   "title": "Animals 8",
+   "title": "Striped Butterflyfish",
    "category": "animals",
    "colorCount": 8,
    "regionCount": 30,
@@ -7363,7 +7363,7 @@
   },
   {
    "id": "ds_animals_009",
-   "title": "Animals 9",
+   "title": "Blue Spotted Fish",
    "category": "animals",
    "colorCount": 7,
    "regionCount": 20,
@@ -7383,7 +7383,7 @@
   },
   {
    "id": "ds_animals_010",
-   "title": "Animals 10",
+   "title": "Coral Striped Fish",
    "category": "animals",
    "colorCount": 7,
    "regionCount": 17,
@@ -7403,7 +7403,7 @@
   },
   {
    "id": "ds_animals_011",
-   "title": "Animals 11",
+   "title": "Sitting Lion Cub",
    "category": "animals",
    "colorCount": 11,
    "regionCount": 30,
@@ -7423,7 +7423,7 @@
   },
   {
    "id": "ds_animals_012",
-   "title": "Animals 12",
+   "title": "Lion Lying Down",
    "category": "animals",
    "colorCount": 13,
    "regionCount": 43,
@@ -7443,7 +7443,7 @@
   },
   {
    "id": "ds_animals_013",
-   "title": "Animals 13",
+   "title": "Walking Tiger Cub",
    "category": "animals",
    "colorCount": 12,
    "regionCount": 61,
@@ -7463,7 +7463,7 @@
   },
   {
    "id": "ds_animals_014",
-   "title": "Animals 14",
+   "title": "Playful Tiger Pounce",
    "category": "animals",
    "colorCount": 8,
    "regionCount": 40,
@@ -7483,7 +7483,7 @@
   },
   {
    "id": "ds_animals_015",
-   "title": "Animals 15",
+   "title": "Jungle Lion Cub",
    "category": "animals",
    "colorCount": 21,
    "regionCount": 115,
@@ -7503,7 +7503,7 @@
   },
   {
    "id": "ds_animals_016",
-   "title": "Animals 16",
+   "title": "Parrot on Branch",
    "category": "animals",
    "colorCount": 17,
    "regionCount": 46,
@@ -7523,7 +7523,7 @@
   },
   {
    "id": "ds_animals_017",
-   "title": "Animals 17",
+   "title": "Wise Brown Owl",
    "category": "animals",
    "colorCount": 13,
    "regionCount": 28,
@@ -7543,7 +7543,7 @@
   },
   {
    "id": "ds_animals_018",
-   "title": "Animals 18",
+   "title": "Flapping Yellow Chick",
    "category": "animals",
    "colorCount": 9,
    "regionCount": 19,
@@ -7563,7 +7563,7 @@
   },
   {
    "id": "ds_animals_019",
-   "title": "Animals 19",
+   "title": "Hermit Crab Shell",
    "category": "animals",
    "colorCount": 14,
    "regionCount": 41,
@@ -7583,7 +7583,7 @@
   },
   {
    "id": "ds_animals_020",
-   "title": "Animals 20",
+   "title": "Pink Kawaii Owl",
    "category": "animals",
    "colorCount": 13,
    "regionCount": 53,
@@ -7603,7 +7603,7 @@
   },
   {
    "id": "ds_animals_021",
-   "title": "Animals 21",
+   "title": "Bugs Bunny with Carrot",
    "category": "animals",
    "colorCount": 6,
    "regionCount": 31,
@@ -7623,7 +7623,7 @@
   },
   {
    "id": "ds_animals_022",
-   "title": "Animals 22",
+   "title": "Pink Pufferfish",
    "category": "animals",
    "colorCount": 16,
    "regionCount": 43,
@@ -7643,7 +7643,7 @@
   },
   {
    "id": "ds_animals_023",
-   "title": "Animals 23",
+   "title": "Classic Clownfish",
    "category": "animals",
    "colorCount": 4,
    "regionCount": 19,
@@ -7663,7 +7663,7 @@
   },
   {
    "id": "ds_animals_024",
-   "title": "Animals 24",
+   "title": "Corgi Tongue Out",
    "category": "animals",
    "colorCount": 9,
    "regionCount": 45,
@@ -7683,7 +7683,7 @@
   },
   {
    "id": "ds_animals_025",
-   "title": "Animals 25",
+   "title": "Pink Octopus",
    "category": "animals",
    "colorCount": 7,
    "regionCount": 25,
@@ -7703,7 +7703,7 @@
   },
   {
    "id": "ds_animals_026",
-   "title": "Animals 26",
+   "title": "Spotted Baby Cow",
    "category": "animals",
    "colorCount": 5,
    "regionCount": 21,
@@ -7723,7 +7723,7 @@
   },
   {
    "id": "ds_animals_027",
-   "title": "Animals 27",
+   "title": "Puppy with Red Collar",
    "category": "animals",
    "colorCount": 9,
    "regionCount": 44,
@@ -7743,7 +7743,7 @@
   },
   {
    "id": "ds_animals_028",
-   "title": "Animals 28",
+   "title": "Bunny Holding Carrot",
    "category": "animals",
    "colorCount": 6,
    "regionCount": 31,
@@ -7763,7 +7763,7 @@
   },
   {
    "id": "ds_animals_029",
-   "title": "Animals 29",
+   "title": "Orange Tabby Kitten",
    "category": "animals",
    "colorCount": 14,
    "regionCount": 94,
@@ -7783,7 +7783,7 @@
   },
   {
    "id": "ds_animals_030",
-   "title": "Animals 30",
+   "title": "Cats Sharing a Drink",
    "category": "animals",
    "colorCount": 21,
    "regionCount": 146,
@@ -7803,7 +7803,7 @@
   },
   {
    "id": "ds_animals_031",
-   "title": "Animals 31",
+   "title": "Cat and Butterfly",
    "category": "animals",
    "colorCount": 19,
    "regionCount": 135,
@@ -7823,7 +7823,7 @@
   },
   {
    "id": "ds_animals_032",
-   "title": "Animals 32",
+   "title": "Fluffy Brown Puppy",
    "category": "animals",
    "colorCount": 17,
    "regionCount": 95,
@@ -7843,7 +7843,7 @@
   },
   {
    "id": "ds_animals_033",
-   "title": "Animals 33",
+   "title": "Laughing Shiba Inu",
    "category": "animals",
    "colorCount": 11,
    "regionCount": 36,
@@ -7863,7 +7863,7 @@
   },
   {
    "id": "ds_animals_034",
-   "title": "Animals 34",
+   "title": "Christmas Tree Puppy",
    "category": "animals",
    "colorCount": 14,
    "regionCount": 73,
@@ -7883,7 +7883,7 @@
   },
   {
    "id": "ds_animals_035",
-   "title": "Animals 35",
+   "title": "Bunny Carrot Picnic",
    "category": "animals",
    "colorCount": 21,
    "regionCount": 153,
@@ -7903,7 +7903,7 @@
   },
   {
    "id": "ds_animals_036",
-   "title": "Animals 36",
+   "title": "Bunny on Carrot Pillow",
    "category": "animals",
    "colorCount": 13,
    "regionCount": 42,
@@ -7923,7 +7923,7 @@
   },
   {
    "id": "ds_animals_037",
-   "title": "Animals 37",
+   "title": "Sitting Blue Elephant",
    "category": "animals",
    "colorCount": 13,
    "regionCount": 50,
@@ -7943,7 +7943,7 @@
   },
   {
    "id": "ds_animals_038",
-   "title": "Animals 38",
+   "title": "Elephant Hula Hoop",
    "category": "animals",
    "colorCount": 16,
    "regionCount": 94,
@@ -7963,7 +7963,7 @@
   },
   {
    "id": "ds_animals_039",
-   "title": "Animals 39",
+   "title": "Elephant Splashing",
    "category": "animals",
    "colorCount": 23,
    "regionCount": 177,
@@ -7983,7 +7983,7 @@
   },
   {
    "id": "ds_animals_040",
-   "title": "Animals 40",
+   "title": "Mouse on Elephant",
    "category": "animals",
    "colorCount": 24,
    "regionCount": 194,
@@ -8003,7 +8003,7 @@
   },
   {
    "id": "ds_animals_041",
-   "title": "Animals 41",
+   "title": "Elephant at the Beach",
    "category": "animals",
    "colorCount": 24,
    "regionCount": 224,
@@ -8023,7 +8023,7 @@
   },
   {
    "id": "ds_animals_042",
-   "title": "Animals 42",
+   "title": "Waving Yellow Dino",
    "category": "animals",
    "colorCount": 12,
    "regionCount": 42,
@@ -8043,7 +8043,7 @@
   },
   {
    "id": "ds_animals_043",
-   "title": "Animals 43",
+   "title": "Cheering Red T-Rex",
    "category": "animals",
    "colorCount": 13,
    "regionCount": 57,
@@ -8063,7 +8063,7 @@
   },
   {
    "id": "ds_animals_044",
-   "title": "Animals 44",
+   "title": "Baby Triceratops",
    "category": "animals",
    "colorCount": 12,
    "regionCount": 63,
@@ -8083,7 +8083,7 @@
   },
   {
    "id": "ds_animals_045",
-   "title": "Animals 45",
+   "title": "Cat in Fairy Lights",
    "category": "animals",
    "colorCount": 19,
    "regionCount": 125,
@@ -8103,7 +8103,7 @@
   },
   {
    "id": "ds_animals_046",
-   "title": "Animals 46",
+   "title": "White Cat in Meadow",
    "category": "animals",
    "colorCount": 24,
    "regionCount": 285,
@@ -8123,7 +8123,7 @@
   },
   {
    "id": "ds_animals_047",
-   "title": "Animals 47",
+   "title": "Puppy by the Stream",
    "category": "animals",
    "colorCount": 24,
    "regionCount": 399,
@@ -8143,7 +8143,7 @@
   },
   {
    "id": "ds_animals_048",
-   "title": "Animals 48",
+   "title": "Puppy on the Rug",
    "category": "animals",
    "colorCount": 22,
    "regionCount": 226,
@@ -8163,7 +8163,7 @@
   },
   {
    "id": "ds_animals_049",
-   "title": "Animals 49",
+   "title": "Golden Retriever Smile",
    "category": "animals",
    "colorCount": 17,
    "regionCount": 126,
@@ -8183,7 +8183,7 @@
   },
   {
    "id": "ds_animals_050",
-   "title": "Animals 50",
+   "title": "Tuxedo Cat Pink Collar",
    "category": "animals",
    "colorCount": 17,
    "regionCount": 107,
@@ -8203,7 +8203,7 @@
   },
   {
    "id": "ds_animals_051",
-   "title": "Animals 51",
+   "title": "Goose in Daisies",
    "category": "animals",
    "colorCount": 17,
    "regionCount": 127,
@@ -8223,7 +8223,7 @@
   },
   {
    "id": "ds_animals_052",
-   "title": "Animals 52",
+   "title": "Corgi in Sunflowers",
    "category": "animals",
    "colorCount": 24,
    "regionCount": 381,
@@ -8243,7 +8243,7 @@
   },
   {
    "id": "ds_animals_053",
-   "title": "Animals 53",
+   "title": "Fox in Santa Hat",
    "category": "animals",
    "colorCount": 24,
    "regionCount": 439,
@@ -8263,7 +8263,7 @@
   },
   {
    "id": "ds_animals_054",
-   "title": "Animals 54",
+   "title": "Sunflower Kitty",
    "category": "animals",
    "colorCount": 20,
    "regionCount": 184,
@@ -8283,7 +8283,7 @@
   },
   {
    "id": "ds_animals_055",
-   "title": "Animals 55",
+   "title": "Puppy with Red Glasses",
    "category": "animals",
    "colorCount": 12,
    "regionCount": 58,
@@ -8303,7 +8303,7 @@
   },
   {
    "id": "ds_animals_056",
-   "title": "Animals 56",
+   "title": "Swimming White Ducks",
    "category": "animals",
    "colorCount": 10,
    "regionCount": 58,
@@ -8323,7 +8323,7 @@
   },
   {
    "id": "ds_animals_057",
-   "title": "Animals 57",
+   "title": "Ducklings in Pond",
    "category": "animals",
    "colorCount": 23,
    "regionCount": 321,
@@ -8343,7 +8343,7 @@
   },
   {
    "id": "ds_animals_058",
-   "title": "Animals 58",
+   "title": "Corgi by Campfire",
    "category": "animals",
    "colorCount": 19,
    "regionCount": 122,
@@ -8363,7 +8363,7 @@
   },
   {
    "id": "ds_animals_059",
-   "title": "Animals 59",
+   "title": "Penguin in Blanket",
    "category": "animals",
    "colorCount": 16,
    "regionCount": 119,
@@ -8383,7 +8383,7 @@
   },
   {
    "id": "ds_animals_060",
-   "title": "Animals 60",
+   "title": "Gray Tabby Kitten",
    "category": "animals",
    "colorCount": 20,
    "regionCount": 107,
@@ -8403,7 +8403,7 @@
   },
   {
    "id": "ds_animals_061",
-   "title": "Animals 61",
+   "title": "Corgi in Santa Cloak",
    "category": "animals",
    "colorCount": 17,
    "regionCount": 100,
@@ -8423,7 +8423,7 @@
   },
   {
    "id": "ds_flowers_001",
-   "title": "Flowers 1",
+   "title": "Twin Pink Blossoms",
    "category": "flowers",
    "colorCount": 4,
    "regionCount": 22,
@@ -8443,7 +8443,7 @@
   },
   {
    "id": "ds_flowers_002",
-   "title": "Flowers 2",
+   "title": "Red Carnation",
    "category": "flowers",
    "colorCount": 12,
    "regionCount": 35,
@@ -8463,7 +8463,7 @@
   },
   {
    "id": "ds_flowers_003",
-   "title": "Flowers 3",
+   "title": "Orange Poppy",
    "category": "flowers",
    "colorCount": 13,
    "regionCount": 45,
@@ -8483,7 +8483,7 @@
   },
   {
    "id": "ds_flowers_004",
-   "title": "Flowers 4",
+   "title": "Orange Tulip Trio",
    "category": "flowers",
    "colorCount": 13,
    "regionCount": 55,
@@ -8503,7 +8503,7 @@
   },
   {
    "id": "ds_flowers_005",
-   "title": "Flowers 5",
+   "title": "Purple Violets",
    "category": "flowers",
    "colorCount": 9,
    "regionCount": 27,
@@ -8523,7 +8523,7 @@
   },
   {
    "id": "ds_flowers_006",
-   "title": "Flowers 6",
+   "title": "Yellow Rose Butterfly",
    "category": "flowers",
    "colorCount": 20,
    "regionCount": 175,
@@ -8543,7 +8543,7 @@
   },
   {
    "id": "ds_flowers_007",
-   "title": "Flowers 7",
+   "title": "Rose Gift Box",
    "category": "flowers",
    "colorCount": 19,
    "regionCount": 217,
@@ -8563,7 +8563,7 @@
   },
   {
    "id": "ds_flowers_008",
-   "title": "Flowers 8",
+   "title": "Magenta Rose",
    "category": "flowers",
    "colorCount": 18,
    "regionCount": 160,
@@ -8583,7 +8583,7 @@
   },
   {
    "id": "ds_flowers_009",
-   "title": "Flowers 9",
+   "title": "Pink Rose Bloom",
    "category": "flowers",
    "colorCount": 15,
    "regionCount": 79,
@@ -8603,7 +8603,7 @@
   },
   {
    "id": "ds_flowers_010",
-   "title": "Flowers 10",
+   "title": "Coral Rose with Leaves",
    "category": "flowers",
    "colorCount": 15,
    "regionCount": 73,
@@ -8623,7 +8623,7 @@
   },
   {
    "id": "ds_flowers_011",
-   "title": "Flowers 11",
+   "title": "Lotus at Sunset",
    "category": "flowers",
    "colorCount": 17,
    "regionCount": 218,
@@ -8643,7 +8643,7 @@
   },
   {
    "id": "ds_flowers_012",
-   "title": "Flowers 12",
+   "title": "Pale Pink Lotus",
    "category": "flowers",
    "colorCount": 17,
    "regionCount": 128,
@@ -8663,7 +8663,7 @@
   },
   {
    "id": "ds_flowers_013",
-   "title": "Flowers 13",
+   "title": "Cherry Blossom Branch",
    "category": "flowers",
    "colorCount": 13,
    "regionCount": 109,
@@ -8683,7 +8683,7 @@
   },
   {
    "id": "ds_flowers_014",
-   "title": "Flowers 14",
+   "title": "Single Sakura Flower",
    "category": "flowers",
    "colorCount": 12,
    "regionCount": 56,
@@ -8703,7 +8703,7 @@
   },
   {
    "id": "ds_flowers_015",
-   "title": "Flowers 15",
+   "title": "Sakura Sprig",
    "category": "flowers",
    "colorCount": 11,
    "regionCount": 75,
@@ -8723,7 +8723,7 @@
   },
   {
    "id": "ds_flowers_016",
-   "title": "Flowers 16",
+   "title": "Peach Blossom Twigs",
    "category": "flowers",
    "colorCount": 17,
    "regionCount": 224,
@@ -8743,7 +8743,7 @@
   },
   {
    "id": "ds_flowers_017",
-   "title": "Flowers 17",
+   "title": "Plum Blossom Lantern",
    "category": "flowers",
    "colorCount": 2,
    "regionCount": 18,
@@ -8763,7 +8763,7 @@
   },
   {
    "id": "ds_flowers_018",
-   "title": "Flowers 18",
+   "title": "Tulips in Envelope",
    "category": "flowers",
    "colorCount": 19,
    "regionCount": 105,
@@ -8783,7 +8783,7 @@
   },
   {
    "id": "ds_flowers_019",
-   "title": "Flowers 19",
+   "title": "Smiling Sunflower",
    "category": "flowers",
    "colorCount": 14,
    "regionCount": 127,
@@ -8803,7 +8803,7 @@
   },
   {
    "id": "ds_flowers_020",
-   "title": "Flowers 20",
+   "title": "Sunflower on Gold",
    "category": "flowers",
    "colorCount": 21,
    "regionCount": 250,
@@ -8823,7 +8823,7 @@
   },
   {
    "id": "ds_flowers_021",
-   "title": "Flowers 21",
+   "title": "Sunflower and Leaves",
    "category": "flowers",
    "colorCount": 17,
    "regionCount": 164,
@@ -8843,7 +8843,7 @@
   },
   {
    "id": "ds_flowers_022",
-   "title": "Flowers 22",
+   "title": "Single Sunflower Stem",
    "category": "flowers",
    "colorCount": 7,
    "regionCount": 50,
@@ -8863,7 +8863,7 @@
   },
   {
    "id": "ds_flowers_023",
-   "title": "Flowers 23",
+   "title": "Sunflower Cluster",
    "category": "flowers",
    "colorCount": 10,
    "regionCount": 156,
@@ -8883,7 +8883,7 @@
   },
   {
    "id": "ds_flowers_024",
-   "title": "Flowers 24",
+   "title": "Potted Happy Sunflower",
    "category": "flowers",
    "colorCount": 10,
    "regionCount": 49,
@@ -8903,7 +8903,7 @@
   },
   {
    "id": "ds_flowers_025",
-   "title": "Flowers 25",
+   "title": "Girl in Floral Kimono",
    "category": "flowers",
    "colorCount": 24,
    "regionCount": 235,
@@ -8923,7 +8923,7 @@
   },
   {
    "id": "ds_flowers_026",
-   "title": "Flowers 26",
+   "title": "Woman with Poppies",
    "category": "flowers",
    "colorCount": 19,
    "regionCount": 253,
@@ -8943,7 +8943,7 @@
   },
   {
    "id": "ds_flowers_027",
-   "title": "Flowers 27",
+   "title": "Lotus Pond Ripples",
    "category": "flowers",
    "colorCount": 23,
    "regionCount": 439,
@@ -8963,7 +8963,7 @@
   },
   {
    "id": "ds_flowers_028",
-   "title": "Flowers 28",
+   "title": "Splashing White Blooms",
    "category": "flowers",
    "colorCount": 23,
    "regionCount": 513,
@@ -8983,7 +8983,7 @@
   },
   {
    "id": "ds_flowers_029",
-   "title": "Flowers 29",
+   "title": "Fairy Frog in Peonies",
    "category": "flowers",
    "colorCount": 23,
    "regionCount": 281,
@@ -9642,7 +9642,7 @@
   },
   {
    "id": "ds_kpop_hunters_001",
-   "title": "Kpop Hunters 1",
+   "title": "Rumi Yellow Jacket",
    "category": "kpop_hunters",
    "colorCount": 17,
    "regionCount": 62,
@@ -9662,7 +9662,7 @@
   },
   {
    "id": "ds_kpop_hunters_002",
-   "title": "Kpop Hunters 2",
+   "title": "Mira Arms Raised",
    "category": "kpop_hunters",
    "colorCount": 17,
    "regionCount": 77,
@@ -9682,7 +9682,7 @@
   },
   {
    "id": "ds_kpop_hunters_003",
-   "title": "Kpop Hunters 3",
+   "title": "Rumi with Microphone",
    "category": "kpop_hunters",
    "colorCount": 9,
    "regionCount": 40,
@@ -9702,7 +9702,7 @@
   },
   {
    "id": "ds_kpop_hunters_004",
-   "title": "Kpop Hunters 4",
+   "title": "Rumi Mira Zoey Trio",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 322,
@@ -9722,7 +9722,7 @@
   },
   {
    "id": "ds_kpop_hunters_005",
-   "title": "Kpop Hunters 5",
+   "title": "Chibi Rumi",
    "category": "kpop_hunters",
    "colorCount": 20,
    "regionCount": 93,
@@ -9742,7 +9742,7 @@
   },
   {
    "id": "ds_kpop_hunters_006",
-   "title": "Kpop Hunters 6",
+   "title": "Chibi Zoey",
    "category": "kpop_hunters",
    "colorCount": 16,
    "regionCount": 56,
@@ -9762,7 +9762,7 @@
   },
   {
    "id": "ds_kpop_hunters_007",
-   "title": "Kpop Hunters 7",
+   "title": "Chibi Mira",
    "category": "kpop_hunters",
    "colorCount": 18,
    "regionCount": 95,
@@ -9782,7 +9782,7 @@
   },
   {
    "id": "ds_kpop_hunters_008",
-   "title": "Kpop Hunters 8",
+   "title": "Rumi Purple Backdrop",
    "category": "kpop_hunters",
    "colorCount": 19,
    "regionCount": 109,
@@ -9802,7 +9802,7 @@
   },
   {
    "id": "ds_kpop_hunters_009",
-   "title": "Kpop Hunters 9",
+   "title": "Zoey Heart Dots",
    "category": "kpop_hunters",
    "colorCount": 16,
    "regionCount": 83,
@@ -9822,7 +9822,7 @@
   },
   {
    "id": "ds_kpop_hunters_010",
-   "title": "Kpop Hunters 10",
+   "title": "Mira Sly Smile",
    "category": "kpop_hunters",
    "colorCount": 20,
    "regionCount": 183,
@@ -9842,7 +9842,7 @@
   },
   {
    "id": "ds_kpop_hunters_011",
-   "title": "Kpop Hunters 11",
+   "title": "Huntrix Group Selfie",
    "category": "kpop_hunters",
    "colorCount": 23,
    "regionCount": 190,
@@ -9862,7 +9862,7 @@
   },
   {
    "id": "ds_kpop_hunters_012",
-   "title": "Kpop Hunters 12",
+   "title": "Zoey Crouching Pose",
    "category": "kpop_hunters",
    "colorCount": 13,
    "regionCount": 51,
@@ -9882,7 +9882,7 @@
   },
   {
    "id": "ds_kpop_hunters_013",
-   "title": "Kpop Hunters 13",
+   "title": "Mira Poster Pose",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 103,
@@ -9902,7 +9902,7 @@
   },
   {
    "id": "ds_kpop_hunters_014",
-   "title": "Kpop Hunters 14",
+   "title": "Mira Fingerless Glove",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 242,
@@ -9922,7 +9922,7 @@
   },
   {
    "id": "ds_kpop_hunters_015",
-   "title": "Kpop Hunters 15",
+   "title": "Mira Sparkle Tee",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 168,
@@ -9942,7 +9942,7 @@
   },
   {
    "id": "ds_kpop_hunters_016",
-   "title": "Kpop Hunters 16",
+   "title": "Mira with Staff",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 142,
@@ -9962,7 +9962,7 @@
   },
   {
    "id": "ds_kpop_hunters_017",
-   "title": "Kpop Hunters 17",
+   "title": "Mira Heart Hands",
    "category": "kpop_hunters",
    "colorCount": 16,
    "regionCount": 106,
@@ -9982,7 +9982,7 @@
   },
   {
    "id": "ds_kpop_hunters_018",
-   "title": "Kpop Hunters 18",
+   "title": "Mira Mic Banner",
    "category": "kpop_hunters",
    "colorCount": 22,
    "regionCount": 147,
@@ -10002,7 +10002,7 @@
   },
   {
    "id": "ds_kpop_hunters_019",
-   "title": "Kpop Hunters 19",
+   "title": "Mira Green Backdrop",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 252,
@@ -10022,7 +10022,7 @@
   },
   {
    "id": "ds_kpop_hunters_020",
-   "title": "Kpop Hunters 20",
+   "title": "Mira Night Sky",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 148,
@@ -10042,7 +10042,7 @@
   },
   {
    "id": "ds_kpop_hunters_021",
-   "title": "Kpop Hunters 21",
+   "title": "Mira Fighting Stance",
    "category": "kpop_hunters",
    "colorCount": 14,
    "regionCount": 53,
@@ -10062,7 +10062,7 @@
   },
   {
    "id": "ds_kpop_hunters_022",
-   "title": "Kpop Hunters 22",
+   "title": "Mira Hand on Hip",
    "category": "kpop_hunters",
    "colorCount": 13,
    "regionCount": 47,
@@ -10082,7 +10082,7 @@
   },
   {
    "id": "ds_kpop_hunters_023",
-   "title": "Kpop Hunters 23",
+   "title": "Zoey Graffiti Wall",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 241,
@@ -10102,7 +10102,7 @@
   },
   {
    "id": "ds_kpop_hunters_024",
-   "title": "Kpop Hunters 24",
+   "title": "Chibi Zoey with Mic",
    "category": "kpop_hunters",
    "colorCount": 14,
    "regionCount": 64,
@@ -10122,7 +10122,7 @@
   },
   {
    "id": "ds_kpop_hunters_025",
-   "title": "Kpop Hunters 25",
+   "title": "Zoey Throwing Knives",
    "category": "kpop_hunters",
    "colorCount": 20,
    "regionCount": 251,
@@ -10142,7 +10142,7 @@
   },
   {
    "id": "ds_kpop_hunters_026",
-   "title": "Kpop Hunters 26",
+   "title": "Zoey Sparkly Top",
    "category": "kpop_hunters",
    "colorCount": 19,
    "regionCount": 127,
@@ -10162,7 +10162,7 @@
   },
   {
    "id": "ds_kpop_hunters_027",
-   "title": "Kpop Hunters 27",
+   "title": "Zoey Blue Hair Mic",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 227,
@@ -10182,7 +10182,7 @@
   },
   {
    "id": "ds_kpop_hunters_028",
-   "title": "Kpop Hunters 28",
+   "title": "Zoey Big Smile",
    "category": "kpop_hunters",
    "colorCount": 19,
    "regionCount": 131,
@@ -10202,7 +10202,7 @@
   },
   {
    "id": "ds_kpop_hunters_029",
-   "title": "Kpop Hunters 29",
+   "title": "Zoey Heart Glasses",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 186,
@@ -10222,7 +10222,7 @@
   },
   {
    "id": "ds_kpop_hunters_030",
-   "title": "Kpop Hunters 30",
+   "title": "Zoey Teal Hair Pop",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 224,
@@ -10242,7 +10242,7 @@
   },
   {
    "id": "ds_kpop_hunters_031",
-   "title": "Kpop Hunters 31",
+   "title": "Zoey Glowing Blade",
    "category": "kpop_hunters",
    "colorCount": 23,
    "regionCount": 218,
@@ -10262,7 +10262,7 @@
   },
   {
    "id": "ds_kpop_hunters_032",
-   "title": "Kpop Hunters 32",
+   "title": "Zoey Singing Banner",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 121,
@@ -10282,7 +10282,7 @@
   },
   {
    "id": "ds_kpop_hunters_033",
-   "title": "Kpop Hunters 33",
+   "title": "Rumi Lilac Backdrop",
    "category": "kpop_hunters",
    "colorCount": 15,
    "regionCount": 69,
@@ -10302,7 +10302,7 @@
   },
   {
    "id": "ds_kpop_hunters_034",
-   "title": "Kpop Hunters 34",
+   "title": "Rumi Pink Backdrop",
    "category": "kpop_hunters",
    "colorCount": 20,
    "regionCount": 108,
@@ -10322,7 +10322,7 @@
   },
   {
    "id": "ds_kpop_hunters_035",
-   "title": "Kpop Hunters 35",
+   "title": "Rumi Spiked Shoulder",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 167,
@@ -10342,7 +10342,7 @@
   },
   {
    "id": "ds_kpop_hunters_036",
-   "title": "Kpop Hunters 36",
+   "title": "Rumi Singing Yellow",
    "category": "kpop_hunters",
    "colorCount": 22,
    "regionCount": 140,
@@ -10362,7 +10362,7 @@
   },
   {
    "id": "ds_kpop_hunters_037",
-   "title": "Kpop Hunters 37",
+   "title": "Rumi Mic Point",
    "category": "kpop_hunters",
    "colorCount": 10,
    "regionCount": 55,
@@ -10382,7 +10382,7 @@
   },
   {
    "id": "ds_kpop_hunters_038",
-   "title": "Kpop Hunters 38",
+   "title": "Rumi Starry Prism",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 187,
@@ -10402,7 +10402,7 @@
   },
   {
    "id": "ds_kpop_hunters_039",
-   "title": "Kpop Hunters 39",
+   "title": "Rumi Blue Braid",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 130,
@@ -10422,7 +10422,7 @@
   },
   {
    "id": "ds_kpop_hunters_040",
-   "title": "Kpop Hunters 40",
+   "title": "Rumi Pink Skirt",
    "category": "kpop_hunters",
    "colorCount": 16,
    "regionCount": 100,
@@ -10442,7 +10442,7 @@
   },
   {
    "id": "ds_kpop_hunters_041",
-   "title": "Kpop Hunters 41",
+   "title": "Rumi Double Pose",
    "category": "kpop_hunters",
    "colorCount": 24,
    "regionCount": 183,
@@ -10462,7 +10462,7 @@
   },
   {
    "id": "ds_kpop_hunters_042",
-   "title": "Kpop Hunters 42",
+   "title": "Chibi Rumi Sneakers",
    "category": "kpop_hunters",
    "colorCount": 21,
    "regionCount": 165,
@@ -10482,7 +10482,7 @@
   },
   {
    "id": "ds_kpop_hunters_043",
-   "title": "Kpop Hunters 43",
+   "title": "Rumi Phone Selfie",
    "category": "kpop_hunters",
    "colorCount": 14,
    "regionCount": 55,
@@ -10502,7 +10502,7 @@
   },
   {
    "id": "ds_hindu_gods_001",
-   "title": "Hindu Gods 1",
+   "title": "Ganesha on Elephant",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 128,
@@ -10522,7 +10522,7 @@
   },
   {
    "id": "ds_hindu_gods_002",
-   "title": "Hindu Gods 2",
+   "title": "Ganesha Music Notes",
    "category": "hindu_gods",
    "colorCount": 16,
    "regionCount": 115,
@@ -10542,7 +10542,7 @@
   },
   {
    "id": "ds_hindu_gods_003",
-   "title": "Hindu Gods 3",
+   "title": "Ganesha with Axe",
    "category": "hindu_gods",
    "colorCount": 18,
    "regionCount": 138,
@@ -10562,7 +10562,7 @@
   },
   {
    "id": "ds_hindu_gods_004",
-   "title": "Hindu Gods 4",
+   "title": "Ganesha Pastel Flowers",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 199,
@@ -10582,7 +10582,7 @@
   },
   {
    "id": "ds_hindu_gods_005",
-   "title": "Hindu Gods 5",
+   "title": "Krishna Butter Pot",
    "category": "hindu_gods",
    "colorCount": 18,
    "regionCount": 80,
@@ -10602,7 +10602,7 @@
   },
   {
    "id": "ds_hindu_gods_006",
-   "title": "Hindu Gods 6",
+   "title": "Krishna Eating Butter",
    "category": "hindu_gods",
    "colorCount": 17,
    "regionCount": 85,
@@ -10622,7 +10622,7 @@
   },
   {
    "id": "ds_hindu_gods_007",
-   "title": "Hindu Gods 7",
+   "title": "Krishna with Lotuses",
    "category": "hindu_gods",
    "colorCount": 20,
    "regionCount": 90,
@@ -10642,7 +10642,7 @@
   },
   {
    "id": "ds_hindu_gods_008",
-   "title": "Hindu Gods 8",
+   "title": "Ganesha with Mouse",
    "category": "hindu_gods",
    "colorCount": 20,
    "regionCount": 103,
@@ -10662,7 +10662,7 @@
   },
   {
    "id": "ds_hindu_gods_009",
-   "title": "Hindu Gods 9",
+   "title": "Ganesha Peacock Fans",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 287,
@@ -10682,7 +10682,7 @@
   },
   {
    "id": "ds_hindu_gods_010",
-   "title": "Hindu Gods 10",
+   "title": "Pink Ganesha Florals",
    "category": "hindu_gods",
    "colorCount": 17,
    "regionCount": 136,
@@ -10702,7 +10702,7 @@
   },
   {
    "id": "ds_hindu_gods_011",
-   "title": "Hindu Gods 11",
+   "title": "Ganesha Blue Shawl",
    "category": "hindu_gods",
    "colorCount": 16,
    "regionCount": 120,
@@ -10722,7 +10722,7 @@
   },
   {
    "id": "ds_hindu_gods_012",
-   "title": "Hindu Gods 12",
+   "title": "Ganesha Ladoo Bowl",
    "category": "hindu_gods",
    "colorCount": 11,
    "regionCount": 80,
@@ -10742,7 +10742,7 @@
   },
   {
    "id": "ds_hindu_gods_013",
-   "title": "Hindu Gods 13",
+   "title": "Ganesha on Lotus",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 178,
@@ -10762,7 +10762,7 @@
   },
   {
    "id": "ds_hindu_gods_014",
-   "title": "Hindu Gods 14",
+   "title": "Ganesha with Modak",
    "category": "hindu_gods",
    "colorCount": 19,
    "regionCount": 109,
@@ -10782,7 +10782,7 @@
   },
   {
    "id": "ds_hindu_gods_015",
-   "title": "Hindu Gods 15",
+   "title": "Ganesha Red Dhoti",
    "category": "hindu_gods",
    "colorCount": 19,
    "regionCount": 188,
@@ -10802,7 +10802,7 @@
   },
   {
    "id": "ds_hindu_gods_016",
-   "title": "Hindu Gods 16",
+   "title": "Dancing Ganesha",
    "category": "hindu_gods",
    "colorCount": 15,
    "regionCount": 106,
@@ -10822,7 +10822,7 @@
   },
   {
    "id": "ds_hindu_gods_017",
-   "title": "Hindu Gods 17",
+   "title": "Ganesha Water Splash",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 227,
@@ -10842,7 +10842,7 @@
   },
   {
    "id": "ds_hindu_gods_018",
-   "title": "Hindu Gods 18",
+   "title": "Happy Ganesh Chaturthi",
    "category": "hindu_gods",
    "colorCount": 19,
    "regionCount": 111,
@@ -10862,7 +10862,7 @@
   },
   {
    "id": "ds_hindu_gods_019",
-   "title": "Hindu Gods 19",
+   "title": "Ganesha Feather Crown",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 211,
@@ -10882,7 +10882,7 @@
   },
   {
    "id": "ds_hindu_gods_020",
-   "title": "Hindu Gods 20",
+   "title": "Purple Diya Lamp",
    "category": "hindu_gods",
    "colorCount": 15,
    "regionCount": 99,
@@ -10902,7 +10902,7 @@
   },
   {
    "id": "ds_hindu_gods_021",
-   "title": "Hindu Gods 21",
+   "title": "Lotus Diya",
    "category": "hindu_gods",
    "colorCount": 17,
    "regionCount": 87,
@@ -10922,7 +10922,7 @@
   },
   {
    "id": "ds_hindu_gods_022",
-   "title": "Hindu Gods 22",
+   "title": "Pink Diya Lamp",
    "category": "hindu_gods",
    "colorCount": 14,
    "regionCount": 46,
@@ -10942,7 +10942,7 @@
   },
   {
    "id": "ds_hindu_gods_023",
-   "title": "Hindu Gods 23",
+   "title": "Golden Diya Lamp",
    "category": "hindu_gods",
    "colorCount": 12,
    "regionCount": 27,
@@ -10962,7 +10962,7 @@
   },
   {
    "id": "ds_hindu_gods_024",
-   "title": "Hindu Gods 24",
+   "title": "Happy Diwali Badge",
    "category": "hindu_gods",
    "colorCount": 13,
    "regionCount": 63,
@@ -10982,7 +10982,7 @@
   },
   {
    "id": "ds_hindu_gods_025",
-   "title": "Hindu Gods 25",
+   "title": "Happy Diwali Script",
    "category": "hindu_gods",
    "colorCount": 9,
    "regionCount": 30,
@@ -11002,7 +11002,7 @@
   },
   {
    "id": "ds_hindu_gods_026",
-   "title": "Hindu Gods 26",
+   "title": "Orange Leaf Diya",
    "category": "hindu_gods",
    "colorCount": 16,
    "regionCount": 59,
@@ -11022,7 +11022,7 @@
   },
   {
    "id": "ds_hindu_gods_027",
-   "title": "Hindu Gods 27",
+   "title": "Classic Orange Diya",
    "category": "hindu_gods",
    "colorCount": 7,
    "regionCount": 24,
@@ -11042,7 +11042,7 @@
   },
   {
    "id": "ds_hindu_gods_028",
-   "title": "Hindu Gods 28",
+   "title": "Striped Diya Lamp",
    "category": "hindu_gods",
    "colorCount": 11,
    "regionCount": 22,
@@ -11062,7 +11062,7 @@
   },
   {
    "id": "ds_hindu_gods_029",
-   "title": "Hindu Gods 29",
+   "title": "Diwali Kids with Diya",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 185,
@@ -11082,7 +11082,7 @@
   },
   {
    "id": "ds_hindu_gods_030",
-   "title": "Hindu Gods 30",
+   "title": "Holi Girl with Brush",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 306,
@@ -11102,7 +11102,7 @@
   },
   {
    "id": "ds_hindu_gods_031",
-   "title": "Hindu Gods 31",
+   "title": "Holi Girl Flower Hair",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 332,
@@ -11122,7 +11122,7 @@
   },
   {
    "id": "ds_hindu_gods_032",
-   "title": "Hindu Gods 32",
+   "title": "Krishna and Radha Holi",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 249,
@@ -11142,7 +11142,7 @@
   },
   {
    "id": "ds_hindu_gods_033",
-   "title": "Hindu Gods 33",
+   "title": "Holi Color Pots",
    "category": "hindu_gods",
    "colorCount": 20,
    "regionCount": 124,
@@ -11162,7 +11162,7 @@
   },
   {
    "id": "ds_hindu_gods_034",
-   "title": "Hindu Gods 34",
+   "title": "Holi Couple",
    "category": "hindu_gods",
    "colorCount": 19,
    "regionCount": 75,
@@ -11182,7 +11182,7 @@
   },
   {
    "id": "ds_hindu_gods_035",
-   "title": "Hindu Gods 35",
+   "title": "Woman Drawing Rangoli",
    "category": "hindu_gods",
    "colorCount": 19,
    "regionCount": 104,
@@ -11202,7 +11202,7 @@
   },
   {
    "id": "ds_hindu_gods_036",
-   "title": "Hindu Gods 36",
+   "title": "Holi Boy Paint Splash",
    "category": "hindu_gods",
    "colorCount": 21,
    "regionCount": 150,
@@ -11222,7 +11222,7 @@
   },
   {
    "id": "ds_hindu_gods_037",
-   "title": "Hindu Gods 37",
+   "title": "Durga with Lion Cub",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 245,
@@ -11242,7 +11242,7 @@
   },
   {
    "id": "ds_hindu_gods_038",
-   "title": "Hindu Gods 38",
+   "title": "Durga with Trident",
    "category": "hindu_gods",
    "colorCount": 17,
    "regionCount": 168,
@@ -11262,7 +11262,7 @@
   },
   {
    "id": "ds_hindu_gods_039",
-   "title": "Hindu Gods 39",
+   "title": "Lakshmi Gold Coins",
    "category": "hindu_gods",
    "colorCount": 9,
    "regionCount": 78,
@@ -11282,7 +11282,7 @@
   },
   {
    "id": "ds_hindu_gods_040",
-   "title": "Hindu Gods 40",
+   "title": "Durga Holding Diya",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 307,
@@ -11302,7 +11302,7 @@
   },
   {
    "id": "ds_hindu_gods_041",
-   "title": "Hindu Gods 41",
+   "title": "Hanuman Praying",
    "category": "hindu_gods",
    "colorCount": 15,
    "regionCount": 147,
@@ -11322,7 +11322,7 @@
   },
   {
    "id": "ds_hindu_gods_042",
-   "title": "Hindu Gods 42",
+   "title": "Baby Hanuman on Cloud",
    "category": "hindu_gods",
    "colorCount": 18,
    "regionCount": 132,
@@ -11342,7 +11342,7 @@
   },
   {
    "id": "ds_hindu_gods_043",
-   "title": "Hindu Gods 43",
+   "title": "Hanuman Blessing Boy",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 149,
@@ -11362,7 +11362,7 @@
   },
   {
    "id": "ds_hindu_gods_044",
-   "title": "Hindu Gods 44",
+   "title": "Hanuman Folded Hands",
    "category": "hindu_gods",
    "colorCount": 18,
    "regionCount": 135,
@@ -11382,7 +11382,7 @@
   },
   {
    "id": "ds_hindu_gods_045",
-   "title": "Hindu Gods 45",
+   "title": "Hanuman with Mace",
    "category": "hindu_gods",
    "colorCount": 11,
    "regionCount": 63,
@@ -11402,7 +11402,7 @@
   },
   {
    "id": "ds_hindu_gods_046",
-   "title": "Hindu Gods 46",
+   "title": "Shiva Crescent Moon",
    "category": "hindu_gods",
    "colorCount": 20,
    "regionCount": 146,
@@ -11422,7 +11422,7 @@
   },
   {
    "id": "ds_hindu_gods_047",
-   "title": "Hindu Gods 47",
+   "title": "Shiva Meditating",
    "category": "hindu_gods",
    "colorCount": 17,
    "regionCount": 74,
@@ -11442,7 +11442,7 @@
   },
   {
    "id": "ds_hindu_gods_048",
-   "title": "Hindu Gods 48",
+   "title": "Baby Krishna Pointing",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 165,
@@ -11462,7 +11462,7 @@
   },
   {
    "id": "ds_hindu_gods_049",
-   "title": "Hindu Gods 49",
+   "title": "Krishna Sunset Flute",
    "category": "hindu_gods",
    "colorCount": 20,
    "regionCount": 85,
@@ -11482,7 +11482,7 @@
   },
   {
    "id": "ds_hindu_gods_050",
-   "title": "Hindu Gods 50",
+   "title": "Krishna Flute Peacock",
    "category": "hindu_gods",
    "colorCount": 21,
    "regionCount": 157,
@@ -11502,7 +11502,7 @@
   },
   {
    "id": "ds_hindu_gods_051",
-   "title": "Hindu Gods 51",
+   "title": "Krishna Hugging Calf",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 139,
@@ -11522,7 +11522,7 @@
   },
   {
    "id": "ds_hindu_gods_052",
-   "title": "Hindu Gods 52",
+   "title": "Krishna on Log",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 124,
@@ -11542,7 +11542,7 @@
   },
   {
    "id": "ds_hindu_gods_053",
-   "title": "Hindu Gods 53",
+   "title": "Krishna Butter Flute",
    "category": "hindu_gods",
    "colorCount": 14,
    "regionCount": 71,
@@ -11562,7 +11562,7 @@
   },
   {
    "id": "ds_hindu_gods_054",
-   "title": "Hindu Gods 54",
+   "title": "Krishna Friend Hug",
    "category": "hindu_gods",
    "colorCount": 22,
    "regionCount": 149,
@@ -11582,7 +11582,7 @@
   },
   {
    "id": "ds_hindu_gods_055",
-   "title": "Hindu Gods 55",
+   "title": "Krishna Golden Crown",
    "category": "hindu_gods",
    "colorCount": 21,
    "regionCount": 125,
@@ -11602,7 +11602,7 @@
   },
   {
    "id": "ds_hindu_gods_056",
-   "title": "Hindu Gods 56",
+   "title": "Krishna Spilled Pot",
    "category": "hindu_gods",
    "colorCount": 11,
    "regionCount": 44,
@@ -11622,7 +11622,7 @@
   },
   {
    "id": "ds_hindu_gods_057",
-   "title": "Hindu Gods 57",
+   "title": "Krishna Butter Block",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 259,
@@ -11642,7 +11642,7 @@
   },
   {
    "id": "ds_hindu_gods_058",
-   "title": "Hindu Gods 58",
+   "title": "Krishna Cloud Rattle",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 210,
@@ -11662,7 +11662,7 @@
   },
   {
    "id": "ds_hindu_gods_059",
-   "title": "Hindu Gods 59",
+   "title": "Krishna and Radha",
    "category": "hindu_gods",
    "colorCount": 24,
    "regionCount": 260,
@@ -11682,7 +11682,7 @@
   },
   {
    "id": "ds_hindu_gods_060",
-   "title": "Hindu Gods 60",
+   "title": "Hanuman Flower Wreath",
    "category": "hindu_gods",
    "colorCount": 23,
    "regionCount": 200,
@@ -11702,7 +11702,7 @@
   },
   {
    "id": "ds_hindu_gods_061",
-   "title": "Hindu Gods 61",
+   "title": "Taj Mahal Lotus Art",
    "category": "hindu_gods",
    "colorCount": 21,
    "regionCount": 190,
@@ -11722,7 +11722,7 @@
   },
   {
    "id": "ds_football_001",
-   "title": "Football 1",
+   "title": "Striped Kit Dribble",
    "category": "football",
    "colorCount": 16,
    "regionCount": 83,
@@ -11742,7 +11742,7 @@
   },
   {
    "id": "ds_football_002",
-   "title": "Football 2",
+   "title": "Smiling Fist Pump",
    "category": "football",
    "colorCount": 20,
    "regionCount": 122,
@@ -11762,7 +11762,7 @@
   },
   {
    "id": "ds_football_003",
-   "title": "Football 3",
+   "title": "Tattooed Arms Crossed",
    "category": "football",
    "colorCount": 19,
    "regionCount": 127,
@@ -11782,7 +11782,7 @@
   },
   {
    "id": "ds_football_004",
-   "title": "Football 4",
+   "title": "Captain in Stripes",
    "category": "football",
    "colorCount": 19,
    "regionCount": 120,
@@ -11802,7 +11802,7 @@
   },
   {
    "id": "ds_football_005",
-   "title": "Football 5",
+   "title": "Striker Back View",
    "category": "football",
    "colorCount": 13,
    "regionCount": 92,
@@ -11822,7 +11822,7 @@
   },
   {
    "id": "ds_football_006",
-   "title": "Football 6",
+   "title": "Roar in Red Kit",
    "category": "football",
    "colorCount": 15,
    "regionCount": 52,
@@ -11842,7 +11842,7 @@
   },
   {
    "id": "ds_football_007",
-   "title": "Football 7",
+   "title": "Fist Clench Shout",
    "category": "football",
    "colorCount": 16,
    "regionCount": 58,
@@ -11862,7 +11862,7 @@
   },
   {
    "id": "ds_football_008",
-   "title": "Football 8",
+   "title": "Fist Raised with Ball",
    "category": "football",
    "colorCount": 15,
    "regionCount": 88,
@@ -11882,7 +11882,7 @@
   },
   {
    "id": "ds_football_009",
-   "title": "Football 9",
+   "title": "Player in White Kit",
    "category": "football",
    "colorCount": 18,
    "regionCount": 103,
@@ -11902,7 +11902,7 @@
   },
   {
    "id": "ds_football_010",
-   "title": "Football 10",
+   "title": "Knee Slide Celebration",
    "category": "football",
    "colorCount": 17,
    "regionCount": 108,
@@ -11922,7 +11922,7 @@
   },
   {
    "id": "ds_football_011",
-   "title": "Football 11",
+   "title": "Portugal Flag Ball",
    "category": "football",
    "colorCount": 9,
    "regionCount": 54,
@@ -11942,7 +11942,7 @@
   },
   {
    "id": "ds_football_012",
-   "title": "Football 12",
+   "title": "Laughing in Blue Kit",
    "category": "football",
    "colorCount": 17,
    "regionCount": 82,
@@ -11962,7 +11962,7 @@
   },
   {
    "id": "ds_football_013",
-   "title": "Football 13",
+   "title": "Arms Crossed in Navy",
    "category": "football",
    "colorCount": 16,
    "regionCount": 67,
@@ -11982,7 +11982,7 @@
   },
   {
    "id": "ds_football_014",
-   "title": "Football 14",
+   "title": "Masked Player in Navy",
    "category": "football",
    "colorCount": 16,
    "regionCount": 58,
@@ -12002,7 +12002,7 @@
   },
   {
    "id": "ds_football_015",
-   "title": "Football 15",
+   "title": "Cheering in Blue Kit",
    "category": "football",
    "colorCount": 14,
    "regionCount": 62,
@@ -12022,7 +12022,7 @@
   },
   {
    "id": "ds_football_016",
-   "title": "Football 16",
+   "title": "Back View Purple Kit",
    "category": "football",
    "colorCount": 14,
    "regionCount": 63,
@@ -12042,7 +12042,7 @@
   },
   {
    "id": "ds_football_017",
-   "title": "Football 17",
+   "title": "Laughing in Yellow Kit",
    "category": "football",
    "colorCount": 14,
    "regionCount": 49,
@@ -12062,7 +12062,7 @@
   },
   {
    "id": "ds_football_018",
-   "title": "Football 18",
+   "title": "Hands on Hips Yellow",
    "category": "football",
    "colorCount": 11,
    "regionCount": 50,
@@ -12082,7 +12082,7 @@
   },
   {
    "id": "ds_football_019",
-   "title": "Football 19",
+   "title": "Clapping Striker",
    "category": "football",
    "colorCount": 13,
    "regionCount": 58,
@@ -12102,7 +12102,7 @@
   },
   {
    "id": "ds_football_020",
-   "title": "Football 20",
+   "title": "Smiling Man Bun Player",
    "category": "football",
    "colorCount": 20,
    "regionCount": 78,
@@ -12122,7 +12122,7 @@
   },
   {
    "id": "ds_football_021",
-   "title": "Football 21",
+   "title": "Sky Blue Club Crest",
    "category": "football",
    "colorCount": 6,
    "regionCount": 46,
@@ -12142,7 +12142,7 @@
   },
   {
    "id": "ds_football_022",
-   "title": "Football 22",
+   "title": "Lion Lifting Trophy",
    "category": "football",
    "colorCount": 22,
    "regionCount": 140,
@@ -12162,7 +12162,7 @@
   },
   {
    "id": "ds_football_023",
-   "title": "Football 23",
+   "title": "Eagle with Trophy",
    "category": "football",
    "colorCount": 18,
    "regionCount": 120,
@@ -12182,7 +12182,7 @@
   },
   {
    "id": "ds_football_024",
-   "title": "Football 24",
+   "title": "Moose with Trophy",
    "category": "football",
    "colorCount": 19,
    "regionCount": 134,
@@ -12202,7 +12202,7 @@
   },
   {
    "id": "ds_football_025",
-   "title": "Football 25",
+   "title": "Three Teammates Hug",
    "category": "football",
    "colorCount": 17,
    "regionCount": 124,
@@ -12222,7 +12222,7 @@
   },
   {
    "id": "ds_football_026",
-   "title": "Football 26",
+   "title": "Anime Boy in Stripes",
    "category": "football",
    "colorCount": 24,
    "regionCount": 253,
@@ -12242,7 +12242,7 @@
   },
   {
    "id": "ds_football_027",
-   "title": "Football 27",
+   "title": "Yellow Kit Ear Point",
    "category": "football",
    "colorCount": 24,
    "regionCount": 254,
@@ -12262,7 +12262,7 @@
   },
   {
    "id": "ds_football_028",
-   "title": "Football 28",
+   "title": "Silver Hair Trophy",
    "category": "football",
    "colorCount": 22,
    "regionCount": 293,
@@ -12282,7 +12282,7 @@
   },
   {
    "id": "ds_football_029",
-   "title": "Football 29",
+   "title": "Sunglasses with Medal",
    "category": "football",
    "colorCount": 24,
    "regionCount": 357,
@@ -12302,7 +12302,7 @@
   },
   {
    "id": "ds_football_030",
-   "title": "Football 30",
+   "title": "Anime Player Portrait",
    "category": "football",
    "colorCount": 18,
    "regionCount": 83,
@@ -12322,7 +12322,7 @@
   },
   {
    "id": "ds_football_031",
-   "title": "Football 31",
+   "title": "Blond Anime Crest Kiss",
    "category": "football",
    "colorCount": 21,
    "regionCount": 115,
@@ -12342,7 +12342,7 @@
   },
   {
    "id": "ds_football_032",
-   "title": "Football 32",
+   "title": "Spiky Hair Crest Dash",
    "category": "football",
    "colorCount": 23,
    "regionCount": 206,
@@ -12362,7 +12362,7 @@
   },
   {
    "id": "ds_football_033",
-   "title": "Football 33",
+   "title": "Splash Art Dribbler",
    "category": "football",
    "colorCount": 24,
    "regionCount": 194,
@@ -12382,7 +12382,7 @@
   },
   {
    "id": "ds_football_034",
-   "title": "Football 34",
+   "title": "Trophy in Lightning",
    "category": "football",
    "colorCount": 23,
    "regionCount": 317,
@@ -12402,7 +12402,7 @@
   },
   {
    "id": "ds_football_035",
-   "title": "Football 35",
+   "title": "Blindfolded White Kit",
    "category": "football",
    "colorCount": 22,
    "regionCount": 254,
@@ -12422,7 +12422,7 @@
   },
   {
    "id": "ds_celebs_001",
-   "title": "Celebs 1",
+   "title": "Chibi Girl with Braids",
    "category": "celebs",
    "colorCount": 16,
    "regionCount": 85,
@@ -12442,7 +12442,7 @@
   },
   {
    "id": "ds_celebs_002",
-   "title": "Celebs 2",
+   "title": "Bright Smile Portrait",
    "category": "celebs",
    "colorCount": 18,
    "regionCount": 85,
@@ -12462,7 +12462,7 @@
   },
   {
    "id": "ds_celebs_003",
-   "title": "Celebs 3",
+   "title": "Boy with Doodle Art",
    "category": "celebs",
    "colorCount": 14,
    "regionCount": 68,
@@ -12482,7 +12482,7 @@
   },
   {
    "id": "ds_celebs_004",
-   "title": "Celebs 4",
+   "title": "Man in White Shirt",
    "category": "celebs",
    "colorCount": 18,
    "regionCount": 82,
@@ -12502,7 +12502,7 @@
   },
   {
    "id": "ds_celebs_005",
-   "title": "Celebs 5",
+   "title": "Woman Holding Apple",
    "category": "celebs",
    "colorCount": 20,
    "regionCount": 204,
@@ -12522,7 +12522,7 @@
   },
   {
    "id": "ds_celebs_006",
-   "title": "Celebs 6",
+   "title": "Girl in Heart Shades",
    "category": "celebs",
    "colorCount": 18,
    "regionCount": 133,
@@ -12542,7 +12542,7 @@
   },
   {
    "id": "ds_celebs_007",
-   "title": "Celebs 7",
+   "title": "Blonde Girl with Tiara",
    "category": "celebs",
    "colorCount": 17,
    "regionCount": 89,
@@ -12562,7 +12562,7 @@
   },
   {
    "id": "ds_celebs_008",
-   "title": "Celebs 8",
+   "title": "Blue Headphones Girl",
    "category": "celebs",
    "colorCount": 22,
    "regionCount": 142,
@@ -12582,7 +12582,7 @@
   },
   {
    "id": "ds_celebs_009",
-   "title": "Celebs 9",
+   "title": "Girl with Green Hair",
    "category": "celebs",
    "colorCount": 10,
    "regionCount": 56,
@@ -12602,7 +12602,7 @@
   },
   {
    "id": "ds_celebs_010",
-   "title": "Celebs 10",
+   "title": "Playful Tongue Out",
    "category": "celebs",
    "colorCount": 13,
    "regionCount": 73,
@@ -12622,7 +12622,7 @@
   },
   {
    "id": "ds_celebs_011",
-   "title": "Celebs 11",
+   "title": "Pearl Headband Girl",
    "category": "celebs",
    "colorCount": 21,
    "regionCount": 108,
@@ -12642,7 +12642,7 @@
   },
   {
    "id": "ds_celebs_012",
-   "title": "Celebs 12",
+   "title": "Blue-Haired Girl",
    "category": "celebs",
    "colorCount": 21,
    "regionCount": 254,
@@ -12662,7 +12662,7 @@
   },
   {
    "id": "ds_celebs_013",
-   "title": "Celebs 13",
+   "title": "Girl with Plum Hair",
    "category": "celebs",
    "colorCount": 18,
    "regionCount": 112,
@@ -12682,7 +12682,7 @@
   },
   {
    "id": "ds_celebs_014",
-   "title": "Celebs 14",
+   "title": "Ponytail in White Gown",
    "category": "celebs",
    "colorCount": 16,
    "regionCount": 77,
@@ -12702,7 +12702,7 @@
   },
   {
    "id": "ds_celebs_015",
-   "title": "Celebs 15",
+   "title": "Long Ponytails in Pink",
    "category": "celebs",
    "colorCount": 19,
    "regionCount": 126,
@@ -12722,7 +12722,7 @@
   },
   {
    "id": "ds_celebs_016",
-   "title": "Celebs 16",
+   "title": "Flower Earring Girl",
    "category": "celebs",
    "colorCount": 20,
    "regionCount": 132,
@@ -12742,7 +12742,7 @@
   },
   {
    "id": "ds_celebs_017",
-   "title": "Celebs 17",
+   "title": "Black-Haired Beauty",
    "category": "celebs",
    "colorCount": 19,
    "regionCount": 88,
@@ -12762,7 +12762,7 @@
   },
   {
    "id": "ds_celebs_018",
-   "title": "Celebs 18",
+   "title": "Blond Boy with Quiff",
    "category": "celebs",
    "colorCount": 21,
    "regionCount": 180,
@@ -12782,7 +12782,7 @@
   },
   {
    "id": "ds_celebs_019",
-   "title": "Celebs 19",
+   "title": "Man with Silver Chain",
    "category": "celebs",
    "colorCount": 16,
    "regionCount": 74,
@@ -12802,7 +12802,7 @@
   },
   {
    "id": "ds_celebs_020",
-   "title": "Celebs 20",
+   "title": "Platinum-Haired Girl",
    "category": "celebs",
    "colorCount": 16,
    "regionCount": 148,
@@ -12822,7 +12822,7 @@
   },
   {
    "id": "ds_celebs_021",
-   "title": "Celebs 21",
+   "title": "Girl with Pink Bottle",
    "category": "celebs",
    "colorCount": 18,
    "regionCount": 83,
@@ -12842,7 +12842,7 @@
   },
   {
    "id": "ds_celebs_022",
-   "title": "Celebs 22",
+   "title": "Girl with Gold Chain",
    "category": "celebs",
    "colorCount": 12,
    "regionCount": 44,
@@ -12862,7 +12862,7 @@
   },
   {
    "id": "ds_celebs_023",
-   "title": "Celebs 23",
+   "title": "Girl in Blue Jersey",
    "category": "celebs",
    "colorCount": 21,
    "regionCount": 146,
@@ -12882,7 +12882,7 @@
   },
   {
    "id": "ds_celebs_024",
-   "title": "Celebs 24",
+   "title": "Girl in Teal Visor",
    "category": "celebs",
    "colorCount": 18,
    "regionCount": 94,
@@ -12902,7 +12902,7 @@
   },
   {
    "id": "ds_celebs_025",
-   "title": "Celebs 25",
+   "title": "Footballer in Red Kit",
    "category": "celebs",
    "colorCount": 17,
    "regionCount": 97,
@@ -12922,7 +12922,7 @@
   },
   {
    "id": "ds_celebs_026",
-   "title": "Celebs 26",
+   "title": "Chibi in Red Tee",
    "category": "celebs",
    "colorCount": 14,
    "regionCount": 59,
@@ -12942,7 +12942,7 @@
   },
   {
    "id": "ds_celebs_027",
-   "title": "Celebs 27",
+   "title": "Smiling Player in Red",
    "category": "celebs",
    "colorCount": 19,
    "regionCount": 75,
@@ -12962,7 +12962,7 @@
   },
   {
    "id": "ds_celebs_028",
-   "title": "Celebs 28",
+   "title": "Blonde Chibi in Grey",
    "category": "celebs",
    "colorCount": 15,
    "regionCount": 85,
@@ -12982,7 +12982,7 @@
   },
   {
    "id": "ds_people_001",
-   "title": "People 1",
+   "title": "Girl Hugging Cat",
    "category": "people",
    "colorCount": 12,
    "regionCount": 46,
@@ -13002,7 +13002,7 @@
   },
   {
    "id": "ds_people_002",
-   "title": "People 2",
+   "title": "Grandpa in Glasses",
    "category": "people",
    "colorCount": 13,
    "regionCount": 39,
@@ -13022,7 +13022,7 @@
   },
   {
    "id": "ds_people_003",
-   "title": "People 3",
+   "title": "Girl in Purple Dress",
    "category": "people",
    "colorCount": 8,
    "regionCount": 30,
@@ -13042,7 +13042,7 @@
   },
   {
    "id": "ds_people_004",
-   "title": "People 4",
+   "title": "Boy in Backward Cap",
    "category": "people",
    "colorCount": 12,
    "regionCount": 49,
@@ -13062,7 +13062,7 @@
   },
   {
    "id": "ds_people_005",
-   "title": "People 5",
+   "title": "Cheerful Hairdresser",
    "category": "people",
    "colorCount": 15,
    "regionCount": 64,
@@ -13082,7 +13082,7 @@
   },
   {
    "id": "ds_people_006",
-   "title": "People 6",
+   "title": "Boy in Green Jacket",
    "category": "people",
    "colorCount": 12,
    "regionCount": 44,
@@ -13102,7 +13102,7 @@
   },
   {
    "id": "ds_people_007",
-   "title": "People 7",
+   "title": "Grandma with Notepad",
    "category": "people",
    "colorCount": 11,
    "regionCount": 47,
@@ -13122,7 +13122,7 @@
   },
   {
    "id": "ds_people_008",
-   "title": "People 8",
+   "title": "Jumping Boy in Green",
    "category": "people",
    "colorCount": 12,
    "regionCount": 45,
@@ -13142,7 +13142,7 @@
   },
   {
    "id": "ds_people_009",
-   "title": "People 9",
+   "title": "Boy in White Kurta",
    "category": "people",
    "colorCount": 10,
    "regionCount": 38,
@@ -13162,7 +13162,7 @@
   },
   {
    "id": "ds_people_010",
-   "title": "People 10",
+   "title": "Grandma and Grandson",
    "category": "people",
    "colorCount": 14,
    "regionCount": 49,
@@ -13182,7 +13182,7 @@
   },
   {
    "id": "ds_people_011",
-   "title": "People 11",
+   "title": "Girl with Teddy Bear",
    "category": "people",
    "colorCount": 15,
    "regionCount": 43,
@@ -13202,7 +13202,7 @@
   },
   {
    "id": "ds_people_012",
-   "title": "People 12",
+   "title": "Man with Basketball",
    "category": "people",
    "colorCount": 12,
    "regionCount": 41,
@@ -13222,7 +13222,7 @@
   },
   {
    "id": "ds_people_013",
-   "title": "People 13",
+   "title": "Waving Boy in Stripes",
    "category": "people",
    "colorCount": 10,
    "regionCount": 67,
@@ -13242,7 +13242,7 @@
   },
   {
    "id": "ds_people_014",
-   "title": "People 14",
+   "title": "Girl in Brown Beret",
    "category": "people",
    "colorCount": 12,
    "regionCount": 60,
@@ -13262,7 +13262,7 @@
   },
   {
    "id": "ds_people_015",
-   "title": "People 15",
+   "title": "Granny with Cane",
    "category": "people",
    "colorCount": 16,
    "regionCount": 59,
@@ -13282,7 +13282,7 @@
   },
   {
    "id": "ds_people_016",
-   "title": "People 16",
+   "title": "Gift for a Friend",
    "category": "people",
    "colorCount": 18,
    "regionCount": 89,
@@ -13302,7 +13302,7 @@
   },
   {
    "id": "ds_people_017",
-   "title": "People 17",
+   "title": "Girl in Red Saree",
    "category": "people",
    "colorCount": 13,
    "regionCount": 71,
@@ -13322,7 +13322,7 @@
   },
   {
    "id": "ds_people_018",
-   "title": "People 18",
+   "title": "Family on Park Bench",
    "category": "people",
    "colorCount": 21,
    "regionCount": 124,
@@ -13342,7 +13342,7 @@
   },
   {
    "id": "ds_people_019",
-   "title": "People 19",
+   "title": "Waving Redhead Boy",
    "category": "people",
    "colorCount": 12,
    "regionCount": 48,
@@ -13362,7 +13362,7 @@
   },
   {
    "id": "ds_people_020",
-   "title": "People 20",
+   "title": "Elderly Couple",
    "category": "people",
    "colorCount": 15,
    "regionCount": 75,
@@ -13382,7 +13382,7 @@
   },
   {
    "id": "ds_people_021",
-   "title": "People 21",
+   "title": "Girl Reading Book",
    "category": "people",
    "colorCount": 12,
    "regionCount": 34,
@@ -13402,7 +13402,7 @@
   },
   {
    "id": "ds_people_022",
-   "title": "People 22",
+   "title": "Boy Kicking Ball",
    "category": "people",
    "colorCount": 14,
    "regionCount": 62,
@@ -13422,7 +13422,7 @@
   },
   {
    "id": "ds_people_023",
-   "title": "People 23",
+   "title": "Student with Backpack",
    "category": "people",
    "colorCount": 10,
    "regionCount": 28,
@@ -13442,7 +13442,7 @@
   },
   {
    "id": "ds_christmas_001",
-   "title": "Christmas 1",
+   "title": "Little Christmas Elf",
    "category": "christmas",
    "colorCount": 10,
    "regionCount": 43,
@@ -13462,7 +13462,7 @@
   },
   {
    "id": "ds_christmas_002",
-   "title": "Christmas 2",
+   "title": "Santa Arms Wide",
    "category": "christmas",
    "colorCount": 11,
    "regionCount": 49,
@@ -13482,7 +13482,7 @@
   },
   {
    "id": "ds_christmas_003",
-   "title": "Christmas 3",
+   "title": "Santa with Gift Sack",
    "category": "christmas",
    "colorCount": 10,
    "regionCount": 41,
@@ -13502,7 +13502,7 @@
   },
   {
    "id": "ds_christmas_004",
-   "title": "Christmas 4",
+   "title": "Peeking Snowman",
    "category": "christmas",
    "colorCount": 11,
    "regionCount": 74,
@@ -13522,7 +13522,7 @@
   },
   {
    "id": "ds_christmas_005",
-   "title": "Christmas 5",
+   "title": "Snowman on Swing",
    "category": "christmas",
    "colorCount": 15,
    "regionCount": 58,
@@ -13542,7 +13542,7 @@
   },
   {
    "id": "ds_christmas_006",
-   "title": "Christmas 6",
+   "title": "Sweet Mrs Claus",
    "category": "christmas",
    "colorCount": 7,
    "regionCount": 31,
@@ -13562,7 +13562,7 @@
   },
   {
    "id": "ds_christmas_007",
-   "title": "Christmas 7",
+   "title": "Hot Cocoa Mug",
    "category": "christmas",
    "colorCount": 10,
    "regionCount": 41,
@@ -13582,7 +13582,7 @@
   },
   {
    "id": "ds_christmas_008",
-   "title": "Christmas 8",
+   "title": "Santa with Wreath",
    "category": "christmas",
    "colorCount": 7,
    "regionCount": 30,
@@ -13602,7 +13602,7 @@
   },
   {
    "id": "ds_christmas_009",
-   "title": "Christmas 9",
+   "title": "Santa and Boy",
    "category": "christmas",
    "colorCount": 19,
    "regionCount": 107,
@@ -13622,7 +13622,7 @@
   },
   {
    "id": "ds_christmas_010",
-   "title": "Christmas 10",
+   "title": "Cheering Santa Girl",
    "category": "christmas",
    "colorCount": 13,
    "regionCount": 61,
@@ -13642,7 +13642,7 @@
   },
   {
    "id": "ds_christmas_011",
-   "title": "Christmas 11",
+   "title": "Santa Pose Collection",
    "category": "christmas",
    "colorCount": 17,
    "regionCount": 110,
@@ -13662,7 +13662,7 @@
   },
   {
    "id": "ds_christmas_012",
-   "title": "Christmas 12",
+   "title": "Santa and Mrs Claus",
    "category": "christmas",
    "colorCount": 9,
    "regionCount": 47,
@@ -13682,7 +13682,7 @@
   },
   {
    "id": "ds_christmas_013",
-   "title": "Christmas 13",
+   "title": "Donald Down Chimney",
    "category": "christmas",
    "colorCount": 10,
    "regionCount": 31,
@@ -13702,7 +13702,7 @@
   },
   {
    "id": "ds_christmas_014",
-   "title": "Christmas 14",
+   "title": "Santa in Sleigh",
    "category": "christmas",
    "colorCount": 18,
    "regionCount": 64,
@@ -13722,7 +13722,7 @@
   },
   {
    "id": "ds_christmas_015",
-   "title": "Christmas 15",
+   "title": "Santa Driving Car",
    "category": "christmas",
    "colorCount": 18,
    "regionCount": 90,
@@ -13742,7 +13742,7 @@
   },
   {
    "id": "ds_christmas_016",
-   "title": "Christmas 16",
+   "title": "Mouse with Candy Cane",
    "category": "christmas",
    "colorCount": 10,
    "regionCount": 36,
@@ -13762,7 +13762,7 @@
   },
   {
    "id": "ds_christmas_017",
-   "title": "Christmas 17",
+   "title": "Classic Jolly Santa",
    "category": "christmas",
    "colorCount": 12,
    "regionCount": 58,
@@ -13782,7 +13782,7 @@
   },
   {
    "id": "ds_christmas_018",
-   "title": "Christmas 18",
+   "title": "Dabbing Santa",
    "category": "christmas",
    "colorCount": 8,
    "regionCount": 37,
@@ -13802,7 +13802,7 @@
   },
   {
    "id": "ds_christmas_019",
-   "title": "Christmas 19",
+   "title": "Santa and Reindeer",
    "category": "christmas",
    "colorCount": 18,
    "regionCount": 92,
@@ -13822,7 +13822,7 @@
   },
   {
    "id": "ds_christmas_020",
-   "title": "Christmas 20",
+   "title": "Upside Down Santa",
    "category": "christmas",
    "colorCount": 9,
    "regionCount": 32,
@@ -13842,7 +13842,7 @@
   },
   {
    "id": "ds_christmas_021",
-   "title": "Christmas 21",
+   "title": "Light-Wrapped Corgi",
    "category": "christmas",
    "colorCount": 8,
    "regionCount": 49,
@@ -13862,7 +13862,7 @@
   },
   {
    "id": "ds_christmas_022",
-   "title": "Christmas 22",
+   "title": "Penguin with Antlers",
    "category": "christmas",
    "colorCount": 12,
    "regionCount": 44,
@@ -13882,7 +13882,7 @@
   },
   {
    "id": "ds_halloween_001",
-   "title": "Halloween 1",
+   "title": "Witch on Pumpkin",
    "category": "halloween",
    "colorCount": 16,
    "regionCount": 71,
@@ -13902,7 +13902,7 @@
   },
   {
    "id": "ds_halloween_002",
-   "title": "Halloween 2",
+   "title": "Pumpkin Costume Kid",
    "category": "halloween",
    "colorCount": 14,
    "regionCount": 53,
@@ -13922,7 +13922,7 @@
   },
   {
    "id": "ds_halloween_003",
-   "title": "Halloween 3",
+   "title": "Witch Hat Kitty",
    "category": "halloween",
    "colorCount": 12,
    "regionCount": 58,
@@ -13942,7 +13942,7 @@
   },
   {
    "id": "ds_halloween_004",
-   "title": "Halloween 4",
+   "title": "Trick or Treat Witch",
    "category": "halloween",
    "colorCount": 16,
    "regionCount": 84,
@@ -13962,7 +13962,7 @@
   },
   {
    "id": "ds_halloween_005",
-   "title": "Halloween 5",
+   "title": "Little Witch Flying",
    "category": "halloween",
    "colorCount": 18,
    "regionCount": 104,
@@ -13982,7 +13982,7 @@
   },
   {
    "id": "ds_halloween_006",
-   "title": "Halloween 6",
+   "title": "Black Cat on Pumpkin",
    "category": "halloween",
    "colorCount": 17,
    "regionCount": 58,
@@ -14002,7 +14002,7 @@
   },
   {
    "id": "ds_halloween_007",
-   "title": "Halloween 7",
+   "title": "Blonde Witch on Broom",
    "category": "halloween",
    "colorCount": 18,
    "regionCount": 58,
@@ -14022,7 +14022,7 @@
   },
   {
    "id": "ds_halloween_008",
-   "title": "Halloween 8",
+   "title": "Ghost in Witch Hat",
    "category": "halloween",
    "colorCount": 14,
    "regionCount": 40,
@@ -14042,7 +14042,7 @@
   },
   {
    "id": "ds_halloween_009",
-   "title": "Halloween 9",
+   "title": "Striped Hat Ghost",
    "category": "halloween",
    "colorCount": 11,
    "regionCount": 50,
@@ -14062,7 +14062,7 @@
   },
   {
    "id": "ds_halloween_010",
-   "title": "Halloween 10",
+   "title": "Star Wizard Girl",
    "category": "halloween",
    "colorCount": 18,
    "regionCount": 64,
@@ -14082,7 +14082,7 @@
   },
   {
    "id": "ds_halloween_011",
-   "title": "Halloween 11",
+   "title": "Pumpkin Head Ghost",
    "category": "halloween",
    "colorCount": 18,
    "regionCount": 82,
@@ -14102,7 +14102,7 @@
   },
   {
    "id": "ds_heroes_001",
-   "title": "Heroes 1",
+   "title": "Spider-Man Crouching",
    "category": "heroes",
    "colorCount": 14,
    "regionCount": 109,
@@ -14122,7 +14122,7 @@
   },
   {
    "id": "ds_heroes_002",
-   "title": "Heroes 2",
+   "title": "Batman on Motorbike",
    "category": "heroes",
    "colorCount": 19,
    "regionCount": 164,
@@ -14142,7 +14142,7 @@
   },
   {
    "id": "ds_heroes_003",
-   "title": "Heroes 3",
+   "title": "Grumpy Little Batman",
    "category": "heroes",
    "colorCount": 16,
    "regionCount": 72,
@@ -14162,7 +14162,7 @@
   },
   {
    "id": "ds_heroes_004",
-   "title": "Heroes 4",
+   "title": "Spidey with Sunflower",
    "category": "heroes",
    "colorCount": 22,
    "regionCount": 144,
@@ -14182,7 +14182,7 @@
   },
   {
    "id": "ds_heroes_005",
-   "title": "Heroes 5",
+   "title": "Batman Flying Punch",
    "category": "heroes",
    "colorCount": 17,
    "regionCount": 84,
@@ -14202,7 +14202,7 @@
   },
   {
    "id": "ds_heroes_006",
-   "title": "Heroes 6",
+   "title": "Iron Man Palm Blast",
    "category": "heroes",
    "colorCount": 20,
    "regionCount": 171,
@@ -14222,7 +14222,7 @@
   },
   {
    "id": "ds_heroes_007",
-   "title": "Heroes 7",
+   "title": "Iron Man Flying",
    "category": "heroes",
    "colorCount": 20,
    "regionCount": 205,
@@ -14242,7 +14242,7 @@
   },
   {
    "id": "ds_heroes_008",
-   "title": "Heroes 8",
+   "title": "Iron Man Hero Landing",
    "category": "heroes",
    "colorCount": 17,
    "regionCount": 247,
@@ -14262,7 +14262,7 @@
   },
   {
    "id": "ds_heroes_009",
-   "title": "Heroes 9",
+   "title": "Spider-Man Web Swing",
    "category": "heroes",
    "colorCount": 18,
    "regionCount": 96,
@@ -14282,7 +14282,7 @@
   },
   {
    "id": "ds_heroes_010",
-   "title": "Heroes 10",
+   "title": "Iron Man Standing Tall",
    "category": "heroes",
    "colorCount": 19,
    "regionCount": 142,
@@ -14302,7 +14302,7 @@
   },
   {
    "id": "ds_heroes_011",
-   "title": "Heroes 11",
+   "title": "Spider-Man in Hoodie",
    "category": "heroes",
    "colorCount": 18,
    "regionCount": 93,
@@ -14322,7 +14322,7 @@
   },
   {
    "id": "ds_food_001",
-   "title": "Food 1",
+   "title": "Kawaii Pink Milkshake",
    "category": "food",
    "colorCount": 9,
    "regionCount": 44,
@@ -14342,7 +14342,7 @@
   },
   {
    "id": "ds_food_002",
-   "title": "Food 2",
+   "title": "Ice Cream Sundae Cup",
    "category": "food",
    "colorCount": 19,
    "regionCount": 48,
@@ -14362,7 +14362,7 @@
   },
   {
    "id": "ds_food_003",
-   "title": "Food 3",
+   "title": "Burger and Fries Combo",
    "category": "food",
    "colorCount": 19,
    "regionCount": 110,
@@ -14382,7 +14382,7 @@
   },
   {
    "id": "ds_food_004",
-   "title": "Food 4",
+   "title": "Six Sweet Cupcakes",
    "category": "food",
    "colorCount": 18,
    "regionCount": 46,
@@ -14402,7 +14402,7 @@
   },
   {
    "id": "ds_food_005",
-   "title": "Food 5",
+   "title": "Pudding and Cakes",
    "category": "food",
    "colorCount": 20,
    "regionCount": 67,
@@ -14422,7 +14422,7 @@
   },
   {
    "id": "ds_food_006",
-   "title": "Food 6",
+   "title": "Kawaii Lemonade Jar",
    "category": "food",
    "colorCount": 16,
    "regionCount": 135,
@@ -14442,7 +14442,7 @@
   },
   {
    "id": "ds_food_007",
-   "title": "Food 7",
+   "title": "Golden Corn Cob",
    "category": "food",
    "colorCount": 10,
    "regionCount": 65,
@@ -14462,7 +14462,7 @@
   },
   {
    "id": "ds_food_008",
-   "title": "Food 8",
+   "title": "Happy Grocery Bag",
    "category": "food",
    "colorCount": 19,
    "regionCount": 59,
@@ -14482,7 +14482,7 @@
   },
   {
    "id": "ds_food_009",
-   "title": "Food 9",
+   "title": "Crunchy Carrot",
    "category": "food",
    "colorCount": 8,
    "regionCount": 21,
@@ -14502,7 +14502,7 @@
   },
   {
    "id": "ds_food_010",
-   "title": "Food 10",
+   "title": "Fresh Green Leeks",
    "category": "food",
    "colorCount": 11,
    "regionCount": 32,
@@ -14522,7 +14522,7 @@
   },
   {
    "id": "ds_houses_001",
-   "title": "Houses 1",
+   "title": "Gingerbread House",
    "category": "houses",
    "colorCount": 15,
    "regionCount": 82,
@@ -14542,7 +14542,7 @@
   },
   {
    "id": "ds_houses_002",
-   "title": "Houses 2",
+   "title": "Tudor Cottage",
    "category": "houses",
    "colorCount": 20,
    "regionCount": 120,
@@ -14562,7 +14562,7 @@
   },
   {
    "id": "ds_houses_003",
-   "title": "Houses 3",
+   "title": "Red Roof Stone Cottage",
    "category": "houses",
    "colorCount": 20,
    "regionCount": 94,
@@ -14582,7 +14582,7 @@
   },
   {
    "id": "ds_houses_004",
-   "title": "Houses 4",
+   "title": "Purple Roof Townhouse",
    "category": "houses",
    "colorCount": 9,
    "regionCount": 44,
@@ -14602,7 +14602,7 @@
   },
   {
    "id": "ds_houses_005",
-   "title": "Houses 5",
+   "title": "Candy Cane House",
    "category": "houses",
    "colorCount": 14,
    "regionCount": 137,
@@ -14622,7 +14622,7 @@
   },
   {
    "id": "ds_houses_006",
-   "title": "Houses 6",
+   "title": "Yellow Flower House",
    "category": "houses",
    "colorCount": 19,
    "regionCount": 75,
@@ -14642,7 +14642,7 @@
   },
   {
    "id": "ds_houses_007",
-   "title": "Houses 7",
+   "title": "Blue Roof Cottage",
    "category": "houses",
    "colorCount": 15,
    "regionCount": 47,
@@ -14662,7 +14662,7 @@
   },
   {
    "id": "ds_houses_008",
-   "title": "Houses 8",
+   "title": "Orange Brick House",
    "category": "houses",
    "colorCount": 9,
    "regionCount": 79,
@@ -14682,7 +14682,7 @@
   },
   {
    "id": "ds_houses_009",
-   "title": "Houses 9",
+   "title": "Mushroom Cottage",
    "category": "houses",
    "colorCount": 17,
    "regionCount": 60,
@@ -14702,7 +14702,7 @@
   },
   {
    "id": "ds_vehicles_001",
-   "title": "Vehicles 1",
+   "title": "Smiling Wheel Loader",
    "category": "vehicles",
    "colorCount": 13,
    "regionCount": 66,
@@ -14722,7 +14722,7 @@
   },
   {
    "id": "ds_vehicles_002",
-   "title": "Vehicles 2",
+   "title": "Pink Scooter",
    "category": "vehicles",
    "colorCount": 16,
    "regionCount": 70,
@@ -14742,7 +14742,7 @@
   },
   {
    "id": "ds_vehicles_003",
-   "title": "Vehicles 3",
+   "title": "Yellow Taxi Cab",
    "category": "vehicles",
    "colorCount": 10,
    "regionCount": 73,
@@ -14762,7 +14762,7 @@
   },
   {
    "id": "ds_vehicles_004",
-   "title": "Vehicles 4",
+   "title": "Happy Bulldozer",
    "category": "vehicles",
    "colorCount": 18,
    "regionCount": 92,
@@ -14782,7 +14782,7 @@
   },
   {
    "id": "ds_vehicles_005",
-   "title": "Vehicles 5",
+   "title": "Yellow Tractor",
    "category": "vehicles",
    "colorCount": 12,
    "regionCount": 50,
@@ -14802,7 +14802,7 @@
   },
   {
    "id": "ds_vehicles_006",
-   "title": "Vehicles 6",
+   "title": "White Airplane",
    "category": "vehicles",
    "colorCount": 10,
    "regionCount": 44,
@@ -14822,7 +14822,7 @@
   },
   {
    "id": "ds_vehicles_007",
-   "title": "Vehicles 7",
+   "title": "Blue Sport Motorbike",
    "category": "vehicles",
    "colorCount": 11,
    "regionCount": 56,
@@ -14842,7 +14842,7 @@
   },
   {
    "id": "ds_vehicles_008",
-   "title": "Vehicles 8",
+   "title": "Ambulance Van",
    "category": "vehicles",
    "colorCount": 10,
    "regionCount": 39,
@@ -14862,7 +14862,7 @@
   },
   {
    "id": "ds_fashion_001",
-   "title": "Fashion 1",
+   "title": "Girl in White Dress",
    "category": "fashion",
    "colorCount": 14,
    "regionCount": 109,
@@ -14882,7 +14882,7 @@
   },
   {
    "id": "ds_fashion_002",
-   "title": "Fashion 2",
+   "title": "Blue Lolita Dress",
    "category": "fashion",
    "colorCount": 17,
    "regionCount": 166,
@@ -14902,7 +14902,7 @@
   },
   {
    "id": "ds_fashion_003",
-   "title": "Fashion 3",
+   "title": "Streetwear Tee Look",
    "category": "fashion",
    "colorCount": 9,
    "regionCount": 47,
@@ -14922,7 +14922,7 @@
   },
   {
    "id": "ds_fashion_004",
-   "title": "Fashion 4",
+   "title": "Black Blazer and Jeans",
    "category": "fashion",
    "colorCount": 9,
    "regionCount": 35,
@@ -14942,7 +14942,7 @@
   },
   {
    "id": "ds_fashion_005",
-   "title": "Fashion 5",
+   "title": "Mirror Selfie Outfit",
    "category": "fashion",
    "colorCount": 7,
    "regionCount": 19,
@@ -14962,7 +14962,7 @@
   },
   {
    "id": "ds_fashion_006",
-   "title": "Fashion 6",
+   "title": "White Bow Dress",
    "category": "fashion",
    "colorCount": 11,
    "regionCount": 166,
@@ -14982,7 +14982,7 @@
   },
   {
    "id": "ds_fashion_007",
-   "title": "Fashion 7",
+   "title": "Lavender Ball Gown",
    "category": "fashion",
    "colorCount": 19,
    "regionCount": 173,
@@ -15002,7 +15002,7 @@
   },
   {
    "id": "ds_children_day_001",
-   "title": "Children Day 1",
+   "title": "Cupcake Party Kids",
    "category": "children_day",
    "colorCount": 16,
    "regionCount": 62,
@@ -15022,7 +15022,7 @@
   },
   {
    "id": "ds_children_day_002",
-   "title": "Children Day 2",
+   "title": "Kids Kite Celebration",
    "category": "children_day",
    "colorCount": 22,
    "regionCount": 105,
@@ -15042,7 +15042,7 @@
   },
   {
    "id": "ds_children_day_003",
-   "title": "Children Day 3",
+   "title": "Rainbow Doodle Banner",
    "category": "children_day",
    "colorCount": 13,
    "regionCount": 64,
@@ -15062,7 +15062,7 @@
   },
   {
    "id": "ds_children_day_004",
-   "title": "Children Day 4",
+   "title": "Kids with Pinwheel",
    "category": "children_day",
    "colorCount": 18,
    "regionCount": 96,
@@ -15082,7 +15082,7 @@
   },
   {
    "id": "ds_children_day_005",
-   "title": "Children Day 5",
+   "title": "Kids Dancing in Circle",
    "category": "children_day",
    "colorCount": 10,
    "regionCount": 55,
@@ -15102,7 +15102,7 @@
   },
   {
    "id": "ds_children_day_006",
-   "title": "Children Day 6",
+   "title": "Heart Ring of Kids",
    "category": "children_day",
    "colorCount": 16,
    "regionCount": 82,
