@@ -1,10 +1,25 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-15T07:43:11+00:00",
+ "updatedAt": "2026-10-15T07:54:45+00:00",
  "categories": [
   {
    "id": "anime",
    "name": "Anime",
+   "names": {
+    "hi": "एनिमे",
+    "es": "Anime",
+    "pt": "Anime",
+    "de": "Anime",
+    "vi": "Anime",
+    "fr": "Anime",
+    "ha": "Anime",
+    "af": "Anime",
+    "zh": "动漫",
+    "id": "Anime",
+    "bn": "অ্যানিমে",
+    "tr": "Anime",
+    "ar": "أنمي"
+   },
    "icon": {
     "type": "emoji",
     "value": "⚔️"
@@ -13,6 +28,21 @@
   {
    "id": "chibi",
    "name": "Chibi",
+   "names": {
+    "hi": "चिबी",
+    "es": "Chibi",
+    "pt": "Chibi",
+    "de": "Chibi",
+    "vi": "Chibi",
+    "fr": "Chibi",
+    "ha": "Chibi",
+    "af": "Chibi",
+    "zh": "Q版",
+    "id": "Chibi",
+    "bn": "চিবি",
+    "tr": "Chibi",
+    "ar": "تشيبي"
+   },
    "icon": {
     "type": "emoji",
     "value": "🎀"
@@ -21,6 +51,21 @@
   {
    "id": "cartoon",
    "name": "Cartoon",
+   "names": {
+    "hi": "कार्टून",
+    "es": "Dibujos animados",
+    "pt": "Desenhos animados",
+    "de": "Cartoons",
+    "vi": "Hoạt hình",
+    "fr": "Dessins animés",
+    "ha": "Katun",
+    "af": "Tekenprente",
+    "zh": "卡通",
+    "id": "Kartun",
+    "bn": "কার্টুন",
+    "tr": "Çizgi Film",
+    "ar": "رسوم متحركة"
+   },
    "icon": {
     "type": "emoji",
     "value": "🎈"
@@ -29,6 +74,21 @@
   {
    "id": "animals",
    "name": "Animals",
+   "names": {
+    "hi": "जानवर",
+    "es": "Animales",
+    "pt": "Animais",
+    "de": "Tiere",
+    "vi": "Động vật",
+    "fr": "Animaux",
+    "ha": "Dabbobi",
+    "af": "Diere",
+    "zh": "动物",
+    "id": "Hewan",
+    "bn": "প্রাণী",
+    "tr": "Hayvanlar",
+    "ar": "حيوانات"
+   },
    "icon": {
     "type": "emoji",
     "value": "🐾"
@@ -37,6 +97,21 @@
   {
    "id": "flowers",
    "name": "Flowers",
+   "names": {
+    "hi": "फूल",
+    "es": "Flores",
+    "pt": "Flores",
+    "de": "Blumen",
+    "vi": "Hoa",
+    "fr": "Fleurs",
+    "ha": "Furanni",
+    "af": "Blomme",
+    "zh": "花卉",
+    "id": "Bunga",
+    "bn": "ফুল",
+    "tr": "Çiçekler",
+    "ar": "زهور"
+   },
    "icon": {
     "type": "emoji",
     "value": "🌷"
@@ -45,6 +120,21 @@
   {
    "id": "kpop_hunters",
    "name": "K-pop Hunters",
+   "names": {
+    "hi": "के-पॉप हंटर्स",
+    "es": "Guerreras K-pop",
+    "pt": "Guerreiras do K-pop",
+    "de": "K-pop Hunters",
+    "vi": "Thợ săn K-pop",
+    "fr": "K-pop Hunters",
+    "ha": "K-pop Hunters",
+    "af": "K-pop Hunters",
+    "zh": "K-pop猎魔女团",
+    "id": "K-pop Hunters",
+    "bn": "কে-পপ হান্টার্স",
+    "tr": "K-pop Avcıları",
+    "ar": "صائدات الكيبوب"
+   },
    "icon": {
     "type": "emoji",
     "value": "🎤"
@@ -53,6 +143,21 @@
   {
    "id": "hindu_gods",
    "name": "Hindu Gods",
+   "names": {
+    "hi": "हिंदू देवता",
+    "es": "Dioses hindúes",
+    "pt": "Deuses hindus",
+    "de": "Hindu-Götter",
+    "vi": "Thần Hindu",
+    "fr": "Dieux hindous",
+    "ha": "Allolin Hindu",
+    "af": "Hindoe-gode",
+    "zh": "印度教神明",
+    "id": "Dewa Hindu",
+    "bn": "হিন্দু দেবদেবী",
+    "tr": "Hindu Tanrıları",
+    "ar": "آلهة هندوسية"
+   },
    "icon": {
     "type": "emoji",
     "value": "🕉️"
@@ -61,6 +166,21 @@
   {
    "id": "football",
    "name": "Football",
+   "names": {
+    "hi": "फ़ुटबॉल",
+    "es": "Fútbol",
+    "pt": "Futebol",
+    "de": "Fußball",
+    "vi": "Bóng đá",
+    "fr": "Football",
+    "ha": "Ƙwallon ƙafa",
+    "af": "Sokker",
+    "zh": "足球",
+    "id": "Sepak Bola",
+    "bn": "ফুটবল",
+    "tr": "Futbol",
+    "ar": "كرة القدم"
+   },
    "icon": {
     "type": "emoji",
     "value": "⚽"
@@ -69,6 +189,21 @@
   {
    "id": "celebs",
    "name": "Celebs",
+   "names": {
+    "hi": "सितारे",
+    "es": "Famosos",
+    "pt": "Famosos",
+    "de": "Promis",
+    "vi": "Người nổi tiếng",
+    "fr": "Célébrités",
+    "ha": "Fitattun mutane",
+    "af": "Beroemdhede",
+    "zh": "明星",
+    "id": "Selebriti",
+    "bn": "তারকা",
+    "tr": "Ünlüler",
+    "ar": "مشاهير"
+   },
    "icon": {
     "type": "emoji",
     "value": "⭐"
@@ -77,6 +212,21 @@
   {
    "id": "people",
    "name": "People",
+   "names": {
+    "hi": "लोग",
+    "es": "Personas",
+    "pt": "Pessoas",
+    "de": "Menschen",
+    "vi": "Con người",
+    "fr": "Personnes",
+    "ha": "Mutane",
+    "af": "Mense",
+    "zh": "人物",
+    "id": "Orang",
+    "bn": "মানুষ",
+    "tr": "İnsanlar",
+    "ar": "أشخاص"
+   },
    "icon": {
     "type": "emoji",
     "value": "👨‍👩‍👧"
@@ -85,6 +235,21 @@
   {
    "id": "christmas",
    "name": "Christmas",
+   "names": {
+    "hi": "क्रिसमस",
+    "es": "Navidad",
+    "pt": "Natal",
+    "de": "Weihnachten",
+    "vi": "Giáng sinh",
+    "fr": "Noël",
+    "ha": "Kirsimeti",
+    "af": "Kersfees",
+    "zh": "圣诞节",
+    "id": "Natal",
+    "bn": "বড়দিন",
+    "tr": "Noel",
+    "ar": "عيد الميلاد"
+   },
    "icon": {
     "type": "emoji",
     "value": "🎄"
@@ -93,6 +258,21 @@
   {
    "id": "halloween",
    "name": "Halloween",
+   "names": {
+    "hi": "हैलोवीन",
+    "es": "Halloween",
+    "pt": "Halloween",
+    "de": "Halloween",
+    "vi": "Halloween",
+    "fr": "Halloween",
+    "ha": "Halloween",
+    "af": "Halloween",
+    "zh": "万圣节",
+    "id": "Halloween",
+    "bn": "হ্যালোইন",
+    "tr": "Cadılar Bayramı",
+    "ar": "الهالوين"
+   },
    "icon": {
     "type": "emoji",
     "value": "🎃"
@@ -101,6 +281,21 @@
   {
    "id": "heroes",
    "name": "Heroes",
+   "names": {
+    "hi": "सुपरहीरो",
+    "es": "Superhéroes",
+    "pt": "Super-heróis",
+    "de": "Superhelden",
+    "vi": "Siêu anh hùng",
+    "fr": "Super-héros",
+    "ha": "Jarumai",
+    "af": "Superhelde",
+    "zh": "超级英雄",
+    "id": "Pahlawan Super",
+    "bn": "সুপারহিরো",
+    "tr": "Süper Kahramanlar",
+    "ar": "أبطال خارقون"
+   },
    "icon": {
     "type": "emoji",
     "value": "🦸"
@@ -109,6 +304,21 @@
   {
    "id": "food",
    "name": "Food",
+   "names": {
+    "hi": "खाना",
+    "es": "Comida",
+    "pt": "Comida",
+    "de": "Essen",
+    "vi": "Đồ ăn",
+    "fr": "Nourriture",
+    "ha": "Abinci",
+    "af": "Kos",
+    "zh": "美食",
+    "id": "Makanan",
+    "bn": "খাবার",
+    "tr": "Yemek",
+    "ar": "طعام"
+   },
    "icon": {
     "type": "emoji",
     "value": "🍰"
@@ -117,6 +327,21 @@
   {
    "id": "houses",
    "name": "Houses",
+   "names": {
+    "hi": "घर",
+    "es": "Casas",
+    "pt": "Casas",
+    "de": "Häuser",
+    "vi": "Nhà cửa",
+    "fr": "Maisons",
+    "ha": "Gidaje",
+    "af": "Huise",
+    "zh": "房屋",
+    "id": "Rumah",
+    "bn": "বাড়ি",
+    "tr": "Evler",
+    "ar": "منازل"
+   },
    "icon": {
     "type": "emoji",
     "value": "🏡"
@@ -125,6 +350,21 @@
   {
    "id": "vehicles",
    "name": "Vehicles",
+   "names": {
+    "hi": "वाहन",
+    "es": "Vehículos",
+    "pt": "Veículos",
+    "de": "Fahrzeuge",
+    "vi": "Xe cộ",
+    "fr": "Véhicules",
+    "ha": "Motoci",
+    "af": "Voertuie",
+    "zh": "交通工具",
+    "id": "Kendaraan",
+    "bn": "যানবাহন",
+    "tr": "Taşıtlar",
+    "ar": "مركبات"
+   },
    "icon": {
     "type": "emoji",
     "value": "🚗"
@@ -133,6 +373,21 @@
   {
    "id": "fashion",
    "name": "Fashion",
+   "names": {
+    "hi": "फ़ैशन",
+    "es": "Moda",
+    "pt": "Moda",
+    "de": "Mode",
+    "vi": "Thời trang",
+    "fr": "Mode",
+    "ha": "Kwalliya",
+    "af": "Mode",
+    "zh": "时尚",
+    "id": "Fesyen",
+    "bn": "ফ্যাশন",
+    "tr": "Moda",
+    "ar": "أزياء"
+   },
    "icon": {
     "type": "emoji",
     "value": "👗"
@@ -141,6 +396,21 @@
   {
    "id": "children_day",
    "name": "Children's Day",
+   "names": {
+    "hi": "बाल दिवस",
+    "es": "Día del Niño",
+    "pt": "Dia das Crianças",
+    "de": "Kindertag",
+    "vi": "Ngày Thiếu nhi",
+    "fr": "Journée des enfants",
+    "ha": "Ranar Yara",
+    "af": "Kinderdag",
+    "zh": "儿童节",
+    "id": "Hari Anak",
+    "bn": "শিশু দিবস",
+    "tr": "Çocuk Bayramı",
+    "ar": "يوم الطفل"
+   },
    "icon": {
     "type": "emoji",
     "value": "🪁"
