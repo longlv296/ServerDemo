@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T08:41:35+00:00",
+ "updatedAt": "2026-10-16T08:44:26+00:00",
  "categories": [
   {
    "id": "anime",
@@ -17075,9 +17075,9 @@
    "id": "ct_anime_ice_queen",
    "title": "Ice Queen (new colors)",
    "category": "color_test",
-   "colorCount": 9,
-   "regionCount": 239,
-   "contentVersion": 2,
+   "colorCount": 10,
+   "regionCount": 233,
+   "contentVersion": 3,
    "isNew": true,
    "thumbnailUrl": "artworks/color_test/ct_anime_ice_queen/thumbnail.jpg",
    "imageUrl": "artworks/color_test/ct_anime_ice_queen/image.jpg",
@@ -17090,15 +17090,15 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "e92ce620f2c40fae0a24b5e62516c8ea251015d3f634e897e621eee944008dec",
-   "imageSha256": "acd468c54489845c954fccb14c9530d06c8589da464a2f83b959b001852c9015",
+   "regionMapSha256": "50547b0396970ee9efd7773daa379331dc555336b720f100a2b2854629d5a772",
+   "imageSha256": "1d3df42bfb085c55f9e141f34e144214e60b953d98090bb37d15f8a801febfd4",
    "defaultLevel": "normal",
    "levels": [
     {
      "id": "easy",
-     "colorCount": 4,
+     "colorCount": 5,
      "regionCount": 125,
-     "contentVersion": 2,
+     "contentVersion": 3,
      "lineArtUrl": "artworks/color_test/ct_anime_ice_queen/levels/easy/line_art.png",
      "lineArtThumbnailUrl": "artworks/color_test/ct_anime_ice_queen/levels/easy/line_art_thumb.webp",
      "linePathsUrl": "artworks/color_test/ct_anime_ice_queen/levels/easy/line_paths_v3.json",
@@ -17108,39 +17108,39 @@
     },
     {
      "id": "normal",
-     "colorCount": 9,
-     "regionCount": 239,
-     "contentVersion": 2,
+     "colorCount": 10,
+     "regionCount": 233,
+     "contentVersion": 3,
      "lineArtUrl": "artworks/color_test/ct_anime_ice_queen/levels/normal/line_art.png",
      "lineArtThumbnailUrl": "artworks/color_test/ct_anime_ice_queen/levels/normal/line_art_thumb.webp",
      "linePathsUrl": "artworks/color_test/ct_anime_ice_queen/levels/normal/line_paths_v3.json",
      "regionMapUrl": "artworks/color_test/ct_anime_ice_queen/levels/normal/region_map.png",
      "paintDataUrl": "artworks/color_test/ct_anime_ice_queen/levels/normal/paint_data.json",
-     "regionMapSha256": "e92ce620f2c40fae0a24b5e62516c8ea251015d3f634e897e621eee944008dec"
+     "regionMapSha256": "50547b0396970ee9efd7773daa379331dc555336b720f100a2b2854629d5a772"
     },
     {
      "id": "hard",
-     "colorCount": 12,
-     "regionCount": 352,
-     "contentVersion": 2,
+     "colorCount": 14,
+     "regionCount": 316,
+     "contentVersion": 3,
      "lineArtUrl": "artworks/color_test/ct_anime_ice_queen/levels/hard/line_art.png",
      "lineArtThumbnailUrl": "artworks/color_test/ct_anime_ice_queen/levels/hard/line_art_thumb.webp",
      "linePathsUrl": "artworks/color_test/ct_anime_ice_queen/levels/hard/line_paths_v3.json",
      "regionMapUrl": "artworks/color_test/ct_anime_ice_queen/levels/hard/region_map.png",
      "paintDataUrl": "artworks/color_test/ct_anime_ice_queen/levels/hard/paint_data.json",
-     "regionMapSha256": "d0f82f4cde781d1bd96105578cc3a74a3274dccea72d7b73e81326842030bee5"
+     "regionMapSha256": "568baa634dff4bacdf41714b0f413c0db6be202ccd2e2b436514e075b3720620"
     },
     {
      "id": "hell",
      "colorCount": 20,
-     "regionCount": 725,
-     "contentVersion": 2,
+     "regionCount": 688,
+     "contentVersion": 3,
      "lineArtUrl": "artworks/color_test/ct_anime_ice_queen/levels/hell/line_art.png",
      "lineArtThumbnailUrl": "artworks/color_test/ct_anime_ice_queen/levels/hell/line_art_thumb.webp",
      "linePathsUrl": "artworks/color_test/ct_anime_ice_queen/levels/hell/line_paths_v3.json",
      "regionMapUrl": "artworks/color_test/ct_anime_ice_queen/levels/hell/region_map.png",
      "paintDataUrl": "artworks/color_test/ct_anime_ice_queen/levels/hell/paint_data.json",
-     "regionMapSha256": "d7694ec8482986858bfebd1a1f4db6c13e53141869e251bc7a1b5e10b53bff0f"
+     "regionMapSha256": "cca276bd61e73a4dbffe00f93885896786d6e4c6c799046fe34e371af3c2ddee"
     }
    ]
   },
