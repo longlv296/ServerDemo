@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-19T01:55:15+00:00",
+ "updatedAt": "2026-10-19T02:09:04+00:00",
  "categories": [
   {
    "id": "anime",
@@ -16872,8 +16872,8 @@
    "title": "Winter Gifts",
    "category": "hand_drawn",
    "colorCount": 12,
-   "regionCount": 165,
-   "contentVersion": 1,
+   "regionCount": 162,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/hand_drawn/vintage_winter/thumbnail.jpg",
    "imageUrl": "artworks/hand_drawn/vintage_winter/image.jpg",
@@ -16886,8 +16886,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "c2bde39bc030b07ae6985298347333dc715b2f6d572c2e1dafb24e4edc7374fb",
-   "imageSha256": "69c82ccc684644a88cf857f96c4231b8f23cd86fb1c00469c690993dc1d7d304"
+   "regionMapSha256": "a39a4fd571a5ed24b1819be02cbf77fe826cdbe2532a0ea1ab403c94c21b5572",
+   "imageSha256": "1f8f5e33a242b0f82136a781ff0f7bcb514e69f0e54fb48f28f2157e39ff555c"
   }
  ]
 }
