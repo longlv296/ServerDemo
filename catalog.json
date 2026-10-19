@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-16T10:52:05+00:00",
+ "updatedAt": "2026-10-19T01:55:15+00:00",
  "categories": [
   {
    "id": "anime",
@@ -414,6 +414,29 @@
    "icon": {
     "type": "emoji",
     "value": "🪁"
+   }
+  },
+  {
+   "id": "hand_drawn",
+   "name": "Hand Drawn",
+   "names": {
+    "hi": "हाथ से बनी तस्वीरें",
+    "es": "Dibujos a mano",
+    "pt": "Desenhos à mão",
+    "de": "Handgezeichnet",
+    "vi": "Tranh vẽ tay",
+    "fr": "Dessins à la main",
+    "ha": "Zanen hannu",
+    "af": "Handgeteken",
+    "zh": "手绘",
+    "id": "Gambar Tangan",
+    "bn": "হাতে আঁকা",
+    "tr": "El Çizimi",
+    "ar": "رسوم يدوية"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "✏️"
    }
   }
  ],
@@ -16843,6 +16866,28 @@
    "sourceUrl": null,
    "regionMapSha256": "5d3cad07f920e1ec7a886a3386fa429365ba1bd61b900cd605fd7d2c4b8b5f8a",
    "imageSha256": "ff63bb19052b868cd29a3277faf94417b5d17b5cf6ca4cb295d0c44a1ecee2be"
+  },
+  {
+   "id": "vintage_winter",
+   "title": "Winter Gifts",
+   "category": "hand_drawn",
+   "colorCount": 12,
+   "regionCount": 165,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/hand_drawn/vintage_winter/thumbnail.jpg",
+   "imageUrl": "artworks/hand_drawn/vintage_winter/image.jpg",
+   "originalImageUrl": "artworks/hand_drawn/vintage_winter/original.jpg",
+   "lineArtUrl": "artworks/hand_drawn/vintage_winter/line_art.png",
+   "lineArtThumbnailUrl": "artworks/hand_drawn/vintage_winter/line_art_thumb.webp",
+   "linePathsUrl": "artworks/hand_drawn/vintage_winter/line_paths_v3.json",
+   "regionMapUrl": "artworks/hand_drawn/vintage_winter/region_map.png",
+   "paintDataUrl": "artworks/hand_drawn/vintage_winter/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "c2bde39bc030b07ae6985298347333dc715b2f6d572c2e1dafb24e4edc7374fb",
+   "imageSha256": "69c82ccc684644a88cf857f96c4231b8f23cd86fb1c00469c690993dc1d7d304"
   }
  ]
 }
