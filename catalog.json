@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T06:34:17+00:00",
+ "updatedAt": "2026-10-20T10:22:29+00:00",
  "categories": [
   {
    "id": "anime",
@@ -9148,6 +9148,28 @@
    "imageSha256": "90b799a239c4242fa3bbd65b0028ecb2b4b95c92f8003e5640f51de0c7fa0594"
   },
   {
+   "id": "cb_cozy_nook",
+   "title": "Cozy Reading Nook",
+   "category": "houses",
+   "colorCount": 37,
+   "regionCount": 605,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/houses/cb_cozy_nook/thumbnail.jpg",
+   "imageUrl": "artworks/houses/cb_cozy_nook/image.jpg",
+   "originalImageUrl": "artworks/houses/cb_cozy_nook/original.jpg",
+   "lineArtUrl": "artworks/houses/cb_cozy_nook/line_art.png",
+   "lineArtThumbnailUrl": "artworks/houses/cb_cozy_nook/line_art_thumb.webp",
+   "linePathsUrl": "artworks/houses/cb_cozy_nook/line_paths_v3.json",
+   "regionMapUrl": "artworks/houses/cb_cozy_nook/region_map.png",
+   "paintDataUrl": "artworks/houses/cb_cozy_nook/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "19ef537384be98c238f073d3d57188d5ab1cabcb4df9057285d60d1c1f509e24",
+   "imageSha256": "e07a9fd7c912ca5d34bb4716efd571f894a065fceb78ffabc9fa071d1b9fced6"
+  },
+  {
    "id": "ds_anime_071",
    "title": "Kid Goku Sitting",
    "category": "anime",
@@ -11053,6 +11075,28 @@
    ]
   },
   {
+   "id": "cb_coral_reef",
+   "title": "Coral Reef Turtles",
+   "category": "animals",
+   "colorCount": 46,
+   "regionCount": 1075,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/animals/cb_coral_reef/thumbnail.jpg",
+   "imageUrl": "artworks/animals/cb_coral_reef/image.jpg",
+   "originalImageUrl": "artworks/animals/cb_coral_reef/original.jpg",
+   "lineArtUrl": "artworks/animals/cb_coral_reef/line_art.png",
+   "lineArtThumbnailUrl": "artworks/animals/cb_coral_reef/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/cb_coral_reef/line_paths_v3.json",
+   "regionMapUrl": "artworks/animals/cb_coral_reef/region_map.png",
+   "paintDataUrl": "artworks/animals/cb_coral_reef/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "9da630de01661f43e439dfb8ffcf90e5f6c361493bd27cd7b3fdd6fe1dec6a8f",
+   "imageSha256": "45da3e870b0d1d5826b4da74fdcab1480599d53d1f07f0f95e74bd6f2a66a04b"
+  },
+  {
    "id": "px_fluent_color_jellyfish",
    "title": "Jellyfish",
    "category": "pixel_art",
@@ -11630,6 +11674,28 @@
    "categories": [
     "flowers"
    ]
+  },
+  {
+   "id": "cb_autumn_harvest",
+   "title": "Autumn Harvest",
+   "category": "food",
+   "colorCount": 24,
+   "regionCount": 728,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/food/cb_autumn_harvest/thumbnail.jpg",
+   "imageUrl": "artworks/food/cb_autumn_harvest/image.jpg",
+   "originalImageUrl": "artworks/food/cb_autumn_harvest/original.jpg",
+   "lineArtUrl": "artworks/food/cb_autumn_harvest/line_art.png",
+   "lineArtThumbnailUrl": "artworks/food/cb_autumn_harvest/line_art_thumb.webp",
+   "linePathsUrl": "artworks/food/cb_autumn_harvest/line_paths_v3.json",
+   "regionMapUrl": "artworks/food/cb_autumn_harvest/region_map.png",
+   "paintDataUrl": "artworks/food/cb_autumn_harvest/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "b84897768d98536ee70c08b4c4ee0fc45481aabd305d89cb153c99c80d4975db",
+   "imageSha256": "f9e1364b6eb8e1c975d4a439f1737d83876ef48392d3db6990dc372069e40932"
   },
   {
    "id": "ds_chibi_006",
@@ -15271,6 +15337,28 @@
    ]
   },
   {
+   "id": "cb_sun_mandala",
+   "title": "Sun Mandala",
+   "category": "flowers",
+   "colorCount": 58,
+   "regionCount": 1306,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/flowers/cb_sun_mandala/thumbnail.jpg",
+   "imageUrl": "artworks/flowers/cb_sun_mandala/image.jpg",
+   "originalImageUrl": "artworks/flowers/cb_sun_mandala/original.jpg",
+   "lineArtUrl": "artworks/flowers/cb_sun_mandala/line_art.png",
+   "lineArtThumbnailUrl": "artworks/flowers/cb_sun_mandala/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/cb_sun_mandala/line_paths_v3.json",
+   "regionMapUrl": "artworks/flowers/cb_sun_mandala/region_map.png",
+   "paintDataUrl": "artworks/flowers/cb_sun_mandala/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "05f9ceda6810b4465fce09045a08c218bfe9380f503f2d06f4fc5da7f4c83e05",
+   "imageSha256": "96b147938ef09f4f8147e4e73c5284b027c60d9f3d5a2e53693e7b70ff268730"
+  },
+  {
    "id": "ds_anime_093",
    "title": "Zenitsu Name Poster",
    "category": "anime",
@@ -16642,6 +16730,28 @@
    "sourceUrl": null,
    "regionMapSha256": "46eca9838b3d695f10ce075a5acf0f6f487148af25d68b7898e3321a4785c447",
    "imageSha256": "31e77fe1c103f39c0b09eb7b04e56002f9bfa20a35a1a0a4940dd1e6ef0feb12"
+  },
+  {
+   "id": "cb_treehouse",
+   "title": "Oak Treehouse",
+   "category": "houses",
+   "colorCount": 47,
+   "regionCount": 1330,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/houses/cb_treehouse/thumbnail.jpg",
+   "imageUrl": "artworks/houses/cb_treehouse/image.jpg",
+   "originalImageUrl": "artworks/houses/cb_treehouse/original.jpg",
+   "lineArtUrl": "artworks/houses/cb_treehouse/line_art.png",
+   "lineArtThumbnailUrl": "artworks/houses/cb_treehouse/line_art_thumb.webp",
+   "linePathsUrl": "artworks/houses/cb_treehouse/line_paths_v3.json",
+   "regionMapUrl": "artworks/houses/cb_treehouse/region_map.png",
+   "paintDataUrl": "artworks/houses/cb_treehouse/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "5c1dbc2537b3eb598b773464c7d75f8735ab9748c7275e7318e8ba2645845905",
+   "imageSha256": "809033f2e1e1b89df932be4fb6f958b97cb12fae6bd2f6b1dc462f1134d1b334"
   },
   {
    "id": "ds_anime_119",
