@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T10:22:29+00:00",
+ "updatedAt": "2026-10-20T10:47:25+00:00",
  "categories": [
   {
    "id": "anime",
@@ -9151,9 +9151,9 @@
    "id": "cb_cozy_nook",
    "title": "Cozy Reading Nook",
    "category": "houses",
-   "colorCount": 37,
-   "regionCount": 605,
-   "contentVersion": 1,
+   "colorCount": 34,
+   "regionCount": 475,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/houses/cb_cozy_nook/thumbnail.jpg",
    "imageUrl": "artworks/houses/cb_cozy_nook/image.jpg",
@@ -9166,7 +9166,7 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "19ef537384be98c238f073d3d57188d5ab1cabcb4df9057285d60d1c1f509e24",
+   "regionMapSha256": "70ed62e2e65716d1cd4380860dcc9be82a877ffba41b3cd9ccdd89e8852cd213",
    "imageSha256": "e07a9fd7c912ca5d34bb4716efd571f894a065fceb78ffabc9fa071d1b9fced6"
   },
   {
@@ -11078,9 +11078,9 @@
    "id": "cb_coral_reef",
    "title": "Coral Reef Turtles",
    "category": "animals",
-   "colorCount": 46,
-   "regionCount": 1075,
-   "contentVersion": 1,
+   "colorCount": 45,
+   "regionCount": 793,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/cb_coral_reef/thumbnail.jpg",
    "imageUrl": "artworks/animals/cb_coral_reef/image.jpg",
@@ -11093,7 +11093,7 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "9da630de01661f43e439dfb8ffcf90e5f6c361493bd27cd7b3fdd6fe1dec6a8f",
+   "regionMapSha256": "4aecc7b4c6a62f9068d9eae00d139d54c1485510a18b0cb22b2803a891a9ad13",
    "imageSha256": "45da3e870b0d1d5826b4da74fdcab1480599d53d1f07f0f95e74bd6f2a66a04b"
   },
   {
@@ -11680,8 +11680,8 @@
    "title": "Autumn Harvest",
    "category": "food",
    "colorCount": 24,
-   "regionCount": 728,
-   "contentVersion": 1,
+   "regionCount": 615,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/food/cb_autumn_harvest/thumbnail.jpg",
    "imageUrl": "artworks/food/cb_autumn_harvest/image.jpg",
@@ -11694,8 +11694,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "b84897768d98536ee70c08b4c4ee0fc45481aabd305d89cb153c99c80d4975db",
-   "imageSha256": "f9e1364b6eb8e1c975d4a439f1737d83876ef48392d3db6990dc372069e40932"
+   "regionMapSha256": "ae2caa09c60bc8bc51cb56c0af1c7d6495dff9fcb1b08c3c02e827fb78cd6b16",
+   "imageSha256": "0773489ce0b8360ff45d04219bc1ba3ba81609c81270b877b11a71e9d3aad067"
   },
   {
    "id": "ds_chibi_006",
@@ -15341,8 +15341,8 @@
    "title": "Sun Mandala",
    "category": "flowers",
    "colorCount": 58,
-   "regionCount": 1306,
-   "contentVersion": 1,
+   "regionCount": 1206,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/flowers/cb_sun_mandala/thumbnail.jpg",
    "imageUrl": "artworks/flowers/cb_sun_mandala/image.jpg",
@@ -15355,7 +15355,7 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "05f9ceda6810b4465fce09045a08c218bfe9380f503f2d06f4fc5da7f4c83e05",
+   "regionMapSha256": "ae6c844ca1df87962078bc5e5db79801b2ef8e9ddfe9acce3725de14d8f9931c",
    "imageSha256": "96b147938ef09f4f8147e4e73c5284b027c60d9f3d5a2e53693e7b70ff268730"
   },
   {
@@ -16736,8 +16736,8 @@
    "title": "Oak Treehouse",
    "category": "houses",
    "colorCount": 47,
-   "regionCount": 1330,
-   "contentVersion": 1,
+   "regionCount": 985,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/houses/cb_treehouse/thumbnail.jpg",
    "imageUrl": "artworks/houses/cb_treehouse/image.jpg",
@@ -16750,7 +16750,7 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "5c1dbc2537b3eb598b773464c7d75f8735ab9748c7275e7318e8ba2645845905",
+   "regionMapSha256": "b3c0f6f2e981186cbcd5e896c812ebd6cff2b062e43f2f1420ea9d6a19db8037",
    "imageSha256": "809033f2e1e1b89df932be4fb6f958b97cb12fae6bd2f6b1dc462f1134d1b334"
   },
   {
