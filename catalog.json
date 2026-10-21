@@ -1,7 +1,145 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-20T10:47:25+00:00",
+ "updatedAt": "2026-10-21T02:35:16+00:00",
  "categories": [
+  {
+   "id": "animals",
+   "name": "Animals",
+   "names": {
+    "hi": "जानवर",
+    "es": "Animales",
+    "pt": "Animais",
+    "de": "Tiere",
+    "vi": "Động vật",
+    "fr": "Animaux",
+    "ha": "Dabbobi",
+    "af": "Diere",
+    "zh": "动物",
+    "id": "Hewan",
+    "bn": "প্রাণী",
+    "tr": "Hayvanlar",
+    "ar": "حيوانات"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🐱"
+   }
+  },
+  {
+   "id": "flowers",
+   "name": "Flowers",
+   "names": {
+    "hi": "फूल",
+    "es": "Flores",
+    "pt": "Flores",
+    "de": "Blumen",
+    "vi": "Hoa",
+    "fr": "Fleurs",
+    "ha": "Furanni",
+    "af": "Blomme",
+    "zh": "花卉",
+    "id": "Bunga",
+    "bn": "ফুল",
+    "tr": "Çiçekler",
+    "ar": "زهور"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🌸"
+   }
+  },
+  {
+   "id": "nature",
+   "name": "Nature",
+   "names": {
+    "hi": "प्रकृति",
+    "es": "Naturaleza",
+    "pt": "Natureza",
+    "de": "Natur",
+    "vi": "Thiên nhiên",
+    "fr": "Nature",
+    "ha": "Yanayi",
+    "af": "Natuur",
+    "zh": "自然",
+    "id": "Alam",
+    "bn": "প্রকৃতি",
+    "tr": "Doğa",
+    "ar": "طبيعة"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🌿"
+   }
+  },
+  {
+   "id": "mandala",
+   "name": "Mandala",
+   "names": {
+    "hi": "मंडला",
+    "es": "Mandalas",
+    "pt": "Mandalas",
+    "de": "Mandalas",
+    "vi": "Mandala",
+    "fr": "Mandalas",
+    "ha": "Mandala",
+    "af": "Mandalas",
+    "zh": "曼陀罗",
+    "id": "Mandala",
+    "bn": "মণ্ডল",
+    "tr": "Mandala",
+    "ar": "ماندالا"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🌀"
+   }
+  },
+  {
+   "id": "fantasy",
+   "name": "Fantasy",
+   "names": {
+    "hi": "फ़ैंटेसी",
+    "es": "Fantasía",
+    "pt": "Fantasia",
+    "de": "Fantasy",
+    "vi": "Kỳ ảo",
+    "fr": "Fantastique",
+    "ha": "Tatsuniya",
+    "af": "Fantasie",
+    "zh": "奇幻",
+    "id": "Fantasi",
+    "bn": "ফ্যান্টাসি",
+    "tr": "Fantastik",
+    "ar": "خيال"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🦄"
+   }
+  },
+  {
+   "id": "characters",
+   "name": "Characters",
+   "names": {
+    "hi": "पात्र",
+    "es": "Personajes",
+    "pt": "Personagens",
+    "de": "Figuren",
+    "vi": "Nhân vật",
+    "fr": "Personnages",
+    "ha": "Haruffa",
+    "af": "Karakters",
+    "zh": "人物",
+    "id": "Karakter",
+    "bn": "চরিত্র",
+    "tr": "Karakterler",
+    "ar": "شخصيات"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "👧"
+   }
+  },
   {
    "id": "anime",
    "name": "Anime",
@@ -22,7 +160,306 @@
    },
    "icon": {
     "type": "emoji",
-    "value": "⚔️"
+    "value": "🎌"
+   }
+  },
+  {
+   "id": "cartoon",
+   "name": "Cartoon",
+   "names": {
+    "hi": "कार्टून",
+    "es": "Dibujos animados",
+    "pt": "Desenhos animados",
+    "de": "Cartoons",
+    "vi": "Hoạt hình",
+    "fr": "Dessins animés",
+    "ha": "Katun",
+    "af": "Tekenprente",
+    "zh": "卡通",
+    "id": "Kartun",
+    "bn": "কার্টুন",
+    "tr": "Çizgi Film",
+    "ar": "رسوم متحركة"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🧸"
+   }
+  },
+  {
+   "id": "halloween",
+   "name": "Halloween",
+   "names": {
+    "hi": "हैलोवीन",
+    "es": "Halloween",
+    "pt": "Halloween",
+    "de": "Halloween",
+    "vi": "Halloween",
+    "fr": "Halloween",
+    "ha": "Halloween",
+    "af": "Halloween",
+    "zh": "万圣节",
+    "id": "Halloween",
+    "bn": "হ্যালোইন",
+    "tr": "Cadılar Bayramı",
+    "ar": "الهالوين"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🎃"
+   }
+  },
+  {
+   "id": "pixel_art",
+   "name": "Pixel Art",
+   "names": {
+    "hi": "पिक्सेल आर्ट",
+    "es": "Pixel art",
+    "pt": "Pixel art",
+    "de": "Pixel-Art",
+    "vi": "Tranh pixel",
+    "fr": "Pixel art",
+    "ha": "Zanen pixel",
+    "af": "Pixelkuns",
+    "zh": "像素画",
+    "id": "Seni Piksel",
+    "bn": "পিক্সেল আর্ট",
+    "tr": "Piksel Sanatı",
+    "ar": "فن البكسل"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "👾"
+   }
+  },
+  {
+   "id": "food",
+   "name": "Food",
+   "names": {
+    "hi": "खाना",
+    "es": "Comida",
+    "pt": "Comida",
+    "de": "Essen",
+    "vi": "Đồ ăn",
+    "fr": "Nourriture",
+    "ha": "Abinci",
+    "af": "Kos",
+    "zh": "美食",
+    "id": "Makanan",
+    "bn": "খাবার",
+    "tr": "Yemek",
+    "ar": "طعام"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🍰"
+   }
+  },
+  {
+   "id": "sports",
+   "name": "Sports",
+   "names": {
+    "hi": "खेल",
+    "es": "Deportes",
+    "pt": "Esportes",
+    "de": "Sport",
+    "vi": "Thể thao",
+    "fr": "Sports",
+    "ha": "Wasanni",
+    "af": "Sport",
+    "zh": "运动",
+    "id": "Olahraga",
+    "bn": "খেলাধুলা",
+    "tr": "Spor",
+    "ar": "رياضة"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "⚽"
+   }
+  },
+  {
+   "id": "butterfly",
+   "name": "Butterfly",
+   "names": {
+    "hi": "तितली",
+    "es": "Mariposas",
+    "pt": "Borboletas",
+    "de": "Schmetterlinge",
+    "vi": "Bướm",
+    "fr": "Papillons",
+    "ha": "Malam buɗe littafi",
+    "af": "Skoenlappers",
+    "zh": "蝴蝶",
+    "id": "Kupu-kupu",
+    "bn": "প্রজাপতি",
+    "tr": "Kelebekler",
+    "ar": "فراشات"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🦋"
+   }
+  },
+  {
+   "id": "christmas",
+   "name": "Christmas",
+   "names": {
+    "hi": "क्रिसमस",
+    "es": "Navidad",
+    "pt": "Natal",
+    "de": "Weihnachten",
+    "vi": "Giáng sinh",
+    "fr": "Noël",
+    "ha": "Kirsimeti",
+    "af": "Kersfees",
+    "zh": "圣诞节",
+    "id": "Natal",
+    "bn": "বড়দিন",
+    "tr": "Noel",
+    "ar": "عيد الميلاد"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🎄"
+   }
+  },
+  {
+   "id": "valentine",
+   "name": "Valentine",
+   "names": {
+    "hi": "वैलेंटाइन",
+    "es": "San Valentín",
+    "pt": "Dia dos Namorados",
+    "de": "Valentinstag",
+    "vi": "Valentine",
+    "fr": "Saint-Valentin",
+    "ha": "Ranar Masoya",
+    "af": "Valentynsdag",
+    "zh": "情人节",
+    "id": "Valentine",
+    "bn": "ভালোবাসা দিবস",
+    "tr": "Sevgililer Günü",
+    "ar": "عيد الحب"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "💝"
+   }
+  },
+  {
+   "id": "fashion",
+   "name": "Fashion",
+   "names": {
+    "hi": "फ़ैशन",
+    "es": "Moda",
+    "pt": "Moda",
+    "de": "Mode",
+    "vi": "Thời trang",
+    "fr": "Mode",
+    "ha": "Kwalliya",
+    "af": "Mode",
+    "zh": "时尚",
+    "id": "Fesyen",
+    "bn": "ফ্যাশন",
+    "tr": "Moda",
+    "ar": "أزياء"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "👗"
+   }
+  },
+  {
+   "id": "oil_painting",
+   "name": "Oil Painting",
+   "names": {
+    "hi": "तैल चित्र",
+    "es": "Pintura al óleo",
+    "pt": "Pintura a óleo",
+    "de": "Ölgemälde",
+    "vi": "Tranh sơn dầu",
+    "fr": "Peinture à l'huile",
+    "ha": "Zanen mai",
+    "af": "Olieverf",
+    "zh": "油画",
+    "id": "Lukisan Minyak",
+    "bn": "তৈলচিত্র",
+    "tr": "Yağlı Boya",
+    "ar": "لوحات زيتية"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🎨"
+   }
+  },
+  {
+   "id": "fairy_tale",
+   "name": "Fairy Tale",
+   "names": {
+    "hi": "परी कथा",
+    "es": "Cuentos de hadas",
+    "pt": "Contos de fadas",
+    "de": "Märchen",
+    "vi": "Cổ tích",
+    "fr": "Contes de fées",
+    "ha": "Tatsuniyoyi",
+    "af": "Sprokies",
+    "zh": "童话",
+    "id": "Dongeng",
+    "bn": "রূপকথা",
+    "tr": "Masallar",
+    "ar": "حكايات خرافية"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "✨"
+   }
+  },
+  {
+   "id": "zodiac",
+   "name": "Zodiac",
+   "names": {
+    "hi": "राशि चक्र",
+    "es": "Zodiaco",
+    "pt": "Zodíaco",
+    "de": "Sternzeichen",
+    "vi": "Cung hoàng đạo",
+    "fr": "Zodiaque",
+    "ha": "Taurari",
+    "af": "Diereriem",
+    "zh": "星座",
+    "id": "Zodiak",
+    "bn": "রাশিচক্র",
+    "tr": "Burçlar",
+    "ar": "الأبراج"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "♈"
+   }
+  },
+  {
+   "id": "hindu_gods",
+   "name": "Hindu Gods",
+   "names": {
+    "hi": "हिंदू देवता",
+    "es": "Dioses hindúes",
+    "pt": "Deuses hindus",
+    "de": "Hindu-Götter",
+    "vi": "Thần Hindu",
+    "fr": "Dieux hindous",
+    "ha": "Allolin Hindu",
+    "af": "Hindoe-gode",
+    "zh": "印度教神明",
+    "id": "Dewa Hindu",
+    "bn": "হিন্দু দেবদেবী",
+    "tr": "Hindu Tanrıları",
+    "ar": "آلهة هندوسية"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🕉️"
    }
   },
   {
@@ -49,75 +486,6 @@
    }
   },
   {
-   "id": "cartoon",
-   "name": "Cartoon",
-   "names": {
-    "hi": "कार्टून",
-    "es": "Dibujos animados",
-    "pt": "Desenhos animados",
-    "de": "Cartoons",
-    "vi": "Hoạt hình",
-    "fr": "Dessins animés",
-    "ha": "Katun",
-    "af": "Tekenprente",
-    "zh": "卡通",
-    "id": "Kartun",
-    "bn": "কার্টুন",
-    "tr": "Çizgi Film",
-    "ar": "رسوم متحركة"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "🎈"
-   }
-  },
-  {
-   "id": "animals",
-   "name": "Animals",
-   "names": {
-    "hi": "जानवर",
-    "es": "Animales",
-    "pt": "Animais",
-    "de": "Tiere",
-    "vi": "Động vật",
-    "fr": "Animaux",
-    "ha": "Dabbobi",
-    "af": "Diere",
-    "zh": "动物",
-    "id": "Hewan",
-    "bn": "প্রাণী",
-    "tr": "Hayvanlar",
-    "ar": "حيوانات"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "🐾"
-   }
-  },
-  {
-   "id": "flowers",
-   "name": "Flowers",
-   "names": {
-    "hi": "फूल",
-    "es": "Flores",
-    "pt": "Flores",
-    "de": "Blumen",
-    "vi": "Hoa",
-    "fr": "Fleurs",
-    "ha": "Furanni",
-    "af": "Blomme",
-    "zh": "花卉",
-    "id": "Bunga",
-    "bn": "ফুল",
-    "tr": "Çiçekler",
-    "ar": "زهور"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "🌷"
-   }
-  },
-  {
    "id": "kpop_hunters",
    "name": "K-pop Hunters",
    "names": {
@@ -138,29 +506,6 @@
    "icon": {
     "type": "emoji",
     "value": "🎤"
-   }
-  },
-  {
-   "id": "hindu_gods",
-   "name": "Hindu Gods",
-   "names": {
-    "hi": "हिंदू देवता",
-    "es": "Dioses hindúes",
-    "pt": "Deuses hindus",
-    "de": "Hindu-Götter",
-    "vi": "Thần Hindu",
-    "fr": "Dieux hindous",
-    "ha": "Allolin Hindu",
-    "af": "Hindoe-gode",
-    "zh": "印度教神明",
-    "id": "Dewa Hindu",
-    "bn": "হিন্দু দেবদেবী",
-    "tr": "Hindu Tanrıları",
-    "ar": "آلهة هندوسية"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "🕉️"
    }
   },
   {
@@ -233,52 +578,6 @@
    }
   },
   {
-   "id": "christmas",
-   "name": "Christmas",
-   "names": {
-    "hi": "क्रिसमस",
-    "es": "Navidad",
-    "pt": "Natal",
-    "de": "Weihnachten",
-    "vi": "Giáng sinh",
-    "fr": "Noël",
-    "ha": "Kirsimeti",
-    "af": "Kersfees",
-    "zh": "圣诞节",
-    "id": "Natal",
-    "bn": "বড়দিন",
-    "tr": "Noel",
-    "ar": "عيد الميلاد"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "🎄"
-   }
-  },
-  {
-   "id": "halloween",
-   "name": "Halloween",
-   "names": {
-    "hi": "हैलोवीन",
-    "es": "Halloween",
-    "pt": "Halloween",
-    "de": "Halloween",
-    "vi": "Halloween",
-    "fr": "Halloween",
-    "ha": "Halloween",
-    "af": "Halloween",
-    "zh": "万圣节",
-    "id": "Halloween",
-    "bn": "হ্যালোইন",
-    "tr": "Cadılar Bayramı",
-    "ar": "الهالوين"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "🎃"
-   }
-  },
-  {
    "id": "heroes",
    "name": "Heroes",
    "names": {
@@ -299,29 +598,6 @@
    "icon": {
     "type": "emoji",
     "value": "🦸"
-   }
-  },
-  {
-   "id": "food",
-   "name": "Food",
-   "names": {
-    "hi": "खाना",
-    "es": "Comida",
-    "pt": "Comida",
-    "de": "Essen",
-    "vi": "Đồ ăn",
-    "fr": "Nourriture",
-    "ha": "Abinci",
-    "af": "Kos",
-    "zh": "美食",
-    "id": "Makanan",
-    "bn": "খাবার",
-    "tr": "Yemek",
-    "ar": "طعام"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "🍰"
    }
   },
   {
@@ -371,29 +647,6 @@
    }
   },
   {
-   "id": "fashion",
-   "name": "Fashion",
-   "names": {
-    "hi": "फ़ैशन",
-    "es": "Moda",
-    "pt": "Moda",
-    "de": "Mode",
-    "vi": "Thời trang",
-    "fr": "Mode",
-    "ha": "Kwalliya",
-    "af": "Mode",
-    "zh": "时尚",
-    "id": "Fesyen",
-    "bn": "ফ্যাশন",
-    "tr": "Moda",
-    "ar": "أزياء"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "👗"
-   }
-  },
-  {
    "id": "children_day",
    "name": "Children's Day",
    "names": {
@@ -437,29 +690,6 @@
    "icon": {
     "type": "emoji",
     "value": "✏️"
-   }
-  },
-  {
-   "id": "pixel_art",
-   "name": "Pixel Art",
-   "names": {
-    "hi": "पिक्सेल आर्ट",
-    "es": "Pixel art",
-    "pt": "Pixel art",
-    "de": "Pixel-Art",
-    "vi": "Tranh pixel",
-    "fr": "Pixel art",
-    "ha": "Zanen pixel",
-    "af": "Pixelkuns",
-    "zh": "像素画",
-    "id": "Seni Piksel",
-    "bn": "পিক্সেল আর্ট",
-    "tr": "Piksel Sanatı",
-    "ar": "فن البكسل"
-   },
-   "icon": {
-    "type": "emoji",
-    "value": "👾"
    }
   },
   {
@@ -838,9 +1068,9 @@
    "id": "ds_hindu_gods_003",
    "title": "Ganesha with Axe",
    "category": "hindu_gods",
-   "colorCount": 11,
-   "regionCount": 96,
-   "contentVersion": 7,
+   "colorCount": 9,
+   "regionCount": 79,
+   "contentVersion": 8,
    "isNew": true,
    "thumbnailUrl": "artworks/hindu_gods/ds_hindu_gods_003/thumbnail.jpg",
    "imageUrl": "artworks/hindu_gods/ds_hindu_gods_003/image.jpg",
@@ -853,8 +1083,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "57cd7797733f59bde2219ee37170641d66ff60cee58d7169adc9cb634ff5a62a",
-   "imageSha256": "ea647fab050f8d457dbed012dea6b0ab97e95567c0de39d19df22a2639a01498"
+   "regionMapSha256": "cc478bc64f2dbb2727e17409096836cf11faf86ad50d8e0d247b332f70fdc300",
+   "imageSha256": "286aa8489f0e8ae6a7ba6ffb5f8a1ff92d6fe169782bace7bea0d422386fa0ff"
   },
   {
    "id": "ds_football_006",
@@ -1634,6 +1864,50 @@
    "imageSha256": "fce0a74283ceb566d3c3598b89dbb7b5984835013a50481ebf0367b154868527"
   },
   {
+   "id": "cb_princess_castle",
+   "title": "Princess Castle",
+   "category": "fairy_tale",
+   "colorCount": 25,
+   "regionCount": 974,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fairy_tale/cb_princess_castle/thumbnail.jpg",
+   "imageUrl": "artworks/fairy_tale/cb_princess_castle/image.jpg",
+   "originalImageUrl": "artworks/fairy_tale/cb_princess_castle/original.jpg",
+   "lineArtUrl": "artworks/fairy_tale/cb_princess_castle/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fairy_tale/cb_princess_castle/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fairy_tale/cb_princess_castle/line_paths_v3.json",
+   "regionMapUrl": "artworks/fairy_tale/cb_princess_castle/region_map.png",
+   "paintDataUrl": "artworks/fairy_tale/cb_princess_castle/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "9f3485cbb51530ce8f9ac0d29233ec8df88fb058e3d06b6c489b7be3193711c2",
+   "imageSha256": "de219a660d9a953ebca1bb461814ebf395b8c8d76846553532128f4be0b1734b"
+  },
+  {
+   "id": "cb_pumpkin_patch",
+   "title": "Pumpkin Patch",
+   "category": "halloween",
+   "colorCount": 22,
+   "regionCount": 949,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/halloween/cb_pumpkin_patch/thumbnail.jpg",
+   "imageUrl": "artworks/halloween/cb_pumpkin_patch/image.jpg",
+   "originalImageUrl": "artworks/halloween/cb_pumpkin_patch/original.jpg",
+   "lineArtUrl": "artworks/halloween/cb_pumpkin_patch/line_art.png",
+   "lineArtThumbnailUrl": "artworks/halloween/cb_pumpkin_patch/line_art_thumb.webp",
+   "linePathsUrl": "artworks/halloween/cb_pumpkin_patch/line_paths_v3.json",
+   "regionMapUrl": "artworks/halloween/cb_pumpkin_patch/region_map.png",
+   "paintDataUrl": "artworks/halloween/cb_pumpkin_patch/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "fb3ac55f8055cbad69591a5a2edde3db6a2be09193a10bc8db7f5d095063fb9f",
+   "imageSha256": "af21435e5cb5d2120c55add942a910ee3a5ac5177114ed087e3397e64108cb60"
+  },
+  {
    "id": "px_rawpixel_rp_poinsettia_flower_333559",
    "title": "Poinsettia flower",
    "category": "pixel_art",
@@ -1724,6 +1998,28 @@
    "sourceUrl": null,
    "regionMapSha256": "24d3d34f35cde365a1d8c9441a6542f8f9c957824c5b62c1f00863e65c5a7bf8",
    "imageSha256": "ab6ed7588a2ffb55b9be79c95505a44c1468893ce0d0681205c8901c41b9dbbe"
+  },
+  {
+   "id": "cb_cartoon_cat_fish",
+   "title": "Cat and Fish",
+   "category": "cartoon",
+   "colorCount": 22,
+   "regionCount": 198,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/cartoon/cb_cartoon_cat_fish/thumbnail.jpg",
+   "imageUrl": "artworks/cartoon/cb_cartoon_cat_fish/image.jpg",
+   "originalImageUrl": "artworks/cartoon/cb_cartoon_cat_fish/original.jpg",
+   "lineArtUrl": "artworks/cartoon/cb_cartoon_cat_fish/line_art.png",
+   "lineArtThumbnailUrl": "artworks/cartoon/cb_cartoon_cat_fish/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/cb_cartoon_cat_fish/line_paths_v3.json",
+   "regionMapUrl": "artworks/cartoon/cb_cartoon_cat_fish/region_map.png",
+   "paintDataUrl": "artworks/cartoon/cb_cartoon_cat_fish/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "8ba93b2928314928ea39d3403b74dfa8091e303cb31892d362ae6ba135ef940c",
+   "imageSha256": "4dfe6904a25ff42efa70dfefe22f661fe0c969bce1c7d10db09efe755f804f88"
   },
   {
    "id": "ds_animals_006",
@@ -2109,6 +2405,28 @@
    "imageSha256": "58b75c1ef0c182efc8525b602dcd4182b99090cc65ded3fa89dc08207766de78"
   },
   {
+   "id": "cb_floral_mandala",
+   "title": "Floral Mandala",
+   "category": "mandala",
+   "colorCount": 22,
+   "regionCount": 660,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/mandala/cb_floral_mandala/thumbnail.jpg",
+   "imageUrl": "artworks/mandala/cb_floral_mandala/image.jpg",
+   "originalImageUrl": "artworks/mandala/cb_floral_mandala/original.jpg",
+   "lineArtUrl": "artworks/mandala/cb_floral_mandala/line_art.png",
+   "lineArtThumbnailUrl": "artworks/mandala/cb_floral_mandala/line_art_thumb.webp",
+   "linePathsUrl": "artworks/mandala/cb_floral_mandala/line_paths_v3.json",
+   "regionMapUrl": "artworks/mandala/cb_floral_mandala/region_map.png",
+   "paintDataUrl": "artworks/mandala/cb_floral_mandala/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "6919319a87a5cfcc77ba622322618548c875f52c10677114dee67139791e6f8d",
+   "imageSha256": "0845371ec61662cd8e4d93d1fdefc3e5b6666c070104204d0b0a4964485dffcf"
+  },
+  {
    "id": "px_fluent_color_shark",
    "title": "Shark",
    "category": "pixel_art",
@@ -2274,6 +2592,28 @@
    "regionMapSha256": "dbdcf27bbe6c3c2eb771bde35fbd829e70201c32d952818ba0c7d0a29e9cc45f",
    "imageSha256": "43d2bbb1749d5e06b7dbc69d8899e900d3539dff1bd706f5782b390d89b66e32",
    "difficulty": "hard"
+  },
+  {
+   "id": "cb_heart_roses",
+   "title": "Heart of Roses",
+   "category": "valentine",
+   "colorCount": 17,
+   "regionCount": 769,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/valentine/cb_heart_roses/thumbnail.jpg",
+   "imageUrl": "artworks/valentine/cb_heart_roses/image.jpg",
+   "originalImageUrl": "artworks/valentine/cb_heart_roses/original.jpg",
+   "lineArtUrl": "artworks/valentine/cb_heart_roses/line_art.png",
+   "lineArtThumbnailUrl": "artworks/valentine/cb_heart_roses/line_art_thumb.webp",
+   "linePathsUrl": "artworks/valentine/cb_heart_roses/line_paths_v3.json",
+   "regionMapUrl": "artworks/valentine/cb_heart_roses/region_map.png",
+   "paintDataUrl": "artworks/valentine/cb_heart_roses/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "f0abb15809e8aa7b9575327e6e54d0dbe54f1772845fea17fdff3892deb6f38b",
+   "imageSha256": "b9e2b7183ff6ba63dbd4d931d36d947e60c9cf0b65a432ff5e343b0876b91ca5"
   },
   {
    "id": "ds_vehicles_006",
@@ -5375,6 +5715,28 @@
    "imageSha256": "70340114190e08d97293e2321b99cae47f48ceb1b27d54e4f1e5b388de342435"
   },
   {
+   "id": "cb_girl_reading",
+   "title": "Girl Reading",
+   "category": "characters",
+   "colorCount": 30,
+   "regionCount": 706,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/characters/cb_girl_reading/thumbnail.jpg",
+   "imageUrl": "artworks/characters/cb_girl_reading/image.jpg",
+   "originalImageUrl": "artworks/characters/cb_girl_reading/original.jpg",
+   "lineArtUrl": "artworks/characters/cb_girl_reading/line_art.png",
+   "lineArtThumbnailUrl": "artworks/characters/cb_girl_reading/line_art_thumb.webp",
+   "linePathsUrl": "artworks/characters/cb_girl_reading/line_paths_v3.json",
+   "regionMapUrl": "artworks/characters/cb_girl_reading/region_map.png",
+   "paintDataUrl": "artworks/characters/cb_girl_reading/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "ad5e55ce66f7213ad824a1633359d8c9d77d1f158b4f7c14e1277675902d7f10",
+   "imageSha256": "075735f6ba53576d8480bcd35ca05b8ba03849f737f64200ce79e6e53a2364a6"
+  },
+  {
    "id": "ds_kpop_hunters_037",
    "title": "Rumi Mic Point",
    "category": "kpop_hunters",
@@ -6716,6 +7078,28 @@
    "sourceUrl": null,
    "regionMapSha256": "9146e4f035f94749e8371a26c84a4123b2603a35cc37907b3857b5c76fc5661d",
    "imageSha256": "cef80c214213e121783b7ed2e39fcc0784c840d466d1b314b0e747f8c8cd76be"
+  },
+  {
+   "id": "cb_evening_gown",
+   "title": "Evening Gown",
+   "category": "fashion",
+   "colorCount": 12,
+   "regionCount": 253,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fashion/cb_evening_gown/thumbnail.jpg",
+   "imageUrl": "artworks/fashion/cb_evening_gown/image.jpg",
+   "originalImageUrl": "artworks/fashion/cb_evening_gown/original.jpg",
+   "lineArtUrl": "artworks/fashion/cb_evening_gown/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fashion/cb_evening_gown/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fashion/cb_evening_gown/line_paths_v3.json",
+   "regionMapUrl": "artworks/fashion/cb_evening_gown/region_map.png",
+   "paintDataUrl": "artworks/fashion/cb_evening_gown/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "897a312741c856bc0d1ec945500b8f46adc6162dd281e9bfdd81212b6c010da0",
+   "imageSha256": "0fec826ad82110e708e8281d1d55ed99a95d77cb703b1342d2bb6ec83f9d830f"
   },
   {
    "id": "px_rawpixel_rp_swan_674982",
@@ -8599,6 +8983,28 @@
    "imageSha256": "b5bb4220f9995e26f6399142ef5915dd4d38941c34ca10178f08d6796967222a"
   },
   {
+   "id": "cb_orange_cat_window",
+   "title": "Cat",
+   "category": "animals",
+   "colorCount": 18,
+   "regionCount": 496,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/animals/cb_orange_cat_window/thumbnail.jpg",
+   "imageUrl": "artworks/animals/cb_orange_cat_window/image.jpg",
+   "originalImageUrl": "artworks/animals/cb_orange_cat_window/original.jpg",
+   "lineArtUrl": "artworks/animals/cb_orange_cat_window/line_art.png",
+   "lineArtThumbnailUrl": "artworks/animals/cb_orange_cat_window/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/cb_orange_cat_window/line_paths_v3.json",
+   "regionMapUrl": "artworks/animals/cb_orange_cat_window/region_map.png",
+   "paintDataUrl": "artworks/animals/cb_orange_cat_window/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "8e78a4ee3a4adebd402930e7686d81c6c07c640b640fb23ff9da359aeeaf24d4",
+   "imageSha256": "aa1d78c5608608c47e5c9bda46e03e77b44f6c7197251e7166557c11f6a3bd71"
+  },
+  {
    "id": "px_rawpixel_rp_cute_owl_cab630",
    "title": "Cute owl",
    "category": "pixel_art",
@@ -9148,28 +9554,6 @@
    "imageSha256": "90b799a239c4242fa3bbd65b0028ecb2b4b95c92f8003e5640f51de0c7fa0594"
   },
   {
-   "id": "cb_cozy_nook",
-   "title": "Cozy Reading Nook",
-   "category": "houses",
-   "colorCount": 34,
-   "regionCount": 475,
-   "contentVersion": 2,
-   "isNew": true,
-   "thumbnailUrl": "artworks/houses/cb_cozy_nook/thumbnail.jpg",
-   "imageUrl": "artworks/houses/cb_cozy_nook/image.jpg",
-   "originalImageUrl": "artworks/houses/cb_cozy_nook/original.jpg",
-   "lineArtUrl": "artworks/houses/cb_cozy_nook/line_art.png",
-   "lineArtThumbnailUrl": "artworks/houses/cb_cozy_nook/line_art_thumb.webp",
-   "linePathsUrl": "artworks/houses/cb_cozy_nook/line_paths_v3.json",
-   "regionMapUrl": "artworks/houses/cb_cozy_nook/region_map.png",
-   "paintDataUrl": "artworks/houses/cb_cozy_nook/paint_data.json",
-   "license": null,
-   "creator": null,
-   "sourceUrl": null,
-   "regionMapSha256": "70ed62e2e65716d1cd4380860dcc9be82a877ffba41b3cd9ccdd89e8852cd213",
-   "imageSha256": "e07a9fd7c912ca5d34bb4716efd571f894a065fceb78ffabc9fa071d1b9fced6"
-  },
-  {
    "id": "ds_anime_071",
    "title": "Kid Goku Sitting",
    "category": "anime",
@@ -9190,6 +9574,28 @@
    "sourceUrl": null,
    "regionMapSha256": "f3b8bcace355814b507535457091694392ab52dd13030a0f4ffc58ff1d758ff7",
    "imageSha256": "564ad87a678702e41a4bdcd5bcff6f8cfb224f28419ba63013cd9f044936138a"
+  },
+  {
+   "id": "cb_enchanted_forest",
+   "title": "Forest Path",
+   "category": "nature",
+   "colorCount": 22,
+   "regionCount": 1448,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/nature/cb_enchanted_forest/thumbnail.jpg",
+   "imageUrl": "artworks/nature/cb_enchanted_forest/image.jpg",
+   "originalImageUrl": "artworks/nature/cb_enchanted_forest/original.jpg",
+   "lineArtUrl": "artworks/nature/cb_enchanted_forest/line_art.png",
+   "lineArtThumbnailUrl": "artworks/nature/cb_enchanted_forest/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/cb_enchanted_forest/line_paths_v3.json",
+   "regionMapUrl": "artworks/nature/cb_enchanted_forest/region_map.png",
+   "paintDataUrl": "artworks/nature/cb_enchanted_forest/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "9d3bae904a60b37d17b49583e06eb0de2c3d55def7fa18576cc1efda63c6eece",
+   "imageSha256": "96b9c0ec52b72f321b74fd6431f68fd5f73df72e2462823b197b0b62344c007f"
   },
   {
    "id": "ds_hindu_gods_029",
@@ -9496,6 +9902,28 @@
    "sourceUrl": null,
    "regionMapSha256": "5163b6bc215cba36047db3bd3e7e1af63a65f2cbaf752cb3a212e68addeb0627",
    "imageSha256": "4e1397ea63a63db3e89a4f5d6018e47d64e8e673d7c82c25718572dde23de1e0"
+  },
+  {
+   "id": "cb_strawberry_cake",
+   "title": "Strawberry Cake",
+   "category": "food",
+   "colorCount": 16,
+   "regionCount": 231,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/food/cb_strawberry_cake/thumbnail.jpg",
+   "imageUrl": "artworks/food/cb_strawberry_cake/image.jpg",
+   "originalImageUrl": "artworks/food/cb_strawberry_cake/original.jpg",
+   "lineArtUrl": "artworks/food/cb_strawberry_cake/line_art.png",
+   "lineArtThumbnailUrl": "artworks/food/cb_strawberry_cake/line_art_thumb.webp",
+   "linePathsUrl": "artworks/food/cb_strawberry_cake/line_paths_v3.json",
+   "regionMapUrl": "artworks/food/cb_strawberry_cake/region_map.png",
+   "paintDataUrl": "artworks/food/cb_strawberry_cake/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "8a61a0545de1284c7ef83d42086afa3c9558edbf1b9abc8f81392bcc2297c71e",
+   "imageSha256": "e98cf3a61845734a2c62015a3e07c0bfd73b7582a46cc1f54fcf2082a0cdd0dd"
   },
   {
    "id": "ds_hindu_gods_007",
@@ -11075,28 +11503,6 @@
    ]
   },
   {
-   "id": "cb_coral_reef",
-   "title": "Coral Reef Turtles",
-   "category": "animals",
-   "colorCount": 45,
-   "regionCount": 793,
-   "contentVersion": 2,
-   "isNew": true,
-   "thumbnailUrl": "artworks/animals/cb_coral_reef/thumbnail.jpg",
-   "imageUrl": "artworks/animals/cb_coral_reef/image.jpg",
-   "originalImageUrl": "artworks/animals/cb_coral_reef/original.jpg",
-   "lineArtUrl": "artworks/animals/cb_coral_reef/line_art.png",
-   "lineArtThumbnailUrl": "artworks/animals/cb_coral_reef/line_art_thumb.webp",
-   "linePathsUrl": "artworks/animals/cb_coral_reef/line_paths_v3.json",
-   "regionMapUrl": "artworks/animals/cb_coral_reef/region_map.png",
-   "paintDataUrl": "artworks/animals/cb_coral_reef/paint_data.json",
-   "license": null,
-   "creator": null,
-   "sourceUrl": null,
-   "regionMapSha256": "4aecc7b4c6a62f9068d9eae00d139d54c1485510a18b0cb22b2803a891a9ad13",
-   "imageSha256": "45da3e870b0d1d5826b4da74fdcab1480599d53d1f07f0f95e74bd6f2a66a04b"
-  },
-  {
    "id": "px_fluent_color_jellyfish",
    "title": "Jellyfish",
    "category": "pixel_art",
@@ -11674,28 +12080,6 @@
    "categories": [
     "flowers"
    ]
-  },
-  {
-   "id": "cb_autumn_harvest",
-   "title": "Autumn Harvest",
-   "category": "food",
-   "colorCount": 24,
-   "regionCount": 615,
-   "contentVersion": 2,
-   "isNew": true,
-   "thumbnailUrl": "artworks/food/cb_autumn_harvest/thumbnail.jpg",
-   "imageUrl": "artworks/food/cb_autumn_harvest/image.jpg",
-   "originalImageUrl": "artworks/food/cb_autumn_harvest/original.jpg",
-   "lineArtUrl": "artworks/food/cb_autumn_harvest/line_art.png",
-   "lineArtThumbnailUrl": "artworks/food/cb_autumn_harvest/line_art_thumb.webp",
-   "linePathsUrl": "artworks/food/cb_autumn_harvest/line_paths_v3.json",
-   "regionMapUrl": "artworks/food/cb_autumn_harvest/region_map.png",
-   "paintDataUrl": "artworks/food/cb_autumn_harvest/paint_data.json",
-   "license": null,
-   "creator": null,
-   "sourceUrl": null,
-   "regionMapSha256": "ae2caa09c60bc8bc51cb56c0af1c7d6495dff9fcb1b08c3c02e827fb78cd6b16",
-   "imageSha256": "0773489ce0b8360ff45d04219bc1ba3ba81609c81270b877b11a71e9d3aad067"
   },
   {
    "id": "ds_chibi_006",
@@ -12426,6 +12810,28 @@
    "imageSha256": "6499b8847f47e62cc17895aca75d3283e5e2a8ef139edeb4278bb31c67b954b2"
   },
   {
+   "id": "cb_red_roses_vase",
+   "title": "Roses in a Vase",
+   "category": "flowers",
+   "colorCount": 21,
+   "regionCount": 887,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/flowers/cb_red_roses_vase/thumbnail.jpg",
+   "imageUrl": "artworks/flowers/cb_red_roses_vase/image.jpg",
+   "originalImageUrl": "artworks/flowers/cb_red_roses_vase/original.jpg",
+   "lineArtUrl": "artworks/flowers/cb_red_roses_vase/line_art.png",
+   "lineArtThumbnailUrl": "artworks/flowers/cb_red_roses_vase/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/cb_red_roses_vase/line_paths_v3.json",
+   "regionMapUrl": "artworks/flowers/cb_red_roses_vase/region_map.png",
+   "paintDataUrl": "artworks/flowers/cb_red_roses_vase/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "cfa5c3176c04b8293a918953719d7c3f5cb9b7443c54e322e1ebdfecc6adcc70",
+   "imageSha256": "08579bb45da813bbe1adf6e2a795470c44b3053c9aae7c692f77378d6d80f81f"
+  },
+  {
    "id": "ds_football_007",
    "title": "Fist Clench Shout",
    "category": "football",
@@ -12936,6 +13342,28 @@
    "categories": [
     "trees"
    ]
+  },
+  {
+   "id": "cb_football_kick",
+   "title": "Football Kick",
+   "category": "sports",
+   "colorCount": 20,
+   "regionCount": 371,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/sports/cb_football_kick/thumbnail.jpg",
+   "imageUrl": "artworks/sports/cb_football_kick/image.jpg",
+   "originalImageUrl": "artworks/sports/cb_football_kick/original.jpg",
+   "lineArtUrl": "artworks/sports/cb_football_kick/line_art.png",
+   "lineArtThumbnailUrl": "artworks/sports/cb_football_kick/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/cb_football_kick/line_paths_v3.json",
+   "regionMapUrl": "artworks/sports/cb_football_kick/region_map.png",
+   "paintDataUrl": "artworks/sports/cb_football_kick/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "98b0a164128fa600cd8018c5a0b33e9115b5641f24c319d4f3fba6d10652b174",
+   "imageSha256": "d1f9319eb13d4deffebe7321b0b164ed9e367bada315199cc957e158f3d5283a"
   },
   {
    "id": "ds_fashion_005",
@@ -13536,6 +13964,28 @@
    "sourceUrl": null,
    "regionMapSha256": "1d0f73edfffd45869696814a0a4b92f49fb291d7c9d6546dff32f627534d4ab8",
    "imageSha256": "b7a2050b5aba7efbfc425a81bac3700c4c7e905b20973c9b54ff88659e356cd4"
+  },
+  {
+   "id": "cb_green_dragon_castle",
+   "title": "Dragon and Castle",
+   "category": "fantasy",
+   "colorCount": 23,
+   "regionCount": 385,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fantasy/cb_green_dragon_castle/thumbnail.jpg",
+   "imageUrl": "artworks/fantasy/cb_green_dragon_castle/image.jpg",
+   "originalImageUrl": "artworks/fantasy/cb_green_dragon_castle/original.jpg",
+   "lineArtUrl": "artworks/fantasy/cb_green_dragon_castle/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fantasy/cb_green_dragon_castle/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fantasy/cb_green_dragon_castle/line_paths_v3.json",
+   "regionMapUrl": "artworks/fantasy/cb_green_dragon_castle/region_map.png",
+   "paintDataUrl": "artworks/fantasy/cb_green_dragon_castle/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "3ea881c0739c2798265b8d345e15d5070dbbe614f825491f65e0891662e8351e",
+   "imageSha256": "3bc6b26bdc5d90b4815b4d370ea59cbbaa0823ba2e0a00314d0d066238b09941"
   },
   {
    "id": "px_rawpixel_rp_orange_flower_spring_f1a0d3",
@@ -15337,28 +15787,6 @@
    ]
   },
   {
-   "id": "cb_sun_mandala",
-   "title": "Sun Mandala",
-   "category": "flowers",
-   "colorCount": 58,
-   "regionCount": 1206,
-   "contentVersion": 2,
-   "isNew": true,
-   "thumbnailUrl": "artworks/flowers/cb_sun_mandala/thumbnail.jpg",
-   "imageUrl": "artworks/flowers/cb_sun_mandala/image.jpg",
-   "originalImageUrl": "artworks/flowers/cb_sun_mandala/original.jpg",
-   "lineArtUrl": "artworks/flowers/cb_sun_mandala/line_art.png",
-   "lineArtThumbnailUrl": "artworks/flowers/cb_sun_mandala/line_art_thumb.webp",
-   "linePathsUrl": "artworks/flowers/cb_sun_mandala/line_paths_v3.json",
-   "regionMapUrl": "artworks/flowers/cb_sun_mandala/region_map.png",
-   "paintDataUrl": "artworks/flowers/cb_sun_mandala/paint_data.json",
-   "license": null,
-   "creator": null,
-   "sourceUrl": null,
-   "regionMapSha256": "ae6c844ca1df87962078bc5e5db79801b2ef8e9ddfe9acce3725de14d8f9931c",
-   "imageSha256": "96b147938ef09f4f8147e4e73c5284b027c60d9f3d5a2e53693e7b70ff268730"
-  },
-  {
    "id": "ds_anime_093",
    "title": "Zenitsu Name Poster",
    "category": "anime",
@@ -15595,6 +16023,28 @@
    "imageSha256": "3909759d619d0181cfdd14fc35b319943ce3bd681b7e941e6b1b353ac7ce6521"
   },
   {
+   "id": "cb_oil_portrait_lady",
+   "title": "Lady with a Pearl",
+   "category": "oil_painting",
+   "colorCount": 31,
+   "regionCount": 348,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/oil_painting/cb_oil_portrait_lady/thumbnail.jpg",
+   "imageUrl": "artworks/oil_painting/cb_oil_portrait_lady/image.jpg",
+   "originalImageUrl": "artworks/oil_painting/cb_oil_portrait_lady/original.jpg",
+   "lineArtUrl": "artworks/oil_painting/cb_oil_portrait_lady/line_art.png",
+   "lineArtThumbnailUrl": "artworks/oil_painting/cb_oil_portrait_lady/line_art_thumb.webp",
+   "linePathsUrl": "artworks/oil_painting/cb_oil_portrait_lady/line_paths_v3.json",
+   "regionMapUrl": "artworks/oil_painting/cb_oil_portrait_lady/region_map.png",
+   "paintDataUrl": "artworks/oil_painting/cb_oil_portrait_lady/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "341cbe9358d91d3d8a34e5144cf44bc2c726fae0839d38fc219fd4c9156e91c9",
+   "imageSha256": "f1b5bb9307986ce79f114d350e307c64f6a71bb22d3eb7e65376c2812e251989"
+  },
+  {
    "id": "ds_anime_020",
    "title": "Kakashi Forest Glare",
    "category": "anime",
@@ -15810,6 +16260,28 @@
    "categories": [
     "animals"
    ]
+  },
+  {
+   "id": "cb_aries",
+   "title": "Aries",
+   "category": "zodiac",
+   "colorCount": 24,
+   "regionCount": 808,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/zodiac/cb_aries/thumbnail.jpg",
+   "imageUrl": "artworks/zodiac/cb_aries/image.jpg",
+   "originalImageUrl": "artworks/zodiac/cb_aries/original.jpg",
+   "lineArtUrl": "artworks/zodiac/cb_aries/line_art.png",
+   "lineArtThumbnailUrl": "artworks/zodiac/cb_aries/line_art_thumb.webp",
+   "linePathsUrl": "artworks/zodiac/cb_aries/line_paths_v3.json",
+   "regionMapUrl": "artworks/zodiac/cb_aries/region_map.png",
+   "paintDataUrl": "artworks/zodiac/cb_aries/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "0a6509d33d8900447d2ab3405f3f0498eb67f0f1a4187ac113da86986482560e",
+   "imageSha256": "41e0c3ed8cf6963872db2e24c3a0b6cbb28120d452afbd079d9604a5f7a85afe"
   },
   {
    "id": "ds_cartoon_006",
@@ -16732,28 +17204,6 @@
    "imageSha256": "31e77fe1c103f39c0b09eb7b04e56002f9bfa20a35a1a0a4940dd1e6ef0feb12"
   },
   {
-   "id": "cb_treehouse",
-   "title": "Oak Treehouse",
-   "category": "houses",
-   "colorCount": 47,
-   "regionCount": 985,
-   "contentVersion": 2,
-   "isNew": true,
-   "thumbnailUrl": "artworks/houses/cb_treehouse/thumbnail.jpg",
-   "imageUrl": "artworks/houses/cb_treehouse/image.jpg",
-   "originalImageUrl": "artworks/houses/cb_treehouse/original.jpg",
-   "lineArtUrl": "artworks/houses/cb_treehouse/line_art.png",
-   "lineArtThumbnailUrl": "artworks/houses/cb_treehouse/line_art_thumb.webp",
-   "linePathsUrl": "artworks/houses/cb_treehouse/line_paths_v3.json",
-   "regionMapUrl": "artworks/houses/cb_treehouse/region_map.png",
-   "paintDataUrl": "artworks/houses/cb_treehouse/paint_data.json",
-   "license": null,
-   "creator": null,
-   "sourceUrl": null,
-   "regionMapSha256": "b3c0f6f2e981186cbcd5e896c812ebd6cff2b062e43f2f1420ea9d6a19db8037",
-   "imageSha256": "809033f2e1e1b89df932be4fb6f958b97cb12fae6bd2f6b1dc462f1134d1b334"
-  },
-  {
    "id": "ds_anime_119",
    "title": "Couple Lying on Grass",
    "category": "anime",
@@ -17146,6 +17596,28 @@
    ]
   },
   {
+   "id": "cb_anime_girl_sakura",
+   "title": "Sakura Day",
+   "category": "anime",
+   "colorCount": 15,
+   "regionCount": 299,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/cb_anime_girl_sakura/thumbnail.jpg",
+   "imageUrl": "artworks/anime/cb_anime_girl_sakura/image.jpg",
+   "originalImageUrl": "artworks/anime/cb_anime_girl_sakura/original.jpg",
+   "lineArtUrl": "artworks/anime/cb_anime_girl_sakura/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/cb_anime_girl_sakura/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/cb_anime_girl_sakura/line_paths_v3.json",
+   "regionMapUrl": "artworks/anime/cb_anime_girl_sakura/region_map.png",
+   "paintDataUrl": "artworks/anime/cb_anime_girl_sakura/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "87e027a238116141592675268175336cf974804d48578373ed8791a03f5d3082",
+   "imageSha256": "c56de8624ee54968be28362ad7c4c58003f058dc4799b65aee044415cb8ceea3"
+  },
+  {
    "id": "px_rawpixel_rp_christmas_tree_festive_39e5e1",
    "title": "Christmas tree festive",
    "category": "pixel_art",
@@ -17280,6 +17752,28 @@
    "sourceUrl": null,
    "regionMapSha256": "d45bd1e33e70eb382adb0d7876bcf54093bb44e2295315cdddacb9ab72b6c4b4",
    "imageSha256": "257bdfa667e8c8db476c37780e02d1ec47f5097dc682ceda12dd00a3994ccb9d"
+  },
+  {
+   "id": "cb_monarch_flowers",
+   "title": "Monarch Butterfly",
+   "category": "butterfly",
+   "colorCount": 18,
+   "regionCount": 722,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/butterfly/cb_monarch_flowers/thumbnail.jpg",
+   "imageUrl": "artworks/butterfly/cb_monarch_flowers/image.jpg",
+   "originalImageUrl": "artworks/butterfly/cb_monarch_flowers/original.jpg",
+   "lineArtUrl": "artworks/butterfly/cb_monarch_flowers/line_art.png",
+   "lineArtThumbnailUrl": "artworks/butterfly/cb_monarch_flowers/line_art_thumb.webp",
+   "linePathsUrl": "artworks/butterfly/cb_monarch_flowers/line_paths_v3.json",
+   "regionMapUrl": "artworks/butterfly/cb_monarch_flowers/region_map.png",
+   "paintDataUrl": "artworks/butterfly/cb_monarch_flowers/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "a5d7df9fba0912d0dccefa756b0e73637b0bc85ea18ce76c4fde0066504893a4",
+   "imageSha256": "977689d5e3ba7d038b639979b55a270c83a4dcc81d6704b7f920788978608718"
   },
   {
    "id": "ds_cartoon_077",
@@ -19418,6 +19912,28 @@
    "categories": [
     "animals"
    ]
+  },
+  {
+   "id": "cb_santa_sleigh",
+   "title": "Santa s Sleigh",
+   "category": "christmas",
+   "colorCount": 25,
+   "regionCount": 623,
+   "contentVersion": 3,
+   "isNew": true,
+   "thumbnailUrl": "artworks/christmas/cb_santa_sleigh/thumbnail.jpg",
+   "imageUrl": "artworks/christmas/cb_santa_sleigh/image.jpg",
+   "originalImageUrl": "artworks/christmas/cb_santa_sleigh/original.jpg",
+   "lineArtUrl": "artworks/christmas/cb_santa_sleigh/line_art.png",
+   "lineArtThumbnailUrl": "artworks/christmas/cb_santa_sleigh/line_art_thumb.webp",
+   "linePathsUrl": "artworks/christmas/cb_santa_sleigh/line_paths_v3.json",
+   "regionMapUrl": "artworks/christmas/cb_santa_sleigh/region_map.png",
+   "paintDataUrl": "artworks/christmas/cb_santa_sleigh/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "0b4c050e99fbd0d5996a4588189ec91b80840be3dc88eb54422c17e647ca2f61",
+   "imageSha256": "16d373f03c1011192785f399543f094f0deb79fd3fb68c8b1b8b4312d25a6bd9"
   },
   {
    "id": "px_fluent_color_birthday_cake",
