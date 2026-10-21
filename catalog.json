@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "updatedAt": "2026-10-21T02:54:44+00:00",
+ "updatedAt": "2026-10-21T04:03:08+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1068,9 +1068,9 @@
    "id": "ds_hindu_gods_003",
    "title": "Ganesha with Axe",
    "category": "hindu_gods",
-   "colorCount": 9,
-   "regionCount": 86,
-   "contentVersion": 4,
+   "colorCount": 14,
+   "regionCount": 125,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/hindu_gods/ds_hindu_gods_003/thumbnail.jpg",
    "imageUrl": "artworks/hindu_gods/ds_hindu_gods_003/image.jpg",
@@ -1083,8 +1083,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "fa7b0429e313da2d8cdec1b51ff19a67879823d31a8608c6439845de54aaaf19",
-   "imageSha256": "7148908364afcb2a7e1f7622f16a50c52a640725932458cc410c859c5bf365c7"
+   "regionMapSha256": "e566a419c26814a81729b6fd18c7b2603825fdf1d3d37887ccf292b1c8db1f3e",
+   "imageSha256": "e84bec97d4b1ab9954d7b284d81fe52e87c2989ac60a310ed1c49fdb306f07e9"
   },
   {
    "id": "ds_football_006",
@@ -1867,9 +1867,9 @@
    "id": "cb_princess_castle",
    "title": "Princess Castle",
    "category": "fairy_tale",
-   "colorCount": 32,
-   "regionCount": 1460,
-   "contentVersion": 4,
+   "colorCount": 26,
+   "regionCount": 975,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/fairy_tale/cb_princess_castle/thumbnail.jpg",
    "imageUrl": "artworks/fairy_tale/cb_princess_castle/image.jpg",
@@ -1882,16 +1882,16 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "86b48872b8769f21f83260063e91903c2ee548802c4b00002e485ea6df3aae0b",
-   "imageSha256": "663277a31316a31f2af91d3cf89a05eb4081f50d57c811e9413aecda0ed5f2d2"
+   "regionMapSha256": "769d3e3a68e82ea6271609ac2f80a21a40b9ee7c005eaf8663518872ec88179d",
+   "imageSha256": "a57ff0b92e4ca39f7bffcfa75b8ed1d15db9bcb5f8fab01278ea10d61774b1fe"
   },
   {
    "id": "cb_pumpkin_patch",
    "title": "Pumpkin Patch",
    "category": "halloween",
-   "colorCount": 23,
-   "regionCount": 1516,
-   "contentVersion": 4,
+   "colorCount": 21,
+   "regionCount": 1124,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/halloween/cb_pumpkin_patch/thumbnail.jpg",
    "imageUrl": "artworks/halloween/cb_pumpkin_patch/image.jpg",
@@ -1904,8 +1904,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "9cc5c3c0231b516ef052073cc3364f864e0e321f9a7975b45cc06036742391cc",
-   "imageSha256": "22b7039947ec98c21b78e2ce72b34865ef8b6360ad3a382845f08e8def2b1fd8"
+   "regionMapSha256": "eb090df2fb7bebafe5d4d1777dcd63beddba30cba1da4d030c03dcc1e3fd45a9",
+   "imageSha256": "42d11a764f680b486958b7d2a174ff45060d4de384cefb725d3fc0a1263d5aa2"
   },
   {
    "id": "px_rawpixel_rp_poinsettia_flower_333559",
@@ -2003,9 +2003,9 @@
    "id": "cb_cartoon_cat_fish",
    "title": "Cat and Fish",
    "category": "cartoon",
-   "colorCount": 24,
-   "regionCount": 239,
-   "contentVersion": 4,
+   "colorCount": 28,
+   "regionCount": 235,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/cartoon/cb_cartoon_cat_fish/thumbnail.jpg",
    "imageUrl": "artworks/cartoon/cb_cartoon_cat_fish/image.jpg",
@@ -2018,8 +2018,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "4be49b9641d8e650325a0ad4b6543c03f02b51ddfe9e976573cf28aa1b3f2370",
-   "imageSha256": "4bad13d87e89e00f3618cb9689e58520b4f9b3216e41802cc4369ea588d95a5a"
+   "regionMapSha256": "5dd8913d2dc33cb5b5dfa26711b87922124c51d83251fb5d64a3bff0875aa5cf",
+   "imageSha256": "e56f18c649bbcf88e67871ec5dd1ee31407d96ccf9609d2ee8f8c6e53513eee4"
   },
   {
    "id": "ds_animals_006",
@@ -2408,9 +2408,9 @@
    "id": "cb_floral_mandala",
    "title": "Floral Mandala",
    "category": "mandala",
-   "colorCount": 24,
-   "regionCount": 694,
-   "contentVersion": 4,
+   "colorCount": 30,
+   "regionCount": 850,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/mandala/cb_floral_mandala/thumbnail.jpg",
    "imageUrl": "artworks/mandala/cb_floral_mandala/image.jpg",
@@ -2423,8 +2423,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "5955b09343c64669caddf180ab0f67559de3f3069a8acd7050332cbf7dd55133",
-   "imageSha256": "51d2accf4a759a97ba39691ea69a78562b521f693e327504f390ae54babf8393"
+   "regionMapSha256": "2f6ee496942367d9dd8e8a899c0f42376d0aaf2f957c98b1a4f72a8fd33b894f",
+   "imageSha256": "444049f4ea0e75308243a8428935a6aa1847d55a4590b0471ccd4c3a53c49bc9"
   },
   {
    "id": "px_fluent_color_shark",
@@ -2597,9 +2597,9 @@
    "id": "cb_heart_roses",
    "title": "Heart of Roses",
    "category": "valentine",
-   "colorCount": 16,
-   "regionCount": 863,
-   "contentVersion": 4,
+   "colorCount": 20,
+   "regionCount": 776,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/valentine/cb_heart_roses/thumbnail.jpg",
    "imageUrl": "artworks/valentine/cb_heart_roses/image.jpg",
@@ -2612,8 +2612,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "10ef5e7b4ba29904adca03ea4ade1b2a11ebcfdc018a365b5234a82e961f5097",
-   "imageSha256": "4e39c6c57f1d2425802c5bb46baf07ba0a530ade52f1447c4ce4398758d3ae93"
+   "regionMapSha256": "43e4690767948b356ef3c2f57aa2b5391b2c2409b7de2ab14c5c89a22a7b3a7f",
+   "imageSha256": "02ebdc42cb7ff9f886953a03164a7c11bce5d9f1091d16d8bb080d5fe4e560bc"
   },
   {
    "id": "ds_vehicles_006",
@@ -5718,9 +5718,9 @@
    "id": "cb_girl_reading",
    "title": "Girl Reading",
    "category": "characters",
-   "colorCount": 32,
-   "regionCount": 986,
-   "contentVersion": 4,
+   "colorCount": 38,
+   "regionCount": 751,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/characters/cb_girl_reading/thumbnail.jpg",
    "imageUrl": "artworks/characters/cb_girl_reading/image.jpg",
@@ -5733,8 +5733,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "c2488c1c007d1334e91d69eee5689fd2e464b556db78db2fcb2a2ed9fc03b5ae",
-   "imageSha256": "fc970138709e3ba5d8333bf8cd709b5ad8255ec3530cbde17704b268571dd160"
+   "regionMapSha256": "60cd3409ade0a24013d12700ceca3f651d9a03874e18230997dda431983f93c4",
+   "imageSha256": "ea1f551d649345b703820a5cc10ffcec3cde458e2e1d522b4baf68f55a25d1dc"
   },
   {
    "id": "ds_kpop_hunters_037",
@@ -7084,8 +7084,8 @@
    "title": "Evening Gown",
    "category": "fashion",
    "colorCount": 16,
-   "regionCount": 405,
-   "contentVersion": 4,
+   "regionCount": 266,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/fashion/cb_evening_gown/thumbnail.jpg",
    "imageUrl": "artworks/fashion/cb_evening_gown/image.jpg",
@@ -7098,8 +7098,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "c14bc95ef2a5772d0ff06fc2ee1be99351aac3f808723de8fb9e53ca8ab79498",
-   "imageSha256": "4e08106d2e51233b3b8aba449009cc8874fff2c652763c5241faf970c8e15cff"
+   "regionMapSha256": "e3011152c9a2bb8da57bb68ed45740ffd626893eec3794fb65626386f9feddb1",
+   "imageSha256": "c4099273e0e4d82eb6e5a1e5a124608cab29ad5df3b05ada0774350f5072f388"
   },
   {
    "id": "px_rawpixel_rp_swan_674982",
@@ -8986,9 +8986,9 @@
    "id": "cb_orange_cat_window",
    "title": "Cat",
    "category": "animals",
-   "colorCount": 19,
-   "regionCount": 674,
-   "contentVersion": 4,
+   "colorCount": 21,
+   "regionCount": 533,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/cb_orange_cat_window/thumbnail.jpg",
    "imageUrl": "artworks/animals/cb_orange_cat_window/image.jpg",
@@ -9001,8 +9001,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "0e3ef3796100215624a94dea1eec20f544f913ce91af6954f1fe7e80ea3fc9df",
-   "imageSha256": "595487540daddd9a352baab40efcc9c556f5d877c46adf558a80ec80bd5a5d55"
+   "regionMapSha256": "96e81acbee283369b58d980996b866220abd7090e7d070f10e4ad9bf2a58dab4",
+   "imageSha256": "f039479d73f43b8a72566b56e5ce80ec1058a704fbac4124523000831f614a79"
   },
   {
    "id": "px_rawpixel_rp_cute_owl_cab630",
@@ -9579,9 +9579,9 @@
    "id": "cb_enchanted_forest",
    "title": "Forest Path",
    "category": "nature",
-   "colorCount": 26,
-   "regionCount": 1866,
-   "contentVersion": 4,
+   "colorCount": 23,
+   "regionCount": 1662,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/nature/cb_enchanted_forest/thumbnail.jpg",
    "imageUrl": "artworks/nature/cb_enchanted_forest/image.jpg",
@@ -9594,8 +9594,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "6e799908ee091502b90026a7602678708d84dd221675c756d1d13b1bf7933860",
-   "imageSha256": "a94d4950d87f87d0b20ef818ccbd68069b0b732b4780f77e5422dc1f82b3b877"
+   "regionMapSha256": "87e1847a2f014dfa5819508d7c7e60c0bfec0ce404727a8608ae496707e3f885",
+   "imageSha256": "132ae0cc12b2d229f64eefd885e1e709c0761ecd803646cb1356d2dca0c77d1a"
   },
   {
    "id": "ds_hindu_gods_029",
@@ -9907,9 +9907,9 @@
    "id": "cb_strawberry_cake",
    "title": "Strawberry Cake",
    "category": "food",
-   "colorCount": 21,
-   "regionCount": 334,
-   "contentVersion": 4,
+   "colorCount": 23,
+   "regionCount": 294,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/food/cb_strawberry_cake/thumbnail.jpg",
    "imageUrl": "artworks/food/cb_strawberry_cake/image.jpg",
@@ -9922,8 +9922,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "90363e5ef770bd86f84dbb8f96144e36857d1ee6a252866e900f0bba5ec492af",
-   "imageSha256": "c52914b5d6b75960425370f4992103b7cf4fdea10dbc3cfd86b45e121b68a677"
+   "regionMapSha256": "c20b80561c1ef0d306498c8216ec2209bb306844dc166e277112f12d7968eae5",
+   "imageSha256": "1ad2c6455e63f417903c2232a8a7db30dbd4b4699d7d88ca8724d628c643102c"
   },
   {
    "id": "ds_hindu_gods_007",
@@ -12813,9 +12813,9 @@
    "id": "cb_red_roses_vase",
    "title": "Roses in a Vase",
    "category": "flowers",
-   "colorCount": 23,
-   "regionCount": 1075,
-   "contentVersion": 4,
+   "colorCount": 20,
+   "regionCount": 892,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/flowers/cb_red_roses_vase/thumbnail.jpg",
    "imageUrl": "artworks/flowers/cb_red_roses_vase/image.jpg",
@@ -12828,8 +12828,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "0d4eaf458c949c7531b9344a488186ed64a0399bc1fb4be01de0ef008bd711a8",
-   "imageSha256": "4500d1979afa7a2e7629a85a73478de52bf8f657c0d4b5789c85ebfe4aadf131"
+   "regionMapSha256": "800edbe56e63746bf02255fe9c87b38274dedd38cf3928ee2bc5a087c30cb1ae",
+   "imageSha256": "d29cc32c49bb99cacca45b6bf3f82ab5bb855d503fefcf8dcb0ed9eb0d53bb92"
   },
   {
    "id": "ds_football_007",
@@ -13347,9 +13347,9 @@
    "id": "cb_football_kick",
    "title": "Football Kick",
    "category": "sports",
-   "colorCount": 23,
-   "regionCount": 459,
-   "contentVersion": 4,
+   "colorCount": 32,
+   "regionCount": 357,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/sports/cb_football_kick/thumbnail.jpg",
    "imageUrl": "artworks/sports/cb_football_kick/image.jpg",
@@ -13362,8 +13362,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "b82026504cc35e627a925d0a648218ba4b56298628be195c1fc37a36f8d8ce5a",
-   "imageSha256": "49e35848646244de46bb1a00ce7fe0abfd78ea699da6edb2d6aefb6d8be8887a"
+   "regionMapSha256": "3a05f9fd21cd9abf68efe9f57a392556bb8be6d38bcd64eef3328b87c723f43e",
+   "imageSha256": "2ff345cb8bdd1757e713def496684ac9b17992ea30ba23c031333b3cc0847a60"
   },
   {
    "id": "ds_fashion_005",
@@ -13969,9 +13969,9 @@
    "id": "cb_green_dragon_castle",
    "title": "Dragon and Castle",
    "category": "fantasy",
-   "colorCount": 20,
-   "regionCount": 451,
-   "contentVersion": 4,
+   "colorCount": 27,
+   "regionCount": 358,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/fantasy/cb_green_dragon_castle/thumbnail.jpg",
    "imageUrl": "artworks/fantasy/cb_green_dragon_castle/image.jpg",
@@ -13984,8 +13984,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "007b07d4602cd0116328b04a517158fe89a44d3e7cdf198335ace0773297050f",
-   "imageSha256": "3d9cf821afdd847a3591c71ca18ab13a8a9f5145d9cec6ef2149c6824b381a03"
+   "regionMapSha256": "3751ae5f91d0ad07b13f369bcdae2cd28b78fa8f308c5cdef170f0225bb6ba68",
+   "imageSha256": "601e03931ff099ec2d2b2add7ce78051be21f5a000183389180da9f156dce5e8"
   },
   {
    "id": "px_rawpixel_rp_orange_flower_spring_f1a0d3",
@@ -16026,9 +16026,9 @@
    "id": "cb_oil_portrait_lady",
    "title": "Lady with a Pearl",
    "category": "oil_painting",
-   "colorCount": 33,
-   "regionCount": 425,
-   "contentVersion": 4,
+   "colorCount": 34,
+   "regionCount": 386,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/oil_painting/cb_oil_portrait_lady/thumbnail.jpg",
    "imageUrl": "artworks/oil_painting/cb_oil_portrait_lady/image.jpg",
@@ -16041,8 +16041,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "68a66e0abac740af93c3480ba7b1a50bcaed0572517d8e29ad8ff69e1503a979",
-   "imageSha256": "49dace78f5dbe2cdc9dffe2ce04c39c5250820c07fb1fe2400a82f4de182bcd8"
+   "regionMapSha256": "e0b207322a740bdc68204f69c2bcc939e36208d5a42cdaeb2dd7eb3c6a732cdb",
+   "imageSha256": "73a5deec37f7e3456fa11f75308ce559d6b52d847fa20bf05ed9f7231afb1693"
   },
   {
    "id": "ds_anime_020",
@@ -16265,9 +16265,9 @@
    "id": "cb_aries",
    "title": "Aries",
    "category": "zodiac",
-   "colorCount": 23,
-   "regionCount": 978,
-   "contentVersion": 4,
+   "colorCount": 27,
+   "regionCount": 766,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/zodiac/cb_aries/thumbnail.jpg",
    "imageUrl": "artworks/zodiac/cb_aries/image.jpg",
@@ -16280,8 +16280,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "8948258cf08ef791b6f79abaa9feebc8a89712ea3c7f3fdce70a00c6a2da1d9a",
-   "imageSha256": "0dfa48da75dc18e62449cb775fd1dc6c5c68fd51924592825f4e227dc65713e7"
+   "regionMapSha256": "2c6885c76bb8b4118349fbe3c77cd12492b8ba7aae8a4891407b646c9e34fd94",
+   "imageSha256": "7adb20c62c04c8c85bbac5e169addf9f7bdf07b77caf0f0ccacbe7015309519c"
   },
   {
    "id": "ds_cartoon_006",
@@ -17599,9 +17599,9 @@
    "id": "cb_anime_girl_sakura",
    "title": "Sakura Day",
    "category": "anime",
-   "colorCount": 23,
-   "regionCount": 472,
-   "contentVersion": 4,
+   "colorCount": 24,
+   "regionCount": 358,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/cb_anime_girl_sakura/thumbnail.jpg",
    "imageUrl": "artworks/anime/cb_anime_girl_sakura/image.jpg",
@@ -17614,8 +17614,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "85d286e1472e120a38962141f8c592bfc3a71542c0c473a8a8bd545872a6aaea",
-   "imageSha256": "65c889832ac1d0fcc8de6ca19610fb57311f0e922fde1c5c05b15b87c28b2c22"
+   "regionMapSha256": "d5b5879d65402669da3fc53b4f1136228e83de263d7aabcc147408d8a7e3b84d",
+   "imageSha256": "77d1fdf3b590bb57d4f1c86d26f1bb4594314274a3c863f5512cc45cc793076d"
   },
   {
    "id": "px_rawpixel_rp_christmas_tree_festive_39e5e1",
@@ -17757,9 +17757,9 @@
    "id": "cb_monarch_flowers",
    "title": "Monarch Butterfly",
    "category": "butterfly",
-   "colorCount": 23,
-   "regionCount": 1022,
-   "contentVersion": 4,
+   "colorCount": 28,
+   "regionCount": 836,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/butterfly/cb_monarch_flowers/thumbnail.jpg",
    "imageUrl": "artworks/butterfly/cb_monarch_flowers/image.jpg",
@@ -17772,8 +17772,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "da4e5c6062ff3f6613156777817823e86179bb99c113da888d1ee1a5a93cfbc3",
-   "imageSha256": "60ccb78cada2d9e342088d903109f725940b97f8b9db2d26867b30ebc5dc836a"
+   "regionMapSha256": "1531b83a17b1fc5d052a6c8dd87d9cb19acd8190e7c81553941a4ef79bdbae14",
+   "imageSha256": "c203acfbed577eb745a460592b430b1539f7dc9774c30d9726d6168826426f87"
   },
   {
    "id": "ds_cartoon_077",
@@ -19917,9 +19917,9 @@
    "id": "cb_santa_sleigh",
    "title": "Santa s Sleigh",
    "category": "christmas",
-   "colorCount": 26,
-   "regionCount": 941,
-   "contentVersion": 4,
+   "colorCount": 28,
+   "regionCount": 802,
+   "contentVersion": 5,
    "isNew": true,
    "thumbnailUrl": "artworks/christmas/cb_santa_sleigh/thumbnail.jpg",
    "imageUrl": "artworks/christmas/cb_santa_sleigh/image.jpg",
@@ -19932,8 +19932,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "e0176420a7799ce882b10f7818a72ee9dee90b926b85f686bb804f290415cede",
-   "imageSha256": "a3b5ec85a17c26aa78749c5b568ad346ac657be6810a3e245d2980f3f2cc20a6"
+   "regionMapSha256": "8b02d48b7fcf39828d01731cc39b0be2746a8de19fbd4932c447739a7edc4787",
+   "imageSha256": "6203f77145aa26b65e4437af0412004dfe6348d57062ab8f4b631acf33a9f0e2"
   },
   {
    "id": "px_fluent_color_birthday_cake",
