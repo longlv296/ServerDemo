@@ -419,7 +419,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-22T14:27:17+00:00",
+ "updatedAt": "2026-10-23T01:45:30+00:00",
  "categories": [
   {
    "id": "animals",
@@ -2970,7 +2970,8 @@
    "categories": [
     "animals"
    ],
-   "addedAt": "2026-10-19"
+   "addedAt": "2026-10-19",
+   "linePathsUrl": "artworks/pixel_art/px_fluent_color_panda/line_paths_v3.json"
   },
   {
    "id": "px_rawpixel_rp_pine_tree_276bcf",
@@ -3024,7 +3025,8 @@
    "categories": [
     "animals"
    ],
-   "addedAt": "2026-10-19"
+   "addedAt": "2026-10-19",
+   "linePathsUrl": "artworks/pixel_art/px_fluent_color_owl/line_paths_v3.json"
   },
   {
    "id": "ds_halloween_007",
@@ -4359,6 +4361,29 @@
    "regionMapSha256": "43bac862270737c580527bc1c2e2931b3d9628e82f4b35ea3fe49c778988fc0f",
    "imageSha256": "cea6ddf17188f1d2902e6f16c643f0c395ca6ccf308973910c9e5a6e562170bd",
    "addedAt": "2026-10-21"
+  },
+  {
+   "id": "reference_squirrel",
+   "title": "Autumn Acorn Squirrel",
+   "category": "animals",
+   "colorCount": 10,
+   "regionCount": 49,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/animals/reference_squirrel/thumbnail.jpg",
+   "imageUrl": "artworks/animals/reference_squirrel/image.jpg",
+   "originalImageUrl": "artworks/animals/reference_squirrel/original.jpg",
+   "lineArtUrl": "artworks/animals/reference_squirrel/line_art.png",
+   "lineArtThumbnailUrl": "artworks/animals/reference_squirrel/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/reference_squirrel/line_paths_v3.json",
+   "regionMapUrl": "artworks/animals/reference_squirrel/region_map.png",
+   "paintDataUrl": "artworks/animals/reference_squirrel/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "7babe8dff5e07677031558a1794a890707b4cf08c6764a323cfe28bfab653135",
+   "imageSha256": "2b04a98325ed4605e2863e4ec237d375ed59276875817c9429e49b261ca59d40",
+   "addedAt": "2026-10-23"
   },
   {
    "id": "ds_hindu_gods_044",
@@ -6743,6 +6768,29 @@
    "addedAt": "2026-10-21"
   },
   {
+   "id": "reference_bear_mug",
+   "title": "Cozy Autumn Bear",
+   "category": "animals",
+   "colorCount": 11,
+   "regionCount": 37,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/animals/reference_bear_mug/thumbnail.jpg",
+   "imageUrl": "artworks/animals/reference_bear_mug/image.jpg",
+   "originalImageUrl": "artworks/animals/reference_bear_mug/original.jpg",
+   "lineArtUrl": "artworks/animals/reference_bear_mug/line_art.png",
+   "lineArtThumbnailUrl": "artworks/animals/reference_bear_mug/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/reference_bear_mug/line_paths_v3.json",
+   "regionMapUrl": "artworks/animals/reference_bear_mug/region_map.png",
+   "paintDataUrl": "artworks/animals/reference_bear_mug/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "8d9e8f5568ae98bc8546425d9ee6afa3152d172550fd79e6b6ce30fe866283b1",
+   "imageSha256": "2c8ea96721a5c1029af30024fef6561108565f04b1fcf7e1bdc9b320b92f29fa",
+   "addedAt": "2026-10-23"
+  },
+  {
    "id": "px_rawpixel_rp_peacock_cute_a4b841",
    "title": "Peacock cute",
    "category": "pixel_art",
@@ -7677,7 +7725,8 @@
    "categories": [
     "animals"
    ],
-   "addedAt": "2026-10-19"
+   "addedAt": "2026-10-19",
+   "linePathsUrl": "artworks/pixel_art/px_fluent_color_koala/line_paths_v3.json"
   },
   {
    "id": "cb_cute_bunny_carrots",
