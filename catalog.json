@@ -265,7 +265,8 @@
     "cb_heart_lock_bridge",
     "px_rawpixel_rp_red_rose_flower_029666",
     "cb_heart_lanterns",
-    "hd_love_bears"
+    "hd_love_bears",
+    "hd_heart_balloons"
    ]
   },
   {
@@ -340,7 +341,8 @@
     "cb_snow_globe",
     "cb_penguin_hat",
     "hd_snowman_kids",
-    "hd_reindeer_friend"
+    "hd_reindeer_friend",
+    "hd_christmas_tree"
    ]
   },
   {
@@ -427,7 +429,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T13:18:26+00:00",
+ "updatedAt": "2026-10-23T13:30:51+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1671,6 +1673,52 @@
    "sourceUrl": null,
    "regionMapSha256": "c7d7597c5e4aae298897548b129195d0872ffd25244e2837891626e8fb3fb3ec",
    "imageSha256": "da1a2ee9fdbf913a3a0167d3cdf1374b2b26eb83183b240cd11a735e34803b54",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_christmas_tree",
+   "title": "Christmas Tree",
+   "category": "christmas",
+   "colorCount": 14,
+   "regionCount": 128,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/christmas/hd_christmas_tree/thumbnail.jpg",
+   "imageUrl": "artworks/christmas/hd_christmas_tree/image.jpg",
+   "originalImageUrl": "artworks/christmas/hd_christmas_tree/original.jpg",
+   "lineArtUrl": "artworks/christmas/hd_christmas_tree/line_art.png",
+   "lineArtThumbnailUrl": "artworks/christmas/hd_christmas_tree/line_art_thumb.webp",
+   "linePathsUrl": "artworks/christmas/hd_christmas_tree/line_paths_v3.json",
+   "regionMapUrl": "artworks/christmas/hd_christmas_tree/region_map.png",
+   "paintDataUrl": "artworks/christmas/hd_christmas_tree/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "56372dfe9f9547d5b722bb64cab429f7876d07d7ca9bc6ad4e41c9b3dbc50cf9",
+   "imageSha256": "7ac16e3168d261cfc44f577825b73dfa02ce26be647d2e2ebd89a63dcebe5b23",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_heart_balloons",
+   "title": "Heart Balloons",
+   "category": "valentine",
+   "colorCount": 22,
+   "regionCount": 342,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/valentine/hd_heart_balloons/thumbnail.jpg",
+   "imageUrl": "artworks/valentine/hd_heart_balloons/image.jpg",
+   "originalImageUrl": "artworks/valentine/hd_heart_balloons/original.jpg",
+   "lineArtUrl": "artworks/valentine/hd_heart_balloons/line_art.png",
+   "lineArtThumbnailUrl": "artworks/valentine/hd_heart_balloons/line_art_thumb.webp",
+   "linePathsUrl": "artworks/valentine/hd_heart_balloons/line_paths_v3.json",
+   "regionMapUrl": "artworks/valentine/hd_heart_balloons/region_map.png",
+   "paintDataUrl": "artworks/valentine/hd_heart_balloons/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "273d84a0267a7e200d7fc719d4c5ddf480fd8feef8b88ce357dda205965d54e8",
+   "imageSha256": "1e0422c2ce401f2b6a86ec4cf8cf8c19fd5bca2e365dca550f2068f5253e5034",
    "addedAt": "2026-10-23"
   },
   {
