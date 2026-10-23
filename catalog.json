@@ -426,7 +426,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T12:32:41+00:00",
+ "updatedAt": "2026-10-23T12:41:07+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1509,6 +1509,52 @@
    "sourceUrl": null,
    "regionMapSha256": "cb9393a1f7144e663ba19efb659f5c18c2e1492f393e88d121d474f787ee541a",
    "imageSha256": "75e90467ba0699a192869a384797674a6394d6e83d5e6382658598e2d3ab8318",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_star_mandala",
+   "title": "Star Mandala",
+   "category": "mandala",
+   "colorCount": 17,
+   "regionCount": 146,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/mandala/hd_star_mandala/thumbnail.jpg",
+   "imageUrl": "artworks/mandala/hd_star_mandala/image.jpg",
+   "originalImageUrl": "artworks/mandala/hd_star_mandala/original.jpg",
+   "lineArtUrl": "artworks/mandala/hd_star_mandala/line_art.png",
+   "lineArtThumbnailUrl": "artworks/mandala/hd_star_mandala/line_art_thumb.webp",
+   "linePathsUrl": "artworks/mandala/hd_star_mandala/line_paths_v3.json",
+   "regionMapUrl": "artworks/mandala/hd_star_mandala/region_map.png",
+   "paintDataUrl": "artworks/mandala/hd_star_mandala/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "c29a8c1b99f3f88eab43cd97e78ca69673e035c2205b815e65da37ad1b392a8b",
+   "imageSha256": "9c61df85218e635e84eef6372eca8b0378ce654b027ba10654df538268df78d7",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_unicorn_rainbow",
+   "title": "Unicorn Rainbow",
+   "category": "fantasy",
+   "colorCount": 21,
+   "regionCount": 309,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fantasy/hd_unicorn_rainbow/thumbnail.jpg",
+   "imageUrl": "artworks/fantasy/hd_unicorn_rainbow/image.jpg",
+   "originalImageUrl": "artworks/fantasy/hd_unicorn_rainbow/original.jpg",
+   "lineArtUrl": "artworks/fantasy/hd_unicorn_rainbow/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fantasy/hd_unicorn_rainbow/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fantasy/hd_unicorn_rainbow/line_paths_v3.json",
+   "regionMapUrl": "artworks/fantasy/hd_unicorn_rainbow/region_map.png",
+   "paintDataUrl": "artworks/fantasy/hd_unicorn_rainbow/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "d96f19e8f7168d80e71740ca8d273035c58fc7180801c74b3364ac26d8629a62",
+   "imageSha256": "f22a40f05bb391ccc9fc5a7ae685dcbe0c89694582a14567acaf38579de6026e",
    "addedAt": "2026-10-23"
   },
   {
