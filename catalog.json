@@ -263,7 +263,8 @@
     "cb_couple_dance",
     "cb_heart_lock_bridge",
     "px_rawpixel_rp_red_rose_flower_029666",
-    "cb_heart_lanterns"
+    "cb_heart_lanterns",
+    "hd_love_bears"
    ]
   },
   {
@@ -337,7 +338,8 @@
     "ds_animals_034",
     "cb_snow_globe",
     "cb_penguin_hat",
-    "hd_snowman_kids"
+    "hd_snowman_kids",
+    "hd_reindeer_friend"
    ]
   },
   {
@@ -424,7 +426,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T11:18:08+00:00",
+ "updatedAt": "2026-10-23T11:42:38+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1277,6 +1279,52 @@
    "sourceUrl": null,
    "regionMapSha256": "0f23e409a6702961a05874d89c8a218537b5f32b45dcbf5caba5d703dcd3834f",
    "imageSha256": "0419c41875e055e21604459ffed11012e65c130f3d1d5d376817f93fe440a66d",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_love_bears",
+   "title": "Love Bears",
+   "category": "valentine",
+   "colorCount": 20,
+   "regionCount": 152,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/valentine/hd_love_bears/thumbnail.jpg",
+   "imageUrl": "artworks/valentine/hd_love_bears/image.jpg",
+   "originalImageUrl": "artworks/valentine/hd_love_bears/original.jpg",
+   "lineArtUrl": "artworks/valentine/hd_love_bears/line_art.png",
+   "lineArtThumbnailUrl": "artworks/valentine/hd_love_bears/line_art_thumb.webp",
+   "linePathsUrl": "artworks/valentine/hd_love_bears/line_paths_v3.json",
+   "regionMapUrl": "artworks/valentine/hd_love_bears/region_map.png",
+   "paintDataUrl": "artworks/valentine/hd_love_bears/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "bb5b4287cb0c5de4646a3b8c9e9c585f829550a34b0f5e0d906641d044a3af59",
+   "imageSha256": "1f6adabb7de815c24e120e81123b11ba8fa9643b75d3b4d1d20db4881da2c315",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_reindeer_friend",
+   "title": "Reindeer Friend",
+   "category": "christmas",
+   "colorCount": 14,
+   "regionCount": 118,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/christmas/hd_reindeer_friend/thumbnail.jpg",
+   "imageUrl": "artworks/christmas/hd_reindeer_friend/image.jpg",
+   "originalImageUrl": "artworks/christmas/hd_reindeer_friend/original.jpg",
+   "lineArtUrl": "artworks/christmas/hd_reindeer_friend/line_art.png",
+   "lineArtThumbnailUrl": "artworks/christmas/hd_reindeer_friend/line_art_thumb.webp",
+   "linePathsUrl": "artworks/christmas/hd_reindeer_friend/line_paths_v3.json",
+   "regionMapUrl": "artworks/christmas/hd_reindeer_friend/region_map.png",
+   "paintDataUrl": "artworks/christmas/hd_reindeer_friend/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "81e7c536d339ba18389f86b6ec9980b801dce2b8fc8bc87d74fcee1f94cb4c3a",
+   "imageSha256": "83d800dd2e54561d18f549c020f98a518d22b09fdd429713544897036f514616",
    "addedAt": "2026-10-23"
   },
   {
