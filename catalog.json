@@ -419,7 +419,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T01:58:29+00:00",
+ "updatedAt": "2026-10-23T02:08:13+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1281,7 +1281,7 @@
    "category": "hindu_gods",
    "colorCount": 9,
    "regionCount": 34,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/hindu_gods/ds_hindu_gods_003/thumbnail.jpg",
    "imageUrl": "artworks/hindu_gods/ds_hindu_gods_003/image.jpg",
@@ -1294,8 +1294,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "9f45739619a1da104341409e8889ce01cd65fd6577041827d92bc62c447971c5",
-   "imageSha256": "9f55ab406514dcb7aace0ac53ceedaa0e314a87cc283e05b64bbce7f10728706",
+   "regionMapSha256": "24769211af9e6f3624202e775951ce1755d1ba92bc4859e362fd513d75de828e",
+   "imageSha256": "aba279ac7eb7065dfa943765893f110b7c4bb8f19f41afa8ea913b52aebda8c9",
    "addedAt": "2026-10-14"
   },
   {
@@ -2468,7 +2468,7 @@
    "category": "anime",
    "colorCount": 32,
    "regionCount": 198,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/cb_anime_girl_garden/thumbnail.jpg",
    "imageUrl": "artworks/anime/cb_anime_girl_garden/image.jpg",
@@ -2481,8 +2481,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "158de7164828e3b22eb8a22d6bf65774d4eaf66a50de7165eed03bc72d29b2a1",
-   "imageSha256": "7b1f28c9e3f003e7d4aa37675d63756511f21d1083dd9f71071525e23023ca8e",
+   "regionMapSha256": "3501cd756c32e59c34af2e99903b20ea24ce59579c334e92ba709c1b0b4a875b",
+   "imageSha256": "31b433daa64fd3ca4efa156960949161db8e70c44b8892b0e2a355f33a4175fb",
    "addedAt": "2026-10-21"
   },
   {
@@ -3272,7 +3272,7 @@
    "category": "flowers",
    "colorCount": 9,
    "regionCount": 29,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/flowers/ds_flowers_014/thumbnail.jpg",
    "imageUrl": "artworks/flowers/ds_flowers_014/image.jpg",
@@ -3285,8 +3285,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "0e4af14c22d339fd317cf2a91dc4de1948a5bc4b86e918137457a9e905e87be3",
-   "imageSha256": "7c6101441f15d8750307b2514b5f039d97ab890ff668bf3135ca071c9b92614b",
+   "regionMapSha256": "6f3857d6c2f3bf07adcda77763c5901a8f082f8b95afcee24d3df90066890cf7",
+   "imageSha256": "fff0c1e67e129a5f38daf549419d2a1633b50dcc97ffb7c47e0a46dc45ff4fb3",
    "addedAt": "2026-10-14"
   },
   {
@@ -4664,7 +4664,7 @@
    "category": "food",
    "colorCount": 21,
    "regionCount": 37,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/food/ds_food_002/thumbnail.jpg",
    "imageUrl": "artworks/food/ds_food_002/image.jpg",
@@ -4677,8 +4677,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "23301f3281fa7f1c253326aaf1f3fff7bab634f96a0ed69e4e623cb2d6128cba",
-   "imageSha256": "58610f78699303bec6f8167ef7135f419d201e955cdfb03f92f7cf68e2aae923",
+   "regionMapSha256": "ea4695697f1aa8c84a27c287cbf39aac736ec4a522d58901604408b77050e902",
+   "imageSha256": "2801264e31aedc7daa0aa23d1b214f5b67934ac304d8ac7c9b8c541d37c27827",
    "addedAt": "2026-10-14"
   },
   {
@@ -5805,7 +5805,7 @@
    "category": "animals",
    "colorCount": 18,
    "regionCount": 62,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/ds_animals_015/thumbnail.jpg",
    "imageUrl": "artworks/animals/ds_animals_015/image.jpg",
@@ -5818,8 +5818,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "3fc9441944cf6fb35b10964e2ca4f843aa1448413754986f53f805d0f9a418bc",
-   "imageSha256": "a5dbabbdad6dd5c4e07abf7fb9b8dbb5856b3f5e6685ee45fb20c03f7a5a60d2",
+   "regionMapSha256": "be96a4db7956c6129ab391eeac8c486a9dfe4ca607889792e86fd469be624790",
+   "imageSha256": "35a3155f2f37458a5fbb5ac0aefaabb8e0c94d73dd6c6045f77b53b48db82c9b",
    "addedAt": "2026-10-14"
   },
   {
@@ -6431,7 +6431,7 @@
    "category": "flowers",
    "colorCount": 8,
    "regionCount": 81,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/flowers/cb_hibiscus_tropical/thumbnail.jpg",
    "imageUrl": "artworks/flowers/cb_hibiscus_tropical/image.jpg",
@@ -6444,8 +6444,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "2ba936df6cd8baa948d290bfa78506f7f30d78cdbb94424ea54bd59943b0f1d8",
-   "imageSha256": "84584d59fcacc2acb8cb1896eae0b00b572868e41951f0ae7207ecf25fc7e426",
+   "regionMapSha256": "fa5bea43e56f80b71ce88b995eec7a48b96169d11b6589f85fdf5942e39ae466",
+   "imageSha256": "fa6f8411690eb63c5d24e758db61b182ecc85be84913458641293bb91cec6ef3",
    "addedAt": "2026-10-21"
   },
   {
@@ -7053,7 +7053,7 @@
    "category": "fashion",
    "colorCount": 8,
    "regionCount": 44,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/fashion/cb_evening_gown/thumbnail.jpg",
    "imageUrl": "artworks/fashion/cb_evening_gown/image.jpg",
@@ -7066,8 +7066,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "407167c3ff331f82df85bbb7b127402d76acd188561e094e4d65f2c86f9effca",
-   "imageSha256": "bfb363df8c7bf38f99ae7895499ba73c29538ebd213e006045d243abe78f2912",
+   "regionMapSha256": "792249810d18eb0bd36a8cffcdceb3ed36a4bd65933f776393eb55f15ed2b1e7",
+   "imageSha256": "2aa80757ec58603b382e074e5eec4c036674f509c395eb443491cf62ae471947",
    "addedAt": "2026-10-21"
   },
   {
@@ -8694,7 +8694,7 @@
    "category": "fantasy",
    "colorCount": 17,
    "regionCount": 76,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/fantasy/cb_moon_fairy/thumbnail.jpg",
    "imageUrl": "artworks/fantasy/cb_moon_fairy/image.jpg",
@@ -8707,8 +8707,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "b67ce18153099aa67715f50bc4f0e81afdc4f0a0959e0a714c062c910e2a86a7",
-   "imageSha256": "d5989486d52ea44640d577000482ab2d9dcf5b084b6b02fd9d3a5d5e79186514",
+   "regionMapSha256": "8835fa9e390ae1f2d7c2db2451c49f0c888f6b820499165a61b062a81d28c1da",
+   "imageSha256": "425e62cb5545a49798553698aa48af980f7f730b8dea885bc03b09b6550854b7",
    "addedAt": "2026-10-21"
   },
   {
@@ -9020,7 +9020,7 @@
    "category": "animals",
    "colorCount": 12,
    "regionCount": 61,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/cb_orange_cat_window/thumbnail.jpg",
    "imageUrl": "artworks/animals/cb_orange_cat_window/image.jpg",
@@ -9033,8 +9033,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "cf2c20c9904336a32e069be7de8efb5e1ee311bfa10da703721fabfbdf1f2a2f",
-   "imageSha256": "515dfb852fde7090f787dbfc323792d9c95856ee8fdd67b5114b4f6d21bff9bd",
+   "regionMapSha256": "23dc0fde2c2702b18316fdafd8e3863b160bdcd841e4717f88b69daa9e35e903",
+   "imageSha256": "b893d60637594cbd80f2c65d84df0f33cbeb8efb2addd1383a2202baa5607346",
    "addedAt": "2026-10-21"
   },
   {
@@ -9884,7 +9884,7 @@
    "category": "animals",
    "colorCount": 25,
    "regionCount": 113,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/cb_corgi_picnic/thumbnail.jpg",
    "imageUrl": "artworks/animals/cb_corgi_picnic/image.jpg",
@@ -9897,8 +9897,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "dd76212d3d40ffe4e39d388de1ec1833921225ea4e1f8c43e4c4b463944432b8",
-   "imageSha256": "4998f6c02196cf3870b65b28de4fcd8cdf7527fce1b06ad0882aee043ef14a01",
+   "regionMapSha256": "b92b436b02f53fdd5dbfe2105389c7d89ea5c09d65fa92abea3610d195d7a359",
+   "imageSha256": "d7cd323e13634867c4632c9a185cd85c455cc4fc73b86f5950b11d3a8c14db26",
    "addedAt": "2026-10-21"
   },
   {
@@ -10745,7 +10745,7 @@
    "category": "valentine",
    "colorCount": 25,
    "regionCount": 164,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/valentine/cb_puppy_love/thumbnail.jpg",
    "imageUrl": "artworks/valentine/cb_puppy_love/image.jpg",
@@ -10758,8 +10758,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "322ab48cccb16c4de8151740203da939c491e16030d36bcbcbc1df6034b36e2f",
-   "imageSha256": "06974c919e1c4cdf84e5553c60261755d6e8c5449c09dcc79f5f1a0e40483f70",
+   "regionMapSha256": "bda4a54ece74ea8bd839c7ddbb9a1a15c8f5bafe84d78dd221c778747a30f00c",
+   "imageSha256": "d9a538f0901d89e45441c2275ed408a73bb81c45ec5648dfa4a82620495282e0",
    "addedAt": "2026-10-21"
   },
   {
@@ -13140,7 +13140,7 @@
    "category": "sports",
    "colorCount": 32,
    "regionCount": 181,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/sports/cb_football_kick/thumbnail.jpg",
    "imageUrl": "artworks/sports/cb_football_kick/image.jpg",
@@ -13153,8 +13153,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "740cf1248f0e188c5db872c13fa2bf4b88aa6b823d8e2fa88b9017903481361a",
-   "imageSha256": "8574667f5051dab042d7246a7d17ee9a4b8ff1179516b731200523cb5ceb541d",
+   "regionMapSha256": "a62d6afe79a283eff60828783f0556d2453851c66754793c762175e0f966b99f",
+   "imageSha256": "3f3d95bce37d990cace3f1e708e15e894cfca645928aeeb0e2861baedec6629b",
    "addedAt": "2026-10-21"
   },
   {
@@ -16184,7 +16184,7 @@
    "category": "cartoon",
    "colorCount": 22,
    "regionCount": 94,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/cartoon/cb_cartoon_dino/thumbnail.jpg",
    "imageUrl": "artworks/cartoon/cb_cartoon_dino/image.jpg",
@@ -16197,8 +16197,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "5a574704bec16f62127d79e4d6e77424417222e500e0185067d1cfd7666173a0",
-   "imageSha256": "193c108d6f61f76dfe2b9fbe691da437927ef94492d9ce388c00d37084a8b118",
+   "regionMapSha256": "62c5342652105fc2e3478ed644252a1199fb61451991e4f5a69b7220587630c9",
+   "imageSha256": "7e35f6b0e57e35c33d251e06369cf7441d1ecfa99e73d0fbde3dcb4380138983",
    "addedAt": "2026-10-21"
   },
   {
@@ -16987,7 +16987,7 @@
    "category": "food",
    "colorCount": 17,
    "regionCount": 161,
-   "contentVersion": 18,
+   "contentVersion": 19,
    "isNew": true,
    "thumbnailUrl": "artworks/food/cb_pizza_party/thumbnail.jpg",
    "imageUrl": "artworks/food/cb_pizza_party/image.jpg",
@@ -17000,8 +17000,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "f1663d49ea86843971934a48af4e1eaff3691c4ffb9f2abe4a3eda3692ac3242",
-   "imageSha256": "77d4dd1f92974d509b241251153f7d6cb0304b054e29066c0372b250b205c44b",
+   "regionMapSha256": "527dc7170b55a0e2ff78d079ac0a98fd94491a2f1b189491f27885b5ac1fccc7",
+   "imageSha256": "1608492d5231f79f1ba12d745a58d8bfc01653a7b375ed7201bff37d6f47ed64",
    "addedAt": "2026-10-21"
   },
   {
