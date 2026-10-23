@@ -430,7 +430,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T14:33:02+00:00",
+ "updatedAt": "2026-10-23T14:45:29+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1904,6 +1904,52 @@
    "sourceUrl": null,
    "regionMapSha256": "cd4b19c5f18e4ea0d8676bf2975630cd67c92b2d1b686225faaa6addf02e8b40",
    "imageSha256": "956fcec943f8849e975288dc0f8458c84e6372ad79de4a9fb3c826d0f1abd6d4",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_firefighter",
+   "title": "Firefighter",
+   "category": "characters",
+   "colorCount": 17,
+   "regionCount": 160,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/characters/hd_firefighter/thumbnail.jpg",
+   "imageUrl": "artworks/characters/hd_firefighter/image.jpg",
+   "originalImageUrl": "artworks/characters/hd_firefighter/original.jpg",
+   "lineArtUrl": "artworks/characters/hd_firefighter/line_art.png",
+   "lineArtThumbnailUrl": "artworks/characters/hd_firefighter/line_art_thumb.webp",
+   "linePathsUrl": "artworks/characters/hd_firefighter/line_paths_v3.json",
+   "regionMapUrl": "artworks/characters/hd_firefighter/region_map.png",
+   "paintDataUrl": "artworks/characters/hd_firefighter/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "a0707feea7019f7d2d2c362c762f0cc30ed0a6f4d965cad6f7dd49abaf74f4c5",
+   "imageSha256": "12521f4c1f327f55b425e62231987a2162e2d8cc0d0205f782985e4001ff2ebf",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_monster_party",
+   "title": "Monster Party",
+   "category": "cartoon",
+   "colorCount": 24,
+   "regionCount": 283,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/cartoon/hd_monster_party/thumbnail.jpg",
+   "imageUrl": "artworks/cartoon/hd_monster_party/image.jpg",
+   "originalImageUrl": "artworks/cartoon/hd_monster_party/original.jpg",
+   "lineArtUrl": "artworks/cartoon/hd_monster_party/line_art.png",
+   "lineArtThumbnailUrl": "artworks/cartoon/hd_monster_party/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/hd_monster_party/line_paths_v3.json",
+   "regionMapUrl": "artworks/cartoon/hd_monster_party/region_map.png",
+   "paintDataUrl": "artworks/cartoon/hd_monster_party/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "57018d48435f9ac900e6752e1f5c57019a09b2486fe3228e9c8e22a18a0c63e4",
+   "imageSha256": "464ee78da58a237215af9a82365a8b6466a043a4c741bbb8ee7fc4e5e3f5c742",
    "addedAt": "2026-10-23"
   },
   {
