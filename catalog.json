@@ -427,7 +427,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T13:06:00+00:00",
+ "updatedAt": "2026-10-23T13:18:26+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1625,6 +1625,52 @@
    "sourceUrl": null,
    "regionMapSha256": "a82cdb6b642471ad8ac3ac2fa6596267af9709f32dfe2f7f19c3330557aac5ca",
    "imageSha256": "83eb21f832428c947e6d80edf1c8799c9abe82b3766d074cfd0f7b6ee8b55b99",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_basketball",
+   "title": "Basketball",
+   "category": "sports",
+   "colorCount": 15,
+   "regionCount": 126,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/sports/hd_basketball/thumbnail.jpg",
+   "imageUrl": "artworks/sports/hd_basketball/image.jpg",
+   "originalImageUrl": "artworks/sports/hd_basketball/original.jpg",
+   "lineArtUrl": "artworks/sports/hd_basketball/line_art.png",
+   "lineArtThumbnailUrl": "artworks/sports/hd_basketball/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/hd_basketball/line_paths_v3.json",
+   "regionMapUrl": "artworks/sports/hd_basketball/region_map.png",
+   "paintDataUrl": "artworks/sports/hd_basketball/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "8c7f234b0ed47c85bf5a417c9a09fa5ec1c0fcf8607dc9b8e91bc365bffd306d",
+   "imageSha256": "d426c2d62fdab93b9382dca8687f24853fd661c8ec6e13d3952d3cdfd9608327",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_butterfly_girl",
+   "title": "Butterfly Girl",
+   "category": "butterfly",
+   "colorCount": 23,
+   "regionCount": 365,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/butterfly/hd_butterfly_girl/thumbnail.jpg",
+   "imageUrl": "artworks/butterfly/hd_butterfly_girl/image.jpg",
+   "originalImageUrl": "artworks/butterfly/hd_butterfly_girl/original.jpg",
+   "lineArtUrl": "artworks/butterfly/hd_butterfly_girl/line_art.png",
+   "lineArtThumbnailUrl": "artworks/butterfly/hd_butterfly_girl/line_art_thumb.webp",
+   "linePathsUrl": "artworks/butterfly/hd_butterfly_girl/line_paths_v3.json",
+   "regionMapUrl": "artworks/butterfly/hd_butterfly_girl/region_map.png",
+   "paintDataUrl": "artworks/butterfly/hd_butterfly_girl/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "c7d7597c5e4aae298897548b129195d0872ffd25244e2837891626e8fb3fb3ec",
+   "imageSha256": "da1a2ee9fdbf913a3a0167d3cdf1374b2b26eb83183b240cd11a735e34803b54",
    "addedAt": "2026-10-23"
   },
   {
