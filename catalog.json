@@ -424,7 +424,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T09:44:54+00:00",
+ "updatedAt": "2026-10-23T09:53:28+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1070,6 +1070,52 @@
    "sourceUrl": null,
    "regionMapSha256": "0f13181fe456bc70154c972109faa7770a1b81a3c9968b4d0252cbba98d3fb9a",
    "imageSha256": "400a45c3a9903d385862b32925fe08028b169c93bf7a10823d98fe2c3a43b868",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_mountain_lake",
+   "title": "Mountain Lake",
+   "category": "nature",
+   "colorCount": 9,
+   "regionCount": 32,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/nature/hd_mountain_lake/thumbnail.jpg",
+   "imageUrl": "artworks/nature/hd_mountain_lake/image.jpg",
+   "originalImageUrl": "artworks/nature/hd_mountain_lake/original.jpg",
+   "lineArtUrl": "artworks/nature/hd_mountain_lake/line_art.png",
+   "lineArtThumbnailUrl": "artworks/nature/hd_mountain_lake/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/hd_mountain_lake/line_paths_v3.json",
+   "regionMapUrl": "artworks/nature/hd_mountain_lake/region_map.png",
+   "paintDataUrl": "artworks/nature/hd_mountain_lake/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "8022023a61cc0ea37f765b63eed434251c89e0c3c3e5eeff0573e7734fc7ac75",
+   "imageSha256": "e9c9b162b9e3ae79830f1f12476791a5074871cd262e30ff0f74e2a5cbebbe3c",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_sunflower_pot",
+   "title": "Sunflower Pot",
+   "category": "flowers",
+   "colorCount": 10,
+   "regionCount": 37,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/flowers/hd_sunflower_pot/thumbnail.jpg",
+   "imageUrl": "artworks/flowers/hd_sunflower_pot/image.jpg",
+   "originalImageUrl": "artworks/flowers/hd_sunflower_pot/original.jpg",
+   "lineArtUrl": "artworks/flowers/hd_sunflower_pot/line_art.png",
+   "lineArtThumbnailUrl": "artworks/flowers/hd_sunflower_pot/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/hd_sunflower_pot/line_paths_v3.json",
+   "regionMapUrl": "artworks/flowers/hd_sunflower_pot/region_map.png",
+   "paintDataUrl": "artworks/flowers/hd_sunflower_pot/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "20f6892c11bd4416ba9ff8ec13c01a8d8b2ff19415a0cae8f7c76226e6f5f09e",
+   "imageSha256": "b1f0fdaac2d29895e2a5a2047154bcff5c40acccbec2db400aebc8e9d18f4cd3",
    "addedAt": "2026-10-23"
   },
   {
