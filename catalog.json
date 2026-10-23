@@ -430,7 +430,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T14:20:35+00:00",
+ "updatedAt": "2026-10-23T14:33:02+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1858,6 +1858,52 @@
    "sourceUrl": null,
    "regionMapSha256": "ecdf94070d0bae695286db08fc7d89b9a6ec6a1cfb2429641c93cf55d2db328b",
    "imageSha256": "ca0e272edd8a5ec08d1b0bca04d461ba91e74b4b578e4ecd33a648838aba5b6d",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_fairy_house",
+   "title": "Fairy House",
+   "category": "fantasy",
+   "colorCount": 24,
+   "regionCount": 356,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fantasy/hd_fairy_house/thumbnail.jpg",
+   "imageUrl": "artworks/fantasy/hd_fairy_house/image.jpg",
+   "originalImageUrl": "artworks/fantasy/hd_fairy_house/original.jpg",
+   "lineArtUrl": "artworks/fantasy/hd_fairy_house/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fantasy/hd_fairy_house/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fantasy/hd_fairy_house/line_paths_v3.json",
+   "regionMapUrl": "artworks/fantasy/hd_fairy_house/region_map.png",
+   "paintDataUrl": "artworks/fantasy/hd_fairy_house/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "944337eac8175ffae52e5fc64cf281518ad0b4ff51fe6e32c913ecfd8b57f553",
+   "imageSha256": "532eae79e84ba3f19c91901da78162ca1d7f13df99533237686bab6b367a9e15",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_sun_mandala",
+   "title": "Sun Mandala",
+   "category": "mandala",
+   "colorCount": 19,
+   "regionCount": 172,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/mandala/hd_sun_mandala/thumbnail.jpg",
+   "imageUrl": "artworks/mandala/hd_sun_mandala/image.jpg",
+   "originalImageUrl": "artworks/mandala/hd_sun_mandala/original.jpg",
+   "lineArtUrl": "artworks/mandala/hd_sun_mandala/line_art.png",
+   "lineArtThumbnailUrl": "artworks/mandala/hd_sun_mandala/line_art_thumb.webp",
+   "linePathsUrl": "artworks/mandala/hd_sun_mandala/line_paths_v3.json",
+   "regionMapUrl": "artworks/mandala/hd_sun_mandala/region_map.png",
+   "paintDataUrl": "artworks/mandala/hd_sun_mandala/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "cd4b19c5f18e4ea0d8676bf2975630cd67c92b2d1b686225faaa6addf02e8b40",
+   "imageSha256": "956fcec943f8849e975288dc0f8458c84e6372ad79de4a9fb3c826d0f1abd6d4",
    "addedAt": "2026-10-23"
   },
   {
