@@ -429,7 +429,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T13:47:19+00:00",
+ "updatedAt": "2026-10-23T13:59:45+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1765,6 +1765,52 @@
    "sourceUrl": null,
    "regionMapSha256": "cfdab8c911ecdd57fed62b538c5e0e3f061e8eb91ce369cdbad3510f7305f674",
    "imageSha256": "c1069b919a2d2037d408a94d502224a685af2226cd966a1784a41e4aee1beb61",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_krishna_flute",
+   "title": "Krishna Flute",
+   "category": "hindu_gods",
+   "colorCount": 16,
+   "regionCount": 228,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/hindu_gods/hd_krishna_flute/thumbnail.jpg",
+   "imageUrl": "artworks/hindu_gods/hd_krishna_flute/image.jpg",
+   "originalImageUrl": "artworks/hindu_gods/hd_krishna_flute/original.jpg",
+   "lineArtUrl": "artworks/hindu_gods/hd_krishna_flute/line_art.png",
+   "lineArtThumbnailUrl": "artworks/hindu_gods/hd_krishna_flute/line_art_thumb.webp",
+   "linePathsUrl": "artworks/hindu_gods/hd_krishna_flute/line_paths_v3.json",
+   "regionMapUrl": "artworks/hindu_gods/hd_krishna_flute/region_map.png",
+   "paintDataUrl": "artworks/hindu_gods/hd_krishna_flute/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "c98d3421cf33105e0d650bfadea0cb9d19f98e71bc9fa53fe019a75f799b38bf",
+   "imageSha256": "f4ab27a7b5725ecc32b79922242e7fb2322be3f3913f0876eba7303bf48b09e3",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_taurus",
+   "title": "Taurus",
+   "category": "zodiac",
+   "colorCount": 10,
+   "regionCount": 35,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/zodiac/hd_taurus/thumbnail.jpg",
+   "imageUrl": "artworks/zodiac/hd_taurus/image.jpg",
+   "originalImageUrl": "artworks/zodiac/hd_taurus/original.jpg",
+   "lineArtUrl": "artworks/zodiac/hd_taurus/line_art.png",
+   "lineArtThumbnailUrl": "artworks/zodiac/hd_taurus/line_art_thumb.webp",
+   "linePathsUrl": "artworks/zodiac/hd_taurus/line_paths_v3.json",
+   "regionMapUrl": "artworks/zodiac/hd_taurus/region_map.png",
+   "paintDataUrl": "artworks/zodiac/hd_taurus/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "3509c724fd07990aeafe69e41229a3e7167e6bf833055de16dd5c0dd7ccbe596",
+   "imageSha256": "fb20859a3ca45fcec89b17b24f0e95ca13457f56a96d47f84de26805a2d960d3",
    "addedAt": "2026-10-23"
   },
   {
