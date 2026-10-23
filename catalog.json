@@ -424,7 +424,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T10:44:33+00:00",
+ "updatedAt": "2026-10-23T11:01:02+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1208,6 +1208,52 @@
    "sourceUrl": null,
    "regionMapSha256": "dd7954d8ffe85cd1619beb622bbe7ebfbd0705d1e71b47d8ec2e5527f121e3f1",
    "imageSha256": "9036e7e0a63b68ccf20bba90a831291d36f32c9096f3a0008de0643ef8d758ef",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_flower_mandala",
+   "title": "Flower Mandala",
+   "category": "mandala",
+   "colorCount": 17,
+   "regionCount": 160,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/mandala/hd_flower_mandala/thumbnail.jpg",
+   "imageUrl": "artworks/mandala/hd_flower_mandala/image.jpg",
+   "originalImageUrl": "artworks/mandala/hd_flower_mandala/original.jpg",
+   "lineArtUrl": "artworks/mandala/hd_flower_mandala/line_art.png",
+   "lineArtThumbnailUrl": "artworks/mandala/hd_flower_mandala/line_art_thumb.webp",
+   "linePathsUrl": "artworks/mandala/hd_flower_mandala/line_paths_v3.json",
+   "regionMapUrl": "artworks/mandala/hd_flower_mandala/region_map.png",
+   "paintDataUrl": "artworks/mandala/hd_flower_mandala/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "863324f42aafba7088d1e2295695d1c267b62c928fd690bc65d9ffef4e070673",
+   "imageSha256": "4b783b0bd7c09544e03f38ac5207333e2d37c13c0e63bc027eab32b040639408",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_goal_time",
+   "title": "Goal Time",
+   "category": "sports",
+   "colorCount": 17,
+   "regionCount": 176,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/sports/hd_goal_time/thumbnail.jpg",
+   "imageUrl": "artworks/sports/hd_goal_time/image.jpg",
+   "originalImageUrl": "artworks/sports/hd_goal_time/original.jpg",
+   "lineArtUrl": "artworks/sports/hd_goal_time/line_art.png",
+   "lineArtThumbnailUrl": "artworks/sports/hd_goal_time/line_art_thumb.webp",
+   "linePathsUrl": "artworks/sports/hd_goal_time/line_paths_v3.json",
+   "regionMapUrl": "artworks/sports/hd_goal_time/region_map.png",
+   "paintDataUrl": "artworks/sports/hd_goal_time/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "59e5d513a4b3f0aad2908a0ed50b625590d684874b510c7d1b4b864ce927702b",
+   "imageSha256": "c801b3e5bc14647a638add809aba42142d698b3266bf2409977a9593c6918d49",
    "addedAt": "2026-10-23"
   },
   {
