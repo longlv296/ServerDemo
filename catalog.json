@@ -426,7 +426,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T12:41:07+00:00",
+ "updatedAt": "2026-10-23T12:53:33+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1555,6 +1555,52 @@
    "sourceUrl": null,
    "regionMapSha256": "d96f19e8f7168d80e71740ca8d273035c58fc7180801c74b3364ac26d8629a62",
    "imageSha256": "f22a40f05bb391ccc9fc5a7ae685dcbe0c89694582a14567acaf38579de6026e",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_astronaut_kid",
+   "title": "Astronaut Kid",
+   "category": "characters",
+   "colorCount": 14,
+   "regionCount": 54,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/characters/hd_astronaut_kid/thumbnail.jpg",
+   "imageUrl": "artworks/characters/hd_astronaut_kid/image.jpg",
+   "originalImageUrl": "artworks/characters/hd_astronaut_kid/original.jpg",
+   "lineArtUrl": "artworks/characters/hd_astronaut_kid/line_art.png",
+   "lineArtThumbnailUrl": "artworks/characters/hd_astronaut_kid/line_art_thumb.webp",
+   "linePathsUrl": "artworks/characters/hd_astronaut_kid/line_paths_v3.json",
+   "regionMapUrl": "artworks/characters/hd_astronaut_kid/region_map.png",
+   "paintDataUrl": "artworks/characters/hd_astronaut_kid/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "dbb084c776b66b98efd69a238a266909b85fa209f0c47cc785777658215065e0",
+   "imageSha256": "00bdf61af82f5acb538bdbf01d01ebcf43467390b8fd0ed27c8d103531003bab",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_happy_car",
+   "title": "Happy Car",
+   "category": "cartoon",
+   "colorCount": 21,
+   "regionCount": 306,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/cartoon/hd_happy_car/thumbnail.jpg",
+   "imageUrl": "artworks/cartoon/hd_happy_car/image.jpg",
+   "originalImageUrl": "artworks/cartoon/hd_happy_car/original.jpg",
+   "lineArtUrl": "artworks/cartoon/hd_happy_car/line_art.png",
+   "lineArtThumbnailUrl": "artworks/cartoon/hd_happy_car/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/hd_happy_car/line_paths_v3.json",
+   "regionMapUrl": "artworks/cartoon/hd_happy_car/region_map.png",
+   "paintDataUrl": "artworks/cartoon/hd_happy_car/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "a117193c52ce9eae1b235983931b3797afb1d6909fd9a9a08eb29408b418f78e",
+   "imageSha256": "24b87049b543994ca15203c6b80c5db929ff3386cb3e80e8e6ded528cb46c51d",
    "addedAt": "2026-10-23"
   },
   {
