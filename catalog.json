@@ -60,7 +60,8 @@
     "cb_jack_o_lanterns",
     "ds_halloween_001",
     "cb_scarecrow_crows",
-    "cb_frankenstein_cute"
+    "cb_frankenstein_cute",
+    "hd_pumpkin_pals"
    ]
   },
   {
@@ -423,7 +424,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T10:27:40+00:00",
+ "updatedAt": "2026-10-23T10:40:11+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1138,6 +1139,52 @@
    "sourceUrl": null,
    "regionMapSha256": "71d8c6b198a1d0640edb6f8dad7b21470f9dbd0a67579b50e84ed16c5ccd3b53",
    "imageSha256": "6d186034a474b150111267258bb2f509d0b54ea29bb6bc1728e2c8255a47b2ee",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_pumpkin_pals",
+   "title": "Pumpkin Pals",
+   "category": "halloween",
+   "colorCount": 12,
+   "regionCount": 52,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/halloween/hd_pumpkin_pals/thumbnail.jpg",
+   "imageUrl": "artworks/halloween/hd_pumpkin_pals/image.jpg",
+   "originalImageUrl": "artworks/halloween/hd_pumpkin_pals/original.jpg",
+   "lineArtUrl": "artworks/halloween/hd_pumpkin_pals/line_art.png",
+   "lineArtThumbnailUrl": "artworks/halloween/hd_pumpkin_pals/line_art_thumb.webp",
+   "linePathsUrl": "artworks/halloween/hd_pumpkin_pals/line_paths_v3.json",
+   "regionMapUrl": "artworks/halloween/hd_pumpkin_pals/region_map.png",
+   "paintDataUrl": "artworks/halloween/hd_pumpkin_pals/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "c3b9d2901fd4ceb4632db1fbedfaafbbed56011fc59a46802d64205d37020cb0",
+   "imageSha256": "1f3f36630b5fedea3ff3213f994437bc0f0ff41228320dc8e84fa70491dcb960",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_robot_buddy",
+   "title": "Robot Buddy",
+   "category": "cartoon",
+   "colorCount": 16,
+   "regionCount": 95,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/cartoon/hd_robot_buddy/thumbnail.jpg",
+   "imageUrl": "artworks/cartoon/hd_robot_buddy/image.jpg",
+   "originalImageUrl": "artworks/cartoon/hd_robot_buddy/original.jpg",
+   "lineArtUrl": "artworks/cartoon/hd_robot_buddy/line_art.png",
+   "lineArtThumbnailUrl": "artworks/cartoon/hd_robot_buddy/line_art_thumb.webp",
+   "linePathsUrl": "artworks/cartoon/hd_robot_buddy/line_paths_v3.json",
+   "regionMapUrl": "artworks/cartoon/hd_robot_buddy/region_map.png",
+   "paintDataUrl": "artworks/cartoon/hd_robot_buddy/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "844530a8c9be22843b2df234349f94ed8923f43d5ac59188d8416a1e828d9b85",
+   "imageSha256": "f063dc9a4279a5ee9b85ae2236c4809ce4021ac3eb2c202a74bb50a3752266eb",
    "addedAt": "2026-10-23"
   },
   {
