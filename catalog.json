@@ -426,7 +426,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T12:20:13+00:00",
+ "updatedAt": "2026-10-23T12:32:41+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1463,6 +1463,52 @@
    "sourceUrl": null,
    "regionMapSha256": "4d1b490c9fbb657696487b894b83a8fbfc5cec67e9cc6417ea5f4d84dc7b9382",
    "imageSha256": "840244b80d03e94867bbda566b75a752c70a60498c1eaafa6705b161598c7107",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_rainbow_hills",
+   "title": "Rainbow Hills",
+   "category": "nature",
+   "colorCount": 20,
+   "regionCount": 322,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/nature/hd_rainbow_hills/thumbnail.jpg",
+   "imageUrl": "artworks/nature/hd_rainbow_hills/image.jpg",
+   "originalImageUrl": "artworks/nature/hd_rainbow_hills/original.jpg",
+   "lineArtUrl": "artworks/nature/hd_rainbow_hills/line_art.png",
+   "lineArtThumbnailUrl": "artworks/nature/hd_rainbow_hills/line_art_thumb.webp",
+   "linePathsUrl": "artworks/nature/hd_rainbow_hills/line_paths_v3.json",
+   "regionMapUrl": "artworks/nature/hd_rainbow_hills/region_map.png",
+   "paintDataUrl": "artworks/nature/hd_rainbow_hills/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "8ff6c2d8c2f6cbe0b70089fd5c30fcee753888cd76f75e4841bd35b6e749cfea",
+   "imageSha256": "1b710357a23c127066fd2ad5dbf4c3f17d6cfd9f9ae2847191247a20ef0cf4cf",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_tulip_garden",
+   "title": "Tulip Garden",
+   "category": "flowers",
+   "colorCount": 16,
+   "regionCount": 78,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/flowers/hd_tulip_garden/thumbnail.jpg",
+   "imageUrl": "artworks/flowers/hd_tulip_garden/image.jpg",
+   "originalImageUrl": "artworks/flowers/hd_tulip_garden/original.jpg",
+   "lineArtUrl": "artworks/flowers/hd_tulip_garden/line_art.png",
+   "lineArtThumbnailUrl": "artworks/flowers/hd_tulip_garden/line_art_thumb.webp",
+   "linePathsUrl": "artworks/flowers/hd_tulip_garden/line_paths_v3.json",
+   "regionMapUrl": "artworks/flowers/hd_tulip_garden/region_map.png",
+   "paintDataUrl": "artworks/flowers/hd_tulip_garden/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "cb9393a1f7144e663ba19efb659f5c18c2e1492f393e88d121d474f787ee541a",
+   "imageSha256": "75e90467ba0699a192869a384797674a6394d6e83d5e6382658598e2d3ab8318",
    "addedAt": "2026-10-23"
   },
   {
