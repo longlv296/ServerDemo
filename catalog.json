@@ -429,7 +429,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T13:30:51+00:00",
+ "updatedAt": "2026-10-23T13:47:19+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1719,6 +1719,52 @@
    "sourceUrl": null,
    "regionMapSha256": "273d84a0267a7e200d7fc719d4c5ddf480fd8feef8b88ce357dda205965d54e8",
    "imageSha256": "1e0422c2ce401f2b6a86ec4cf8cf8c19fd5bca2e365dca550f2068f5253e5034",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_frog_prince",
+   "title": "Frog Prince",
+   "category": "fairy_tale",
+   "colorCount": 22,
+   "regionCount": 239,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fairy_tale/hd_frog_prince/thumbnail.jpg",
+   "imageUrl": "artworks/fairy_tale/hd_frog_prince/image.jpg",
+   "originalImageUrl": "artworks/fairy_tale/hd_frog_prince/original.jpg",
+   "lineArtUrl": "artworks/fairy_tale/hd_frog_prince/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fairy_tale/hd_frog_prince/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fairy_tale/hd_frog_prince/line_paths_v3.json",
+   "regionMapUrl": "artworks/fairy_tale/hd_frog_prince/region_map.png",
+   "paintDataUrl": "artworks/fairy_tale/hd_frog_prince/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "b24b937047b74c400b82e85a3069ba9ee1a21b6768cbc84bc20c5932da5fd32a",
+   "imageSha256": "089b912778abb833bc94569540629c370d6b03c15592f5b3687338830a60628e",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_hat_shop",
+   "title": "Hat Shop",
+   "category": "fashion",
+   "colorCount": 17,
+   "regionCount": 122,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fashion/hd_hat_shop/thumbnail.jpg",
+   "imageUrl": "artworks/fashion/hd_hat_shop/image.jpg",
+   "originalImageUrl": "artworks/fashion/hd_hat_shop/original.jpg",
+   "lineArtUrl": "artworks/fashion/hd_hat_shop/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fashion/hd_hat_shop/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fashion/hd_hat_shop/line_paths_v3.json",
+   "regionMapUrl": "artworks/fashion/hd_hat_shop/region_map.png",
+   "paintDataUrl": "artworks/fashion/hd_hat_shop/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "cfdab8c911ecdd57fed62b538c5e0e3f061e8eb91ce369cdbad3510f7305f674",
+   "imageSha256": "c1069b919a2d2037d408a94d502224a685af2226cd966a1784a41e4aee1beb61",
    "addedAt": "2026-10-23"
   },
   {
