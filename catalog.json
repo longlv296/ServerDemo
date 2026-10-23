@@ -426,7 +426,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T11:42:38+00:00",
+ "updatedAt": "2026-10-23T11:55:04+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1325,6 +1325,52 @@
    "sourceUrl": null,
    "regionMapSha256": "81e7c536d339ba18389f86b6ec9980b801dce2b8fc8bc87d74fcee1f94cb4c3a",
    "imageSha256": "83d800dd2e54561d18f549c020f98a518d22b09fdd429713544897036f514616",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_party_dress",
+   "title": "Party Dress",
+   "category": "fashion",
+   "colorCount": 12,
+   "regionCount": 42,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fashion/hd_party_dress/thumbnail.jpg",
+   "imageUrl": "artworks/fashion/hd_party_dress/image.jpg",
+   "originalImageUrl": "artworks/fashion/hd_party_dress/original.jpg",
+   "lineArtUrl": "artworks/fashion/hd_party_dress/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fashion/hd_party_dress/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fashion/hd_party_dress/line_paths_v3.json",
+   "regionMapUrl": "artworks/fashion/hd_party_dress/region_map.png",
+   "paintDataUrl": "artworks/fashion/hd_party_dress/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "fa09920a99b79b6b5c39c34c1270e17d466c29727a4d65ebc27e8ee9ca2271df",
+   "imageSha256": "b4da7b26ffba0ed75d3e5cc1dcbf5344aa70b2ec693da15ed548706fa1f6f835",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_three_little_pigs",
+   "title": "Three Little Pigs",
+   "category": "fairy_tale",
+   "colorCount": 17,
+   "regionCount": 162,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fairy_tale/hd_three_little_pigs/thumbnail.jpg",
+   "imageUrl": "artworks/fairy_tale/hd_three_little_pigs/image.jpg",
+   "originalImageUrl": "artworks/fairy_tale/hd_three_little_pigs/original.jpg",
+   "lineArtUrl": "artworks/fairy_tale/hd_three_little_pigs/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fairy_tale/hd_three_little_pigs/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fairy_tale/hd_three_little_pigs/line_paths_v3.json",
+   "regionMapUrl": "artworks/fairy_tale/hd_three_little_pigs/region_map.png",
+   "paintDataUrl": "artworks/fairy_tale/hd_three_little_pigs/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "ada6275abb8afb3e6fe954c697b5bc05a760e27ef886edd38f90a5fe38e934e3",
+   "imageSha256": "c07c8ceff53134694beff99d965b9dc47f12ada903c6c3b764989d425c6006ca",
    "addedAt": "2026-10-23"
   },
   {
