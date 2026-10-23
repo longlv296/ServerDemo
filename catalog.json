@@ -61,7 +61,8 @@
     "ds_halloween_001",
     "cb_scarecrow_crows",
     "cb_frankenstein_cute",
-    "hd_pumpkin_pals"
+    "hd_pumpkin_pals",
+    "hd_witch_hat_kitty"
    ]
   },
   {
@@ -426,7 +427,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T12:53:33+00:00",
+ "updatedAt": "2026-10-23T13:06:00+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1420,29 +1421,6 @@
    "addedAt": "2026-10-23"
   },
   {
-   "id": "hd_fox_friends",
-   "title": "Fox Friends",
-   "category": "animals",
-   "colorCount": 14,
-   "regionCount": 146,
-   "contentVersion": 25,
-   "isNew": true,
-   "thumbnailUrl": "artworks/animals/hd_fox_friends/thumbnail.jpg",
-   "imageUrl": "artworks/animals/hd_fox_friends/image.jpg",
-   "originalImageUrl": "artworks/animals/hd_fox_friends/original.jpg",
-   "lineArtUrl": "artworks/animals/hd_fox_friends/line_art.png",
-   "lineArtThumbnailUrl": "artworks/animals/hd_fox_friends/line_art_thumb.webp",
-   "linePathsUrl": "artworks/animals/hd_fox_friends/line_paths_v3.json",
-   "regionMapUrl": "artworks/animals/hd_fox_friends/region_map.png",
-   "paintDataUrl": "artworks/animals/hd_fox_friends/paint_data.json",
-   "license": null,
-   "creator": null,
-   "sourceUrl": null,
-   "regionMapSha256": "c1a89eb076160075816e7243607712c6cb3c80df98794c3af2f552c1488123bb",
-   "imageSha256": "83cb0c2216e0cddaeb63e0463d0f59e0b611cd3b6a202de39a6937ef43901653",
-   "addedAt": "2026-10-23"
-  },
-  {
    "id": "hd_magical_girl",
    "title": "Magical Girl",
    "category": "anime",
@@ -1601,6 +1579,52 @@
    "sourceUrl": null,
    "regionMapSha256": "a117193c52ce9eae1b235983931b3797afb1d6909fd9a9a08eb29408b418f78e",
    "imageSha256": "24b87049b543994ca15203c6b80c5db929ff3386cb3e80e8e6ded528cb46c51d",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_pizza_party",
+   "title": "Pizza Party",
+   "category": "food",
+   "colorCount": 24,
+   "regionCount": 375,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/food/hd_pizza_party/thumbnail.jpg",
+   "imageUrl": "artworks/food/hd_pizza_party/image.jpg",
+   "originalImageUrl": "artworks/food/hd_pizza_party/original.jpg",
+   "lineArtUrl": "artworks/food/hd_pizza_party/line_art.png",
+   "lineArtThumbnailUrl": "artworks/food/hd_pizza_party/line_art_thumb.webp",
+   "linePathsUrl": "artworks/food/hd_pizza_party/line_paths_v3.json",
+   "regionMapUrl": "artworks/food/hd_pizza_party/region_map.png",
+   "paintDataUrl": "artworks/food/hd_pizza_party/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "bb2d1820c62b652ec53212b3e87d64357b07793bdddd4d90a61900e6ca12b87d",
+   "imageSha256": "9df9061e12da281c0e1f77d4530789fec4e09332aeb2a1fe71968a88e24694db",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_witch_hat_kitty",
+   "title": "Witch Hat Kitty",
+   "category": "halloween",
+   "colorCount": 18,
+   "regionCount": 114,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/halloween/hd_witch_hat_kitty/thumbnail.jpg",
+   "imageUrl": "artworks/halloween/hd_witch_hat_kitty/image.jpg",
+   "originalImageUrl": "artworks/halloween/hd_witch_hat_kitty/original.jpg",
+   "lineArtUrl": "artworks/halloween/hd_witch_hat_kitty/line_art.png",
+   "lineArtThumbnailUrl": "artworks/halloween/hd_witch_hat_kitty/line_art_thumb.webp",
+   "linePathsUrl": "artworks/halloween/hd_witch_hat_kitty/line_paths_v3.json",
+   "regionMapUrl": "artworks/halloween/hd_witch_hat_kitty/region_map.png",
+   "paintDataUrl": "artworks/halloween/hd_witch_hat_kitty/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "a82cdb6b642471ad8ac3ac2fa6596267af9709f32dfe2f7f19c3330557aac5ca",
+   "imageSha256": "83eb21f832428c947e6d80edf1c8799c9abe82b3766d074cfd0f7b6ee8b55b99",
    "addedAt": "2026-10-23"
   },
   {
