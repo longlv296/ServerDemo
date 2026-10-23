@@ -426,7 +426,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T11:55:04+00:00",
+ "updatedAt": "2026-10-23T12:07:31+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1371,6 +1371,52 @@
    "sourceUrl": null,
    "regionMapSha256": "ada6275abb8afb3e6fe954c697b5bc05a760e27ef886edd38f90a5fe38e934e3",
    "imageSha256": "c07c8ceff53134694beff99d965b9dc47f12ada903c6c3b764989d425c6006ca",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_aries",
+   "title": "Aries",
+   "category": "zodiac",
+   "colorCount": 15,
+   "regionCount": 85,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/zodiac/hd_aries/thumbnail.jpg",
+   "imageUrl": "artworks/zodiac/hd_aries/image.jpg",
+   "originalImageUrl": "artworks/zodiac/hd_aries/original.jpg",
+   "lineArtUrl": "artworks/zodiac/hd_aries/line_art.png",
+   "lineArtThumbnailUrl": "artworks/zodiac/hd_aries/line_art_thumb.webp",
+   "linePathsUrl": "artworks/zodiac/hd_aries/line_paths_v3.json",
+   "regionMapUrl": "artworks/zodiac/hd_aries/region_map.png",
+   "paintDataUrl": "artworks/zodiac/hd_aries/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "58cad2205d5c2c2016fe22d64a3eca2c09aa243bc136a16b5e84286c4a74dfbb",
+   "imageSha256": "5cf77bbe81fcebcada4d3f782fc001372d784a27d5d11ef3594c2828372a6258",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_little_ganesha",
+   "title": "Little Ganesha",
+   "category": "hindu_gods",
+   "colorCount": 18,
+   "regionCount": 146,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/hindu_gods/hd_little_ganesha/thumbnail.jpg",
+   "imageUrl": "artworks/hindu_gods/hd_little_ganesha/image.jpg",
+   "originalImageUrl": "artworks/hindu_gods/hd_little_ganesha/original.jpg",
+   "lineArtUrl": "artworks/hindu_gods/hd_little_ganesha/line_art.png",
+   "lineArtThumbnailUrl": "artworks/hindu_gods/hd_little_ganesha/line_art_thumb.webp",
+   "linePathsUrl": "artworks/hindu_gods/hd_little_ganesha/line_paths_v3.json",
+   "regionMapUrl": "artworks/hindu_gods/hd_little_ganesha/region_map.png",
+   "paintDataUrl": "artworks/hindu_gods/hd_little_ganesha/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "4a71526fe889c6974bb420b95cddbf71cce71e2d02bea089ae4126b71d0d6569",
+   "imageSha256": "abbea9ef89450e123b9c91882411fcd88db312c8550a4666302f08fa41e058f7",
    "addedAt": "2026-10-23"
   },
   {
