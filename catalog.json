@@ -424,7 +424,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T09:43:07+00:00",
+ "updatedAt": "2026-10-23T09:44:54+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1032,7 +1032,7 @@
    "category": "anime",
    "colorCount": 13,
    "regionCount": 63,
-   "contentVersion": 24,
+   "contentVersion": 25,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/hd_cat_cafe_girl/thumbnail.jpg",
    "imageUrl": "artworks/anime/hd_cat_cafe_girl/image.jpg",
@@ -1046,7 +1046,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "b501462dff63e369f136646b9d724b6a531e8f203bb544cd64c56d84a9afe048",
-   "imageSha256": "3a265a03784725ce5297a1aa230783a6ac8e2b765ca05d7a4581780ba84513e1",
+   "imageSha256": "665ac097b522b59d8d22b592aa91a7e6a798af20b31a80c44b460b934914df1e",
    "addedAt": "2026-10-23"
   },
   {
@@ -1055,7 +1055,7 @@
    "category": "animals",
    "colorCount": 5,
    "regionCount": 45,
-   "contentVersion": 24,
+   "contentVersion": 25,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/hd_panda_snack/thumbnail.jpg",
    "imageUrl": "artworks/animals/hd_panda_snack/image.jpg",
@@ -1069,7 +1069,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "0f13181fe456bc70154c972109faa7770a1b81a3c9968b4d0252cbba98d3fb9a",
-   "imageSha256": "ec792ded51ecd569ea1048e16938cfbf896e6332738de4e1cad94e8f7af22501",
+   "imageSha256": "400a45c3a9903d385862b32925fe08028b169c93bf7a10823d98fe2c3a43b868",
    "addedAt": "2026-10-23"
   },
   {
