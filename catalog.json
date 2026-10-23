@@ -424,7 +424,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T11:01:02+00:00",
+ "updatedAt": "2026-10-23T11:13:31+00:00",
  "categories": [
   {
    "id": "animals",
@@ -871,7 +871,7 @@
    "category": "cartoon",
    "colorCount": 16,
    "regionCount": 113,
-   "contentVersion": 25,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/cartoon/hd_toy_train/thumbnail.jpg",
    "imageUrl": "artworks/cartoon/hd_toy_train/image.jpg",
@@ -884,8 +884,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "663c415393e05ed8956cf0051047580c4659fcab722faa9ce39fc093684731ce",
-   "imageSha256": "6b16ea8a56f3658319663115f946bb5c02c8494b3f522d1a703bfff9a4da5504",
+   "regionMapSha256": "bb8665b664e2d605036f46e7f328f690368dbdc30407040978b1191455e71805",
+   "imageSha256": "c785d3d97add69ce3302db608b9ea8a7a8a01aeb6098077dd5f75fc2bd1439d8",
    "addedAt": "2026-10-23"
   },
   {
@@ -894,7 +894,7 @@
    "category": "food",
    "colorCount": 11,
    "regionCount": 75,
-   "contentVersion": 25,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/food/hd_bunny_bakery/thumbnail.jpg",
    "imageUrl": "artworks/food/hd_bunny_bakery/image.jpg",
@@ -907,8 +907,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "3c7221063cce9d90bb13eb9f9f309b02fa92bd1022b0e364b0c7e2e541eec73f",
-   "imageSha256": "48c8316d1a24b56d11b7046fdb423f69c11d5b36e20de760aa92d4d522609f33",
+   "regionMapSha256": "5179391db7d4047b60a6ca883358d84cbdf300d611ac1b94ef1a3079f148dfbb",
+   "imageSha256": "35c3328226624ca6d2b1d494d3a88924eb0e243722930f9cfcc4693af23382ec",
    "addedAt": "2026-10-23"
   },
   {
@@ -916,8 +916,8 @@
    "title": "Jungle Friends",
    "category": "animals",
    "colorCount": 11,
-   "regionCount": 58,
-   "contentVersion": 25,
+   "regionCount": 56,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/hd_jungle_friends/thumbnail.jpg",
    "imageUrl": "artworks/animals/hd_jungle_friends/image.jpg",
@@ -930,8 +930,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "369ed8aba6df3f28c4fb13b0a819336e7a6ca8ea03a1f4e9e7525098c22b141c",
-   "imageSha256": "95eb580557eda39fa7561751fc78d23e1befb8ede62f66879b5e69cc9e560fad",
+   "regionMapSha256": "90f8d0e51933059c5ec5cb1772c16a59978cad5bab0ce14dfa8b7a5f440266ba",
+   "imageSha256": "771d3880fc9f8e02e9b831f9394f2f829b2098da476fe488eb03f27b051a72a1",
    "addedAt": "2026-10-23"
   },
   {
@@ -939,8 +939,8 @@
    "title": "Little Mermaid",
    "category": "fairy_tale",
    "colorCount": 14,
-   "regionCount": 91,
-   "contentVersion": 25,
+   "regionCount": 90,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/fairy_tale/hd_mermaid_friends/thumbnail.jpg",
    "imageUrl": "artworks/fairy_tale/hd_mermaid_friends/image.jpg",
@@ -953,8 +953,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "be1cdb94f728f7f0dd56a23a21c5237c6e2cc24ad790f6a81f5543ee6fbcf311",
-   "imageSha256": "3fd96a4831a38cdfffb5bf56cc9977b1ffe667d8503a4d32cf45420ea9b275f3",
+   "regionMapSha256": "973bcdf34658063999903e3822b4f5197da0e19a8b3689cd1d15a60d397f0fc9",
+   "imageSha256": "7e49834243478f7b2e1f1ea2f29ebd1b529f9042c05c6a15f5c41ba3350b2b83",
    "addedAt": "2026-10-23"
   },
   {
@@ -963,7 +963,7 @@
    "category": "christmas",
    "colorCount": 12,
    "regionCount": 86,
-   "contentVersion": 25,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/christmas/hd_snowman_kids/thumbnail.jpg",
    "imageUrl": "artworks/christmas/hd_snowman_kids/image.jpg",
@@ -976,8 +976,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "63a4f18cbdf41c6eca17ea06c8439aefbee4ce6a6a167eca6eddb6664f3bff2a",
-   "imageSha256": "eefa140d3d0dc411669536c99d89792d449776349c361ebaddf33b5e3f232f8a",
+   "regionMapSha256": "82645ac008d31a4a5cc26eefc9a3541c588d962cd76be7c142d5b0fcdc2f5581",
+   "imageSha256": "dddffc082b795cf5b9f0885e8be3b38fc536a92e20bac70de39a6b42d169ca2d",
    "addedAt": "2026-10-23"
   },
   {
@@ -986,7 +986,7 @@
    "category": "characters",
    "colorCount": 12,
    "regionCount": 52,
-   "contentVersion": 25,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/characters/hd_girl_ducks/thumbnail.jpg",
    "imageUrl": "artworks/characters/hd_girl_ducks/image.jpg",
@@ -999,8 +999,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "d06da6e958ffc106aa0080e2f7f43751371ac2b8886cad9c5b4b44fe93a8aca0",
-   "imageSha256": "3738a713ad054d6e3fd4c20daf258e5ecdea24ab48ec49e495674e5780191216",
+   "regionMapSha256": "218fbf0119a1105b78b528f03a96e9c8d9da93f90d29c4891c5578c70d27a1c9",
+   "imageSha256": "39cd6a12fa0fd5e09ded756601fe74834bbadd97d13098cba50ec3c36dd702f0",
    "addedAt": "2026-10-23"
   },
   {
@@ -1009,7 +1009,7 @@
    "category": "nature",
    "colorCount": 13,
    "regionCount": 94,
-   "contentVersion": 25,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/nature/hd_fishing_kids/thumbnail.jpg",
    "imageUrl": "artworks/nature/hd_fishing_kids/image.jpg",
@@ -1022,8 +1022,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "f94c95611a8cbbc0c919fc8ece9c3478527aac963b374b499e080d95ff208393",
-   "imageSha256": "39540007c450d2c2af4f4434134ab0bcad3400533688ed99a3d95930f244c925",
+   "regionMapSha256": "bbb62e419bb80d441554d21e91d323f5a39b20e6b8083cfb66dc1b565120ccd2",
+   "imageSha256": "bcdf874070afd699efe3e8e12c0b72ecf8b22fd4fb275a52fdad3a2d2f1e2fd9",
    "addedAt": "2026-10-23"
   },
   {
@@ -1031,8 +1031,8 @@
    "title": "Cat Cafe Girl",
    "category": "anime",
    "colorCount": 14,
-   "regionCount": 64,
-   "contentVersion": 26,
+   "regionCount": 62,
+   "contentVersion": 27,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/hd_cat_cafe_girl/thumbnail.jpg",
    "imageUrl": "artworks/anime/hd_cat_cafe_girl/image.jpg",
@@ -1045,8 +1045,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "50f60fbba252252ca06f51fed62c32061de07fa33e8d7fbe6f30df9d67c16f26",
-   "imageSha256": "ae11e3bf2e1637d2c7af4fa1851c0a9f2a098c55eb2fb84a6bbde3ba3309ea83",
+   "regionMapSha256": "4b1944b6942bd1b2ee6d358ec42c54089fba592c314898ce2f3f5d01d8d653b4",
+   "imageSha256": "d1ccc672e2674f4a54c73b3396acce5d72f136d0eb543913e3fae934cfcf1a13",
    "addedAt": "2026-10-23"
   },
   {
@@ -1055,7 +1055,7 @@
    "category": "nature",
    "colorCount": 9,
    "regionCount": 38,
-   "contentVersion": 26,
+   "contentVersion": 27,
    "isNew": true,
    "thumbnailUrl": "artworks/nature/hd_mountain_lake/thumbnail.jpg",
    "imageUrl": "artworks/nature/hd_mountain_lake/image.jpg",
@@ -1069,7 +1069,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "ce97407d7aa87973c34857be5ae52959e62c1bd67ab640f58c7e5c32c5a29513",
-   "imageSha256": "8e21a718221388ef1388731eb0e84dfc18fbe98547df3553120d585869579fad",
+   "imageSha256": "96b9fe5ce8d2c9ae15a43c443c4716ea0215f61f85520f272ff017aaa68c6367",
    "addedAt": "2026-10-23"
   },
   {
@@ -1078,7 +1078,7 @@
    "category": "flowers",
    "colorCount": 10,
    "regionCount": 45,
-   "contentVersion": 26,
+   "contentVersion": 27,
    "isNew": true,
    "thumbnailUrl": "artworks/flowers/hd_sunflower_pot/thumbnail.jpg",
    "imageUrl": "artworks/flowers/hd_sunflower_pot/image.jpg",
@@ -1092,7 +1092,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "02e9eeaa770ff647398898bcd143ae6dec11c174e1dc56ad23026dccbff8b731",
-   "imageSha256": "1e3c6a75c4a770b1127dd61404f1e5e6fbece799bdd4c4f3efe87235d94596ee",
+   "imageSha256": "fa3fb06419585cd9fadf541d2b464c3134b0daf3aee219b3a12cbdf8cd98139d",
    "addedAt": "2026-10-23"
   },
   {
@@ -1215,8 +1215,8 @@
    "title": "Flower Mandala",
    "category": "mandala",
    "colorCount": 17,
-   "regionCount": 160,
-   "contentVersion": 25,
+   "regionCount": 157,
+   "contentVersion": 26,
    "isNew": true,
    "thumbnailUrl": "artworks/mandala/hd_flower_mandala/thumbnail.jpg",
    "imageUrl": "artworks/mandala/hd_flower_mandala/image.jpg",
@@ -1229,8 +1229,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "863324f42aafba7088d1e2295695d1c267b62c928fd690bc65d9ffef4e070673",
-   "imageSha256": "4b783b0bd7c09544e03f38ac5207333e2d37c13c0e63bc027eab32b040639408",
+   "regionMapSha256": "a6f742779fc4ca0c9525f398c38367ffae4f8077324af21a176b47244cad61ac",
+   "imageSha256": "a7961feafbb2918d6dd8206f783ab4743ed6aaf55b53587163924027c9b250d1",
    "addedAt": "2026-10-23"
   },
   {
