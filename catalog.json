@@ -423,7 +423,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T10:15:10+00:00",
+ "updatedAt": "2026-10-23T10:27:40+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1092,6 +1092,52 @@
    "sourceUrl": null,
    "regionMapSha256": "02e9eeaa770ff647398898bcd143ae6dec11c174e1dc56ad23026dccbff8b731",
    "imageSha256": "1e3c6a75c4a770b1127dd61404f1e5e6fbece799bdd4c4f3efe87235d94596ee",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_baby_dragon",
+   "title": "Baby Dragon",
+   "category": "fantasy",
+   "colorCount": 18,
+   "regionCount": 104,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/fantasy/hd_baby_dragon/thumbnail.jpg",
+   "imageUrl": "artworks/fantasy/hd_baby_dragon/image.jpg",
+   "originalImageUrl": "artworks/fantasy/hd_baby_dragon/original.jpg",
+   "lineArtUrl": "artworks/fantasy/hd_baby_dragon/line_art.png",
+   "lineArtThumbnailUrl": "artworks/fantasy/hd_baby_dragon/line_art_thumb.webp",
+   "linePathsUrl": "artworks/fantasy/hd_baby_dragon/line_paths_v3.json",
+   "regionMapUrl": "artworks/fantasy/hd_baby_dragon/region_map.png",
+   "paintDataUrl": "artworks/fantasy/hd_baby_dragon/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "72a1fd6f1e326eec6ec65920fb95d6638864045ff06997dd9decd46c94cc999e",
+   "imageSha256": "589422aa9bf2f26a4c4a0a5cfd56bec32072cca64fbf77369ec4e7300ff4dd83",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_little_chef",
+   "title": "Little Chef",
+   "category": "characters",
+   "colorCount": 13,
+   "regionCount": 62,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/characters/hd_little_chef/thumbnail.jpg",
+   "imageUrl": "artworks/characters/hd_little_chef/image.jpg",
+   "originalImageUrl": "artworks/characters/hd_little_chef/original.jpg",
+   "lineArtUrl": "artworks/characters/hd_little_chef/line_art.png",
+   "lineArtThumbnailUrl": "artworks/characters/hd_little_chef/line_art_thumb.webp",
+   "linePathsUrl": "artworks/characters/hd_little_chef/line_paths_v3.json",
+   "regionMapUrl": "artworks/characters/hd_little_chef/region_map.png",
+   "paintDataUrl": "artworks/characters/hd_little_chef/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "71d8c6b198a1d0640edb6f8dad7b21470f9dbd0a67579b50e84ed16c5ccd3b53",
+   "imageSha256": "6d186034a474b150111267258bb2f509d0b54ea29bb6bc1728e2c8255a47b2ee",
    "addedAt": "2026-10-23"
   },
   {
