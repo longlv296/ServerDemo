@@ -429,7 +429,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T13:59:45+00:00",
+ "updatedAt": "2026-10-23T14:08:09+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1811,6 +1811,52 @@
    "sourceUrl": null,
    "regionMapSha256": "3509c724fd07990aeafe69e41229a3e7167e6bf833055de16dd5c0dd7ccbe596",
    "imageSha256": "fb20859a3ca45fcec89b17b24f0e95ca13457f56a96d47f84de26805a2d960d3",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_owl_family",
+   "title": "Owl Family",
+   "category": "animals",
+   "colorCount": 24,
+   "regionCount": 204,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/animals/hd_owl_family/thumbnail.jpg",
+   "imageUrl": "artworks/animals/hd_owl_family/image.jpg",
+   "originalImageUrl": "artworks/animals/hd_owl_family/original.jpg",
+   "lineArtUrl": "artworks/animals/hd_owl_family/line_art.png",
+   "lineArtThumbnailUrl": "artworks/animals/hd_owl_family/line_art_thumb.webp",
+   "linePathsUrl": "artworks/animals/hd_owl_family/line_paths_v3.json",
+   "regionMapUrl": "artworks/animals/hd_owl_family/region_map.png",
+   "paintDataUrl": "artworks/animals/hd_owl_family/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "08940e38edce4d8f0882453e8b6a65986773c81b625094694a059c79be0baa39",
+   "imageSha256": "f1b761a538315eacae07d6406b7ba3ca24ecce378be45c947c09606f9d78ef21",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_school_day",
+   "title": "School Day",
+   "category": "anime",
+   "colorCount": 17,
+   "regionCount": 219,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/hd_school_day/thumbnail.jpg",
+   "imageUrl": "artworks/anime/hd_school_day/image.jpg",
+   "originalImageUrl": "artworks/anime/hd_school_day/original.jpg",
+   "lineArtUrl": "artworks/anime/hd_school_day/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/hd_school_day/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/hd_school_day/line_paths_v3.json",
+   "regionMapUrl": "artworks/anime/hd_school_day/region_map.png",
+   "paintDataUrl": "artworks/anime/hd_school_day/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "2a5931560966678f354fda83144bf9efed3373c980c00ace675b97c321ba87a0",
+   "imageSha256": "c37a9dd531c85604c6fec0eac1fda2f0f8177d0bff08a90b10f00121f4f5daa9",
    "addedAt": "2026-10-23"
   },
   {
