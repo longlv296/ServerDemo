@@ -431,7 +431,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T05:51:21+00:00",
+ "updatedAt": "2026-10-26T06:06:15+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1083,9 +1083,9 @@
    "id": "hd_snowman_kids",
    "title": "Snow Day",
    "category": "christmas",
-   "colorCount": 12,
-   "regionCount": 86,
-   "contentVersion": 27,
+   "colorCount": 18,
+   "regionCount": 69,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/christmas/hd_snowman_kids/thumbnail.jpg",
    "imageUrl": "artworks/christmas/hd_snowman_kids/image.jpg",
@@ -1098,8 +1098,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "fca25843ce3646e1c2c1242dffa02b2683d314f48fd8372c919387f7cfb85bd6",
-   "imageSha256": "92e7665ffb5b7311717c5d4cf42c1ecffa6cc8bafe56cf2b3fab4f30c952ed06",
+   "regionMapSha256": "a15bd4b9b0b02fb653a25036f2b4c2b073c50ac56deab8b374772af2c1f590f1",
+   "imageSha256": "4f991b56adf56d1ffa327833e2c7d3f1c415362c81fd3fe75c5ef40b71ecfcef",
    "addedAt": "2026-10-23"
   },
   {
@@ -1175,9 +1175,9 @@
    "id": "hd_mountain_lake",
    "title": "Mountain Lake",
    "category": "nature",
-   "colorCount": 9,
-   "regionCount": 38,
-   "contentVersion": 27,
+   "colorCount": 12,
+   "regionCount": 29,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/nature/hd_mountain_lake/thumbnail.jpg",
    "imageUrl": "artworks/nature/hd_mountain_lake/image.jpg",
@@ -1190,17 +1190,17 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "ce97407d7aa87973c34857be5ae52959e62c1bd67ab640f58c7e5c32c5a29513",
-   "imageSha256": "96b9fe5ce8d2c9ae15a43c443c4716ea0215f61f85520f272ff017aaa68c6367",
+   "regionMapSha256": "99cdfb08de120c2dc7f2e31256801bbecf62eab2a1ef0a3457e53bb2363d1a38",
+   "imageSha256": "bf9e7bca0567bb5141be1ad987918aea2c893f06a9e30f22af7675a568e423e7",
    "addedAt": "2026-10-23"
   },
   {
    "id": "hd_sunflower_pot",
    "title": "Sunflower Pot",
    "category": "flowers",
-   "colorCount": 10,
-   "regionCount": 45,
-   "contentVersion": 27,
+   "colorCount": 12,
+   "regionCount": 42,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/flowers/hd_sunflower_pot/thumbnail.jpg",
    "imageUrl": "artworks/flowers/hd_sunflower_pot/image.jpg",
@@ -1213,8 +1213,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "02e9eeaa770ff647398898bcd143ae6dec11c174e1dc56ad23026dccbff8b731",
-   "imageSha256": "fa3fb06419585cd9fadf541d2b464c3134b0daf3aee219b3a12cbdf8cd98139d",
+   "regionMapSha256": "50fbefb64c357ca9d572e6383748e3020b79ae2e6483c9dfee1fd584d8b7c401",
+   "imageSha256": "b6aac270299604e1ef3f6734ee23f0c0ac844339dfe24555cf6cf9e3b1a9249a",
    "addedAt": "2026-10-23"
   },
   {
