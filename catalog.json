@@ -431,7 +431,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T04:46:30+00:00",
+ "updatedAt": "2026-10-26T05:51:21+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1037,9 +1037,9 @@
    "id": "hd_jungle_friends",
    "title": "Jungle Friends",
    "category": "animals",
-   "colorCount": 11,
-   "regionCount": 56,
-   "contentVersion": 27,
+   "colorCount": 19,
+   "regionCount": 44,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/hd_jungle_friends/thumbnail.jpg",
    "imageUrl": "artworks/animals/hd_jungle_friends/image.jpg",
@@ -1052,17 +1052,17 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "56778fbd08cb1d9c8c183423ab07e2d6afdca7e28bd627eea9890311a69ba4c5",
-   "imageSha256": "9ea7f21c5505b8474bb4f7e0ae7fcb7eb5bd443341ea3b068ad20a3125208c77",
+   "regionMapSha256": "9be4beb1cb1b4b9d340a38d892e59e689e3a0d29e2d8705d7c0673cb90b886c5",
+   "imageSha256": "4c14e5ea309da901542d9758ed5ae330197fe732ef9ccdcb270e22e8e3b1181e",
    "addedAt": "2026-10-23"
   },
   {
    "id": "hd_mermaid_friends",
    "title": "Little Mermaid",
    "category": "fairy_tale",
-   "colorCount": 14,
-   "regionCount": 89,
-   "contentVersion": 27,
+   "colorCount": 17,
+   "regionCount": 71,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/fairy_tale/hd_mermaid_friends/thumbnail.jpg",
    "imageUrl": "artworks/fairy_tale/hd_mermaid_friends/image.jpg",
@@ -1075,8 +1075,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "4ae27e0ab3793ddcd5f046d2e21506e72b402db38dbf15877807e0707c3bd12c",
-   "imageSha256": "8b170b933ea02c7b5703f6df4ad496bbfe7b997658e5f7ea258e66144b61d120",
+   "regionMapSha256": "a572a410a7677f7502fcc8800e120a2073e4b26a2a27b92b637d90c8e6955930",
+   "imageSha256": "0cc607f58aaa48f85f679bb40613ac5494a6477f4b3165c430d1f228150e5b9d",
    "addedAt": "2026-10-23"
   },
   {
