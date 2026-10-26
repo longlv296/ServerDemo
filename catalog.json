@@ -62,7 +62,8 @@
     "cb_scarecrow_crows",
     "cb_frankenstein_cute",
     "hd_pumpkin_pals",
-    "hd_witch_hat_kitty"
+    "hd_witch_hat_kitty",
+    "hd_candy_bag"
    ]
   },
   {
@@ -430,7 +431,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-23T14:45:29+00:00",
+ "updatedAt": "2026-10-26T02:36:02+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1951,6 +1952,29 @@
    "regionMapSha256": "57018d48435f9ac900e6752e1f5c57019a09b2486fe3228e9c8e22a18a0c63e4",
    "imageSha256": "464ee78da58a237215af9a82365a8b6466a043a4c741bbb8ee7fc4e5e3f5c742",
    "addedAt": "2026-10-23"
+  },
+  {
+   "id": "hd_candy_bag",
+   "title": "Candy Bag",
+   "category": "halloween",
+   "colorCount": 12,
+   "regionCount": 30,
+   "contentVersion": 25,
+   "isNew": true,
+   "thumbnailUrl": "artworks/halloween/hd_candy_bag/thumbnail.jpg",
+   "imageUrl": "artworks/halloween/hd_candy_bag/image.jpg",
+   "originalImageUrl": "artworks/halloween/hd_candy_bag/original.jpg",
+   "lineArtUrl": "artworks/halloween/hd_candy_bag/line_art.png",
+   "lineArtThumbnailUrl": "artworks/halloween/hd_candy_bag/line_art_thumb.webp",
+   "linePathsUrl": "artworks/halloween/hd_candy_bag/line_paths_v3.json",
+   "regionMapUrl": "artworks/halloween/hd_candy_bag/region_map.png",
+   "paintDataUrl": "artworks/halloween/hd_candy_bag/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "40d3e4678032ce3ca04aeef8f7111cce18e3ed58e3f48f95871f3517b619bc03",
+   "imageSha256": "ff1e8fecee36ae739617a89602855a4325894e562ec72415db6683e5e7a987f2",
+   "addedAt": "2026-10-26"
   },
   {
    "id": "cb_handdrawn_kitten",
