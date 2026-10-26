@@ -301,7 +301,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T07:14:42+00:00",
+ "updatedAt": "2026-10-26T07:25:20+00:00",
  "categories": [
   {
    "id": "animals",
@@ -5315,9 +5315,9 @@
    "id": "hd_pumpkin_pals",
    "title": "Pumpkin Pals",
    "category": "halloween",
-   "colorCount": 12,
-   "regionCount": 52,
-   "contentVersion": 27,
+   "colorCount": 16,
+   "regionCount": 69,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/halloween/hd_pumpkin_pals/thumbnail.jpg",
    "imageUrl": "artworks/halloween/hd_pumpkin_pals/image.jpg",
@@ -5330,8 +5330,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "815c01a6586bd51ef9863d4b506414adc5dc6aab6fb730d248b362d18678a225",
-   "imageSha256": "df623622672cb8c4d94e27893f26822a651bc143612cf0ef2fbd19eb0c78e37c",
+   "regionMapSha256": "b87ffde901c424dcb9163b38eef67dcc1e661cfe9fe2458d9594b4006152dc18",
+   "imageSha256": "cc43e942d30322a263e0069340b21a59fddda942459028c24640f5f425a42f33",
    "addedAt": "2026-10-23"
   },
   {
@@ -7820,9 +7820,9 @@
    "id": "hd_little_chef",
    "title": "Little Chef",
    "category": "characters",
-   "colorCount": 13,
-   "regionCount": 62,
-   "contentVersion": 27,
+   "colorCount": 19,
+   "regionCount": 48,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/characters/hd_little_chef/thumbnail.jpg",
    "imageUrl": "artworks/characters/hd_little_chef/image.jpg",
@@ -7835,8 +7835,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "0cce31332a398b2eae4ba7c8a4a5f44fc2665af8adda256d53197ec90d26a32b",
-   "imageSha256": "bf467cc2d852d57e0602689212536fc3a6240dc60728080d5258fc2bdd8d19a8",
+   "regionMapSha256": "d8772dd54134978d56fbb56fc5cabd6321cc226e4a1987767c0b76d2dcab9d8c",
+   "imageSha256": "6ec9594245fb22603ab1141a4445067d352bfa39f4f7955dd05a2301ecddb824",
    "addedAt": "2026-10-23"
   },
   {
