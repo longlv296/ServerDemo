@@ -431,7 +431,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T06:29:23+00:00",
+ "updatedAt": "2026-10-26T06:38:19+00:00",
  "categories": [
   {
    "id": "animals",
@@ -991,9 +991,9 @@
    "id": "hd_toy_train",
    "title": "Toy Train Ride",
    "category": "cartoon",
-   "colorCount": 16,
-   "regionCount": 113,
-   "contentVersion": 27,
+   "colorCount": 19,
+   "regionCount": 122,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/cartoon/hd_toy_train/thumbnail.jpg",
    "imageUrl": "artworks/cartoon/hd_toy_train/image.jpg",
@@ -1006,8 +1006,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "215b922cfe84652f743b613c8ec6f6496322e5e75c06c4a932398d3b24576356",
-   "imageSha256": "8d18e18b20fa786e625a318ec3564a1cdf92a7f487a4cfb69d8d3529da90afc5",
+   "regionMapSha256": "ba3a4af9f991118368fbd402f2355162148a96f44e86ef2f296b244381ca3550",
+   "imageSha256": "a1ff04ce53e43fcac4b07ce60c0b581762b54a6cbf7e1ebea15f0ab1ffe57e36",
    "addedAt": "2026-10-23"
   },
   {
