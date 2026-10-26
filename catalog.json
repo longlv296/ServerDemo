@@ -252,7 +252,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T08:27:17+00:00",
+ "updatedAt": "2026-10-26T08:37:57+00:00",
  "categories": [
   {
    "id": "animals",
@@ -2365,9 +2365,9 @@
    "id": "hd_rainy_night_study",
    "title": "Rainy Night Study",
    "category": "anime",
-   "colorCount": 20,
+   "colorCount": 24,
    "regionCount": 201,
-   "contentVersion": 29,
+   "contentVersion": 30,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/hd_rainy_night_study/thumbnail.jpg",
    "imageUrl": "artworks/anime/hd_rainy_night_study/image.jpg",
@@ -2381,7 +2381,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "928d83e66940efb25eecbd82d6a9a09005c399a09ae00a6027d315ce9574f932",
-   "imageSha256": "be45b42222ef584c69a7571eb9215b43473ae59613f4fc2f523d040e90ffa45c",
+   "imageSha256": "4b4a8d806d549d57ad24bbaea4a28513c603df8d3bf3f072357583a8bec33c1d",
    "addedAt": "2026-10-26"
   },
   {
@@ -4369,9 +4369,9 @@
    "id": "hd_cozy_cat_evening",
    "title": "Cozy Cat Evening",
    "category": "anime",
-   "colorCount": 21,
+   "colorCount": 24,
    "regionCount": 400,
-   "contentVersion": 29,
+   "contentVersion": 30,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/hd_cozy_cat_evening/thumbnail.jpg",
    "imageUrl": "artworks/anime/hd_cozy_cat_evening/image.jpg",
@@ -4385,7 +4385,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "4c82e84ab6d6ba7fb8c2e4bc637a9d6956449c3345d5527a520e844d58267b0d",
-   "imageSha256": "b1cb26f313cd18772857c2a056d95bd1690de468a90ca2626411ab3d4400ceaf",
+   "imageSha256": "917b8ef76327ea5f6ebdab8d29a294fcfa42901b3e90b473e6cf40a1be8cf3c6",
    "addedAt": "2026-10-26"
   },
   {
