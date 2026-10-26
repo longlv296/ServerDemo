@@ -431,7 +431,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T06:12:36+00:00",
+ "updatedAt": "2026-10-26T06:29:23+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1016,7 +1016,7 @@
    "category": "food",
    "colorCount": 19,
    "regionCount": 61,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/food/hd_bunny_bakery/thumbnail.jpg",
    "imageUrl": "artworks/food/hd_bunny_bakery/image.jpg",
@@ -1030,7 +1030,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "2b93a10f4a1335a9cf061ae5a348785d006f7edf8895b9defccd05d4be6f2cf3",
-   "imageSha256": "cb0dfe8b7d74941e538439fc5fba759d5bee78b5deb66340ee78729864461aae",
+   "imageSha256": "243ff105f78580af4b5053937f511e2e054a93ae7d88424a484faea28be742cb",
    "addedAt": "2026-10-23"
   },
   {
@@ -1039,7 +1039,7 @@
    "category": "animals",
    "colorCount": 19,
    "regionCount": 44,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/animals/hd_jungle_friends/thumbnail.jpg",
    "imageUrl": "artworks/animals/hd_jungle_friends/image.jpg",
@@ -1053,7 +1053,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "9be4beb1cb1b4b9d340a38d892e59e689e3a0d29e2d8705d7c0673cb90b886c5",
-   "imageSha256": "4c14e5ea309da901542d9758ed5ae330197fe732ef9ccdcb270e22e8e3b1181e",
+   "imageSha256": "5b52fb7df7cefcdff610a9754cc5a152a323780ecd0af991ab632348e9c87a80",
    "addedAt": "2026-10-23"
   },
   {
@@ -1062,7 +1062,7 @@
    "category": "fairy_tale",
    "colorCount": 17,
    "regionCount": 71,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/fairy_tale/hd_mermaid_friends/thumbnail.jpg",
    "imageUrl": "artworks/fairy_tale/hd_mermaid_friends/image.jpg",
@@ -1076,7 +1076,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "a572a410a7677f7502fcc8800e120a2073e4b26a2a27b92b637d90c8e6955930",
-   "imageSha256": "0cc607f58aaa48f85f679bb40613ac5494a6477f4b3165c430d1f228150e5b9d",
+   "imageSha256": "803a91b2b65ed05561ec7e36457a7d42e5f9a5ac89133ba46da3b0539f08230f",
    "addedAt": "2026-10-23"
   },
   {
@@ -1108,7 +1108,7 @@
    "category": "characters",
    "colorCount": 17,
    "regionCount": 84,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/characters/hd_girl_ducks/thumbnail.jpg",
    "imageUrl": "artworks/characters/hd_girl_ducks/image.jpg",
@@ -1122,7 +1122,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "862621ac69df82b606d6f60367e2d8fd6f9ef7631fe718a72bd689e5128ab40f",
-   "imageSha256": "8d8b3b6e100f13ae56e323a07b67101b2a23a748de66844ae800fd8054ed53da",
+   "imageSha256": "0e1defc968fb4862bc45cef2199e3ee9ecf8b3a515357db36f13a1f067db742b",
    "addedAt": "2026-10-23"
   },
   {
@@ -1131,7 +1131,7 @@
    "category": "nature",
    "colorCount": 19,
    "regionCount": 104,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/nature/hd_fishing_kids/thumbnail.jpg",
    "imageUrl": "artworks/nature/hd_fishing_kids/image.jpg",
@@ -1145,7 +1145,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "5f8a66cce3df1b4b152a6629b31dd2ab2a5a43b2766e25a6fb58c85ac04c0692",
-   "imageSha256": "162078d27082e69a56118ddfa8001a6bcc0c162b5a85e8d004f4fec2d19134ec",
+   "imageSha256": "90dba64e6935ad47135ca77a9598ae1805c5d48a75e1fffcd7bf043d13d69f74",
    "addedAt": "2026-10-23"
   },
   {
@@ -1154,7 +1154,7 @@
    "category": "anime",
    "colorCount": 19,
    "regionCount": 71,
-   "contentVersion": 29,
+   "contentVersion": 30,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/hd_cat_cafe_girl/thumbnail.jpg",
    "imageUrl": "artworks/anime/hd_cat_cafe_girl/image.jpg",
@@ -1168,7 +1168,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "e3e1084144d1be5c79590e11cb61b000a79e91430d3bc5dd35469f304de82f20",
-   "imageSha256": "2c1825352e2374a310269b3a3479d6b7b38c5fba5aec559613c38d771f421aee",
+   "imageSha256": "65fdd60f103db9c6d5d814dda2e30f5a73c3996ab0fa39107da89edcc5bdb208",
    "addedAt": "2026-10-23"
   },
   {
@@ -1177,7 +1177,7 @@
    "category": "nature",
    "colorCount": 12,
    "regionCount": 29,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/nature/hd_mountain_lake/thumbnail.jpg",
    "imageUrl": "artworks/nature/hd_mountain_lake/image.jpg",
@@ -1191,7 +1191,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "99cdfb08de120c2dc7f2e31256801bbecf62eab2a1ef0a3457e53bb2363d1a38",
-   "imageSha256": "bf9e7bca0567bb5141be1ad987918aea2c893f06a9e30f22af7675a568e423e7",
+   "imageSha256": "96396a99f0ed5c13275154fa80a2c61b8cb74a2aa11081287f92d38af58ffbf2",
    "addedAt": "2026-10-23"
   },
   {
@@ -1200,7 +1200,7 @@
    "category": "flowers",
    "colorCount": 12,
    "regionCount": 42,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/flowers/hd_sunflower_pot/thumbnail.jpg",
    "imageUrl": "artworks/flowers/hd_sunflower_pot/image.jpg",
@@ -1214,7 +1214,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "50fbefb64c357ca9d572e6383748e3020b79ae2e6483c9dfee1fd584d8b7c401",
-   "imageSha256": "b6aac270299604e1ef3f6734ee23f0c0ac844339dfe24555cf6cf9e3b1a9249a",
+   "imageSha256": "6ade4fb8e8f081e81b10c6464191e5b48d3bd37bc1698b348f1f968da56aa2d8",
    "addedAt": "2026-10-23"
   },
   {
