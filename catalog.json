@@ -252,7 +252,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T09:21:49.672717Z",
+ "updatedAt": "2026-10-26T09:34:30+00:00",
  "categories": [
   {
    "id": "animals",
@@ -7689,9 +7689,9 @@
    "id": "hd_rainbow_hills",
    "title": "Rainbow Hills",
    "category": "nature",
-   "colorCount": 20,
-   "regionCount": 308,
-   "contentVersion": 26,
+   "colorCount": 31,
+   "regionCount": 181,
+   "contentVersion": 27,
    "isNew": true,
    "thumbnailUrl": "artworks/nature/hd_rainbow_hills/thumbnail.jpg",
    "imageUrl": "artworks/nature/hd_rainbow_hills/image.jpg",
@@ -7704,8 +7704,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "74e521d15f13bdc4a3815686858a93087adeffdb69a14f54f27074562ae60b53",
-   "imageSha256": "8384b52d0c598836e33428f529be4e810a9803760199a7a0494fd330eab206e7",
+   "regionMapSha256": "01b0f74d3fa73ea5b98c4e1fce459feae94881a1a03e222ddfe55bebe307aa81",
+   "imageSha256": "d4f2aa935495592f4f70727a6a0abc5ee6f42a04df14f2bb69a524364eb39acc",
    "addedAt": "2026-10-23"
   },
   {
@@ -8172,9 +8172,9 @@
    "id": "hd_magical_girl",
    "title": "Magical Girl",
    "category": "anime",
-   "colorCount": 17,
-   "regionCount": 124,
-   "contentVersion": 26,
+   "colorCount": 24,
+   "regionCount": 172,
+   "contentVersion": 27,
    "isNew": true,
    "thumbnailUrl": "artworks/anime/hd_magical_girl/thumbnail.jpg",
    "imageUrl": "artworks/anime/hd_magical_girl/image.jpg",
@@ -8187,8 +8187,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "4d5a3afb3507eb189097c341a8dce18da455bb8136e14a5f465a93a948eb4a65",
-   "imageSha256": "112ce84ade1d0f8433b560db2d0eb5bd7a523a40d95c15615c48b82fec481e7a",
+   "regionMapSha256": "2441077a82be304530cba91cc553d15bcb088ff868d36b2be7da0f2804335c85",
+   "imageSha256": "937d5ec5ca114b8b29a148cccebb58bcfce60cb6f6e020b158d518c3a52006e9",
    "addedAt": "2026-10-23"
   },
   {
