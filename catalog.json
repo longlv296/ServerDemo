@@ -252,7 +252,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T08:03:28+00:00",
+ "updatedAt": "2026-10-26T08:27:17+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1798,9 +1798,9 @@
    "id": "hd_party_dress",
    "title": "Party Dress",
    "category": "fashion",
-   "colorCount": 12,
-   "regionCount": 42,
-   "contentVersion": 26,
+   "colorCount": 19,
+   "regionCount": 68,
+   "contentVersion": 27,
    "isNew": true,
    "thumbnailUrl": "artworks/fashion/hd_party_dress/thumbnail.jpg",
    "imageUrl": "artworks/fashion/hd_party_dress/image.jpg",
@@ -1813,8 +1813,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "6f4a5f01126a3a9ce66e3c7fb6a9edac3f5701f13c8fb43852fd2b96afcb58b5",
-   "imageSha256": "601368e2bbb3a0f4b83f48e0a3de7e5ff6865ddfe6640262ebc5dd7bb95a34eb",
+   "regionMapSha256": "b22c5ec60f7237ac6677883cb64854afd3fee3e9016e39fe1e5e0e29f08b0fe4",
+   "imageSha256": "27d7585042d47dbb6bbd87b11c2e94cc68912aa467d565dc8b0279f333173969",
    "addedAt": "2026-10-23"
   },
   {
