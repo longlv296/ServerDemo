@@ -252,7 +252,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T09:00:00Z",
+ "updatedAt": "2026-10-26T09:21:49.672717Z",
  "categories": [
   {
    "id": "animals",
@@ -693,6 +693,29 @@
   }
  ],
  "artworks": [
+  {
+   "id": "hd_cozy_rainy_window_square",
+   "title": "Cozy Rainy Window",
+   "category": "anime",
+   "colorCount": 18,
+   "regionCount": 309,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/hd_cozy_rainy_window_square/thumbnail.jpg",
+   "imageUrl": "artworks/anime/hd_cozy_rainy_window_square/image.jpg",
+   "originalImageUrl": "artworks/anime/hd_cozy_rainy_window_square/original.jpg",
+   "lineArtUrl": "artworks/anime/hd_cozy_rainy_window_square/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/hd_cozy_rainy_window_square/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/hd_cozy_rainy_window_square/line_paths_v3.json",
+   "regionMapUrl": "artworks/anime/hd_cozy_rainy_window_square/region_map.png",
+   "paintDataUrl": "artworks/anime/hd_cozy_rainy_window_square/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "05080b77536a10dea96d05664e129b575fe75c0e7a2b6534566670ed898a72a3",
+   "imageSha256": "61ac141e1d04d41076eca3475b28c2a526249982cccb1a6f3e7a740990e24def",
+   "addedAt": "2026-10-26"
+  },
   {
    "id": "hd_redraw_twin_tail_singer",
    "title": "Aqua Twin-Tail Singer",
