@@ -431,7 +431,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T02:36:02+00:00",
+ "updatedAt": "2026-10-26T04:17:07+00:00",
  "categories": [
   {
    "id": "animals",
@@ -872,6 +872,52 @@
   }
  ],
  "artworks": [
+  {
+   "id": "hd_rainy_night_study",
+   "title": "Rainy Night Study",
+   "category": "anime",
+   "colorCount": 20,
+   "regionCount": 203,
+   "contentVersion": 28,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/hd_rainy_night_study/thumbnail.jpg",
+   "imageUrl": "artworks/anime/hd_rainy_night_study/image.jpg",
+   "originalImageUrl": "artworks/anime/hd_rainy_night_study/original.jpg",
+   "lineArtUrl": "artworks/anime/hd_rainy_night_study/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/hd_rainy_night_study/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/hd_rainy_night_study/line_paths_v3.json",
+   "regionMapUrl": "artworks/anime/hd_rainy_night_study/region_map.png",
+   "paintDataUrl": "artworks/anime/hd_rainy_night_study/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "d26aacd9d862cc083995f14fa87225c5022e8c2f7c67d3defd447cad37cb1475",
+   "imageSha256": "98f75a396ee96fd53a650620137c150dec7ae1e07e4c83f464e3cf33e831fd69",
+   "addedAt": "2026-10-26"
+  },
+  {
+   "id": "hd_cozy_cat_evening",
+   "title": "Cozy Cat Evening",
+   "category": "anime",
+   "colorCount": 21,
+   "regionCount": 400,
+   "contentVersion": 28,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/hd_cozy_cat_evening/thumbnail.jpg",
+   "imageUrl": "artworks/anime/hd_cozy_cat_evening/image.jpg",
+   "originalImageUrl": "artworks/anime/hd_cozy_cat_evening/original.jpg",
+   "lineArtUrl": "artworks/anime/hd_cozy_cat_evening/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/hd_cozy_cat_evening/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/hd_cozy_cat_evening/line_paths_v3.json",
+   "regionMapUrl": "artworks/anime/hd_cozy_cat_evening/region_map.png",
+   "paintDataUrl": "artworks/anime/hd_cozy_cat_evening/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "45c28f770233fe4f115ad20e82019d3bc11fdc469440b753a24c282eab660fc2",
+   "imageSha256": "04c9e12c2f85f04a758666d5dba0a7a3a22a1783804b619c17368da99d184012",
+   "addedAt": "2026-10-26"
+  },
   {
    "id": "hd_toy_train",
    "title": "Toy Train Ride",
