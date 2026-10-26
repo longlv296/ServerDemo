@@ -431,7 +431,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T06:41:31+00:00",
+ "updatedAt": "2026-10-26T06:45:14+00:00",
  "categories": [
   {
    "id": "animals",
@@ -1016,7 +1016,7 @@
    "category": "christmas",
    "colorCount": 18,
    "regionCount": 69,
-   "contentVersion": 28,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/christmas/hd_snowman_kids/thumbnail.jpg",
    "imageUrl": "artworks/christmas/hd_snowman_kids/image.jpg",
@@ -1030,7 +1030,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "a15bd4b9b0b02fb653a25036f2b4c2b073c50ac56deab8b374772af2c1f590f1",
-   "imageSha256": "4f991b56adf56d1ffa327833e2c7d3f1c415362c81fd3fe75c5ef40b71ecfcef",
+   "imageSha256": "7a081ffff3dc097fdb107cb2e648d7ed160645008bf3698ff4a5b9786e907ff7",
    "addedAt": "2026-10-23"
   },
   {
