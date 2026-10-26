@@ -258,7 +258,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-26T07:58:29+00:00",
+ "updatedAt": "2026-10-26T07:59:01+00:00",
  "categories": [
   {
    "id": "animals",
@@ -2793,9 +2793,9 @@
    "id": "hd_goal_time",
    "title": "Goal Time",
    "category": "sports",
-   "colorCount": 18,
-   "regionCount": 234,
-   "contentVersion": 28,
+   "colorCount": 24,
+   "regionCount": 189,
+   "contentVersion": 29,
    "isNew": true,
    "thumbnailUrl": "artworks/sports/hd_goal_time/thumbnail.jpg",
    "imageUrl": "artworks/sports/hd_goal_time/image.jpg",
@@ -2808,8 +2808,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "08252dd0ce04595d1928f1dfdca0ce77b5a7a5b473d10ca698a23106c3972ab3",
-   "imageSha256": "7cfa9647632cd080976adc671cb6547c38a6fd4cc8cada89e0acb9fbde61a98c",
+   "regionMapSha256": "8414c0d340fccab322ae574bbe90cadfb900b1400008e72413ffc95d7b45b398",
+   "imageSha256": "fbc2cba7a14b6faa2d4b23d061efc7c654b64688ae78cb612f2a6b455ffa069e",
    "addedAt": "2026-10-23"
   },
   {
@@ -8270,9 +8270,9 @@
    "id": "hd_reindeer_friend",
    "title": "Reindeer Friend",
    "category": "christmas",
-   "colorCount": 17,
-   "regionCount": 137,
-   "contentVersion": 27,
+   "colorCount": 23,
+   "regionCount": 138,
+   "contentVersion": 28,
    "isNew": true,
    "thumbnailUrl": "artworks/christmas/hd_reindeer_friend/thumbnail.jpg",
    "imageUrl": "artworks/christmas/hd_reindeer_friend/image.jpg",
@@ -8285,8 +8285,8 @@
    "license": null,
    "creator": null,
    "sourceUrl": null,
-   "regionMapSha256": "6a8308e2af62c762ae2ed780a9ef2d6b736e3860296c4898b5f8320dc8bc5fab",
-   "imageSha256": "9f0710a53915e00795aaa6aa2cb4de5d472021a32390db8574fc7d03058881fc",
+   "regionMapSha256": "159e6c5221bd11586bfba07222bd5186ed5ad525149b09a15456d6a9e0dd1647",
+   "imageSha256": "e9ab391c011f312333bd8753eb739b3bec9be5310ecd0d907a9cdcdd7e9ec3ed",
    "addedAt": "2026-10-23"
   },
   {
