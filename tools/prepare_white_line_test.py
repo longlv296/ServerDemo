@@ -28,10 +28,18 @@ VARIANTS = (
     ("test_whitefix_current_lines", "TEST A - Paths fixed, current lines", False),
     ("test_whitefix_clean_lines", "TEST B - Paths fixed + clean lines", True),
 )
-CONTENT_VERSION = 2
+CONTENT_VERSION = 3
 INK_THRESHOLD = 8.0
 INK_BLUR_SIGMA = 2.2
 INK_SUPPORT_RADIUS = 2
+LINE_SCALE = 4
+LINE_RELATIVE_THRESHOLD = 0.5
+LINE_MIN_ALPHA = 36
+LINE_MAX_ALPHA = 120
+LINE_SMOOTH_SIGMA = 0.8
+LINE_CLOSE_RADIUS = 1
+LINE_MIN_SPECK_AREA = 4.0
+LINE_MIN_HOLE_AREA = 6.0
 
 
 def sha256(path: Path) -> str:
@@ -48,7 +56,56 @@ def rgb_to_lab(rgb: np.ndarray) -> np.ndarray:
     return cv2.cvtColor(shaped, cv2.COLOR_RGB2LAB).reshape(np.shape(rgb))
 
 
-def preserve_paper_paths(data: dict, map_path: Path, image_path: Path) -> tuple[dict, np.ndarray, dict]:
+def fill_small_line_holes(mask: np.ndarray) -> np.ndarray:
+    count, labels, stats, _ = cv2.connectedComponentsWithStats(1 - mask, connectivity=4)
+    if count <= 1:
+        return mask
+    fill = stats[:, cv2.CC_STAT_AREA] < LINE_MIN_HOLE_AREA * LINE_SCALE * LINE_SCALE
+    border = np.unique(np.concatenate((labels[0], labels[-1], labels[:, 0], labels[:, -1])))
+    fill[border] = False
+    fill[0] = False
+    result = mask.copy()
+    result[fill[labels]] = 1
+    return result
+
+
+def source_line_pixels(line_art_path: Path) -> np.ndarray:
+    """The data pixels covered by the original vectorized lines.
+
+    This mirrors the max-stroke-width=0 mask used by the artwork generator. The mask is needed
+    even for the clean-line variant: hidden borders still need their two color regions to meet at
+    the former line centre instead of leaving a strip owned entirely by one side.
+    """
+    alpha = np.asarray(Image.open(line_art_path).convert("RGBA"), dtype=np.uint8)[..., 3]
+    height, width = alpha.shape
+    upscaled = cv2.resize(
+        alpha.astype(np.float32),
+        (width * LINE_SCALE, height * LINE_SCALE),
+        interpolation=cv2.INTER_CUBIC,
+    )
+    upscaled = cv2.GaussianBlur(upscaled, (0, 0), LINE_SMOOTH_SIGMA * LINE_SCALE)
+    nearby = cv2.dilate(upscaled, np.ones((2 * LINE_SCALE + 1, 2 * LINE_SCALE + 1), np.uint8))
+    threshold = np.clip(nearby * LINE_RELATIVE_THRESHOLD, LINE_MIN_ALPHA, LINE_MAX_ALPHA)
+    mask = (upscaled >= threshold).astype(np.uint8)
+    disk = cv2.getStructuringElement(
+        cv2.MORPH_ELLIPSE,
+        (2 * LINE_CLOSE_RADIUS + 1, 2 * LINE_CLOSE_RADIUS + 1),
+    )
+    mask = cv2.morphologyEx(mask, cv2.MORPH_CLOSE, disk)
+    _, components, stats, _ = cv2.connectedComponentsWithStats(mask, connectivity=8)
+    keep = stats[:, cv2.CC_STAT_AREA] >= LINE_MIN_SPECK_AREA * LINE_SCALE * LINE_SCALE
+    keep[0] = False
+    mask = fill_small_line_holes(keep[components].astype(np.uint8))
+    coverage = cv2.resize(mask.astype(np.float32), (width, height), interpolation=cv2.INTER_AREA)
+    return coverage > 0
+
+
+def preserve_paper_paths(
+    data: dict,
+    map_path: Path,
+    image_path: Path,
+    line_art_path: Path,
+) -> tuple[dict, np.ndarray, dict]:
     """Turn each id-0 component into its own region, colored from its source pixels.
 
     The old repair assigned an entire component to an existing region of a similar color. That
@@ -65,6 +122,7 @@ def preserve_paper_paths(data: dict, map_path: Path, image_path: Path) -> tuple[
     palette_lab = rgb_to_lab(np.array([entry["rgb"] for entry in data["palette"]], dtype=np.uint8))
 
     next_id = max(int(labels.max()), max(region["id"] for region in data["regions"])) + 1
+    first_added_id = next_id
     added = []
     for component, box in enumerate(objects, start=1):
         if box is None:
@@ -93,13 +151,47 @@ def preserve_paper_paths(data: dict, map_path: Path, image_path: Path) -> tuple[
         )
         next_id += 1
 
+    # The old map assigned every pixel under a surrounding line to a large paintable region,
+    # because the small paths were still id 0 at that point. Re-run that ownership decision with
+    # the new paths as anchors, but change only pixels whose nearest owner is a new path. Existing
+    # region-to-region boundaries therefore remain byte-for-byte untouched.
+    under_lines = source_line_pixels(line_art_path)
+    new_path_pixels = labels >= first_added_id
+    anchors = ((labels > 0) & ~under_lines) | new_path_pixels
+    _, nearest = cv2.distanceTransformWithLabels(
+        (~anchors).astype(np.uint8),
+        cv2.DIST_L2,
+        5,
+        labelType=cv2.DIST_LABEL_PIXEL,
+    )
+    rows, columns = np.nonzero(anchors)
+    owner = np.zeros(int(nearest.max()) + 1, dtype=np.int32)
+    owner[nearest[rows, columns]] = labels[rows, columns]
+    nearest_owner = owner[nearest]
+    claimed_boundary = under_lines & (nearest_owner >= first_added_id) & ~new_path_pixels
+    labels[claimed_boundary] = nearest_owner[claimed_boundary]
+
     result = copy.deepcopy(data)
     result["regions"].extend(added)
+    areas = np.bincount(labels.ravel(), minlength=next_id)
+    spans = ndimage.find_objects(labels)
+    for region in result["regions"]:
+        region_id = region["id"]
+        span = spans[region_id - 1]
+        region["area"] = int(areas[region_id])
+        region["bounds"] = {
+            "left": span[1].start,
+            "top": span[0].start,
+            "right": span[1].stop,
+            "bottom": span[0].stop,
+        }
     result["contentVersion"] = CONTENT_VERSION
     stats = {
-        "strategy": "separate-source-colored-paths",
+        "strategy": "separate-source-colored-paths-with-centered-boundaries",
         "sourcePaperComponents": count,
         "newRegions": len(added),
+        "boundaryPixelsReassigned": int(claimed_boundary.sum()),
+        "pathsExpandedUnderLines": int(np.unique(labels[claimed_boundary]).size),
         "paperPixelsAfter": int((labels == 0).sum()),
     }
     result.setdefault("generation", {})["paperPaths"] = stats
@@ -212,7 +304,10 @@ def main() -> None:
     source = next(artwork for artwork in catalog["artworks"] if artwork["id"] == SOURCE_ID)
     source_data = json.loads((SOURCE / "paint_data.json").read_text(encoding="utf-8"))
     path_data, path_labels, path_stats = preserve_paper_paths(
-        source_data, SOURCE / "region_map.png", SOURCE / "image.jpg"
+        source_data,
+        SOURCE / "region_map.png",
+        SOURCE / "image.jpg",
+        SOURCE / "line_art.png",
     )
     test_ids = {artwork_id for artwork_id, _, _ in VARIANTS}
     catalog["artworks"] = [
