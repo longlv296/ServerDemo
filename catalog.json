@@ -722,7 +722,7 @@
    "category": "butterfly",
    "colorCount": 18,
    "regionCount": 407,
-   "contentVersion": 3,
+   "contentVersion": 4,
    "isNew": true,
    "thumbnailUrl": "artworks/butterfly/hd_butterfly_moonlit_glass_conservatory/thumbnail.jpg",
    "imageUrl": "artworks/butterfly/hd_butterfly_moonlit_glass_conservatory/image.jpg",
@@ -736,7 +736,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "78bc097baeb5de8505d9c7d2a7f6ff059b576f7894d49e85255156c99468d9d0",
-   "imageSha256": "e66e4fe6bc1d018383e27a95d9bb04eff5f2489c277d35a2cdc164d2ae8c8069",
+   "imageSha256": "29881f022ea6494bd5e658636667a067b98fe6b29099a86c0af95b3675fb2786",
    "addedAt": "2026-10-27"
   },
   {
@@ -1573,7 +1573,7 @@
    "category": "butterfly",
    "colorCount": 18,
    "regionCount": 522,
-   "contentVersion": 3,
+   "contentVersion": 4,
    "isNew": true,
    "thumbnailUrl": "artworks/butterfly/hd_butterfly_woodland_mushroom_creek/thumbnail.jpg",
    "imageUrl": "artworks/butterfly/hd_butterfly_woodland_mushroom_creek/image.jpg",
@@ -1587,7 +1587,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "caa221612ffa8820894e78a533f834db8a0b2caf95e0853ebf9469125b7359f6",
-   "imageSha256": "0ec8694702d8e66018af72d96a15e0e588a67567b9740aebe1fb05072d112881",
+   "imageSha256": "65fcf7dfd49b9a0b4c5efde7ff2464741e50c88b5bcc43ced066f65423c56c40",
    "addedAt": "2026-10-27"
   },
   {
@@ -3344,7 +3344,7 @@
    "category": "butterfly",
    "colorCount": 18,
    "regionCount": 401,
-   "contentVersion": 3,
+   "contentVersion": 4,
    "isNew": true,
    "thumbnailUrl": "artworks/butterfly/hd_butterfly_desert_cactus_dawn/thumbnail.jpg",
    "imageUrl": "artworks/butterfly/hd_butterfly_desert_cactus_dawn/image.jpg",
@@ -3358,7 +3358,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "88b80d130171391492981b1487cbb0d1e05c5b8f9cd1f483b912c84dc263f6e0",
-   "imageSha256": "94ebe4e01f66b8ee677018690ae50fe54aeffca41202bda94221a1235b63895d",
+   "imageSha256": "a5674dac67d8d9f41cb35a97968ca61237dc3936ce4ff1ba9988f2d08581a8d6",
    "addedAt": "2026-10-27"
   },
   {
