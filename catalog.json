@@ -252,7 +252,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-27T11:07:07+07:00",
+ "updatedAt": "2026-10-27T11:16:39+07:00",
  "categories": [
   {
    "id": "animals",
@@ -688,11 +688,126 @@
    },
    "icon": {
     "type": "emoji",
-    "value": "🕉️"
+   "value": "🕉️"
+   }
+  },
+  {
+   "id": "new_year",
+   "name": "New Year",
+   "names": {
+    "hi": "नव वर्ष",
+    "es": "Año Nuevo",
+    "pt": "Ano Novo",
+    "de": "Neujahr",
+    "vi": "Năm mới",
+    "fr": "Nouvel An",
+    "ha": "Sabuwar Shekara",
+    "af": "Nuwejaar",
+    "zh": "新年",
+    "id": "Tahun Baru",
+    "bn": "নববর্ষ",
+    "tr": "Yeni Yıl",
+    "ar": "رأس السنة"
+   },
+   "icon": {
+    "type": "emoji",
+    "value": "🎆"
    }
   }
  ],
  "artworks": [
+  {
+   "id": "hd_new_year_rooftop_countdown",
+   "title": "Rooftop New Year Countdown",
+   "category": "new_year",
+   "colorCount": 18,
+   "regionCount": 264,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/new_year/hd_new_year_rooftop_countdown/thumbnail.jpg",
+   "imageUrl": "artworks/new_year/hd_new_year_rooftop_countdown/image.jpg",
+   "originalImageUrl": "artworks/new_year/hd_new_year_rooftop_countdown/original.jpg",
+   "lineArtUrl": "artworks/new_year/hd_new_year_rooftop_countdown/line_art.png",
+   "lineArtThumbnailUrl": "artworks/new_year/hd_new_year_rooftop_countdown/line_art_thumb.webp",
+   "linePathsUrl": "artworks/new_year/hd_new_year_rooftop_countdown/line_paths_v3.json",
+   "regionMapUrl": "artworks/new_year/hd_new_year_rooftop_countdown/region_map.png",
+   "paintDataUrl": "artworks/new_year/hd_new_year_rooftop_countdown/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "75394cc18d712c4ef1f4f31dd55f10e4cfba6d59b45efc7d0e456e3a839056e2",
+   "imageSha256": "6e1b259a9f8de78ff2e52ec990392933fcf0e140b3a5784d73c9e9be39e501d8",
+   "addedAt": "2026-10-27"
+  },
+  {
+   "id": "hd_new_year_family_lantern_dinner",
+   "title": "Family Lantern Dinner",
+   "category": "new_year",
+   "colorCount": 18,
+   "regionCount": 367,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/thumbnail.jpg",
+   "imageUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/image.jpg",
+   "originalImageUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/original.jpg",
+   "lineArtUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/line_art.png",
+   "lineArtThumbnailUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/line_art_thumb.webp",
+   "linePathsUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/line_paths_v3.json",
+   "regionMapUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/region_map.png",
+   "paintDataUrl": "artworks/new_year/hd_new_year_family_lantern_dinner/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "dcf67cca7154e2359b1aa69fa425c1da77be01611bf0d009a4f9201cb16a3780",
+   "imageSha256": "9140d82bd588f9a386344748846814144c127d3e8e8fd27e5f470865296d4646",
+   "addedAt": "2026-10-27"
+  },
+  {
+   "id": "hd_new_year_winter_clock_tower",
+   "title": "Winter Clock Tower Midnight",
+   "category": "new_year",
+   "colorCount": 18,
+   "regionCount": 337,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/new_year/hd_new_year_winter_clock_tower/thumbnail.jpg",
+   "imageUrl": "artworks/new_year/hd_new_year_winter_clock_tower/image.jpg",
+   "originalImageUrl": "artworks/new_year/hd_new_year_winter_clock_tower/original.jpg",
+   "lineArtUrl": "artworks/new_year/hd_new_year_winter_clock_tower/line_art.png",
+   "lineArtThumbnailUrl": "artworks/new_year/hd_new_year_winter_clock_tower/line_art_thumb.webp",
+   "linePathsUrl": "artworks/new_year/hd_new_year_winter_clock_tower/line_paths_v3.json",
+   "regionMapUrl": "artworks/new_year/hd_new_year_winter_clock_tower/region_map.png",
+   "paintDataUrl": "artworks/new_year/hd_new_year_winter_clock_tower/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "f134f5728a05206adc2ee1f639d2be27339d35ee5ea27a0637fa716e35ac99bc",
+   "imageSha256": "219bb676bf645197de9190adabb25912c097ae62653e31c40f999890e943bd67",
+   "addedAt": "2026-10-27"
+  },
+  {
+   "id": "hd_new_year_animal_parade",
+   "title": "Woodland New Year Parade",
+   "category": "new_year",
+   "colorCount": 18,
+   "regionCount": 362,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/new_year/hd_new_year_animal_parade/thumbnail.jpg",
+   "imageUrl": "artworks/new_year/hd_new_year_animal_parade/image.jpg",
+   "originalImageUrl": "artworks/new_year/hd_new_year_animal_parade/original.jpg",
+   "lineArtUrl": "artworks/new_year/hd_new_year_animal_parade/line_art.png",
+   "lineArtThumbnailUrl": "artworks/new_year/hd_new_year_animal_parade/line_art_thumb.webp",
+   "linePathsUrl": "artworks/new_year/hd_new_year_animal_parade/line_paths_v3.json",
+   "regionMapUrl": "artworks/new_year/hd_new_year_animal_parade/region_map.png",
+   "paintDataUrl": "artworks/new_year/hd_new_year_animal_parade/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "aed5ab3e1fa89b1994729e019fd02329f3cf3a9378b2527dcc60a45f584b0357",
+   "imageSha256": "beff4b7915767834675514ef0cc87c0404a359fd295d2e674dd1404c5813120a",
+   "addedAt": "2026-10-27"
+  },
   {
    "id": "hd_fashion_botanical_couture_atelier",
    "title": "Botanical Couture Atelier",
