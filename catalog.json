@@ -688,7 +688,7 @@
    },
    "icon": {
     "type": "emoji",
-   "value": "🕉️"
+    "value": "🕉️"
    }
   },
   {
@@ -716,6 +716,52 @@
   }
  ],
  "artworks": [
+  {
+   "id": "test_whitefix_current_lines",
+   "title": "TEST A - White fix, current lines",
+   "category": "anime",
+   "colorCount": 18,
+   "regionCount": 470,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/test_whitefix_current_lines/thumbnail.jpg",
+   "imageUrl": "artworks/anime/test_whitefix_current_lines/image.jpg",
+   "originalImageUrl": "artworks/anime/test_whitefix_current_lines/original.jpg",
+   "lineArtUrl": "artworks/anime/test_whitefix_current_lines/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/test_whitefix_current_lines/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/test_whitefix_current_lines/line_paths_v3.json",
+   "regionMapUrl": "artworks/anime/test_whitefix_current_lines/region_map.png",
+   "paintDataUrl": "artworks/anime/test_whitefix_current_lines/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "875e6252948edc136de79c5c5338ad70fd944ceaa2a9cc1baaf9b487eb6df319",
+   "imageSha256": "0cffc82c4eab725e5ab665e8bceac9f9407403d8cb3b58b3f5f6bd24a7bd7f53",
+   "addedAt": "2026-10-27"
+  },
+  {
+   "id": "test_whitefix_clean_lines",
+   "title": "TEST B - White fix + clean lines",
+   "category": "anime",
+   "colorCount": 18,
+   "regionCount": 470,
+   "contentVersion": 1,
+   "isNew": true,
+   "thumbnailUrl": "artworks/anime/test_whitefix_clean_lines/thumbnail.jpg",
+   "imageUrl": "artworks/anime/test_whitefix_clean_lines/image.jpg",
+   "originalImageUrl": "artworks/anime/test_whitefix_clean_lines/original.jpg",
+   "lineArtUrl": "artworks/anime/test_whitefix_clean_lines/line_art.png",
+   "lineArtThumbnailUrl": "artworks/anime/test_whitefix_clean_lines/line_art_thumb.webp",
+   "linePathsUrl": "artworks/anime/test_whitefix_clean_lines/line_paths_v3.json",
+   "regionMapUrl": "artworks/anime/test_whitefix_clean_lines/region_map.png",
+   "paintDataUrl": "artworks/anime/test_whitefix_clean_lines/paint_data.json",
+   "license": null,
+   "creator": null,
+   "sourceUrl": null,
+   "regionMapSha256": "875e6252948edc136de79c5c5338ad70fd944ceaa2a9cc1baaf9b487eb6df319",
+   "imageSha256": "0cffc82c4eab725e5ab665e8bceac9f9407403d8cb3b58b3f5f6bd24a7bd7f53",
+   "addedAt": "2026-10-27"
+  },
   {
    "id": "hd_new_year_rooftop_countdown",
    "title": "Rooftop New Year Countdown",
