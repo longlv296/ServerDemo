@@ -252,7 +252,7 @@
    ]
   }
  ],
- "updatedAt": "2026-10-27T14:15:57+07:00",
+ "updatedAt": "2026-10-27T14:31:43+07:00",
  "categories": [
   {
    "id": "christmas",
@@ -722,7 +722,7 @@
    "category": "food",
    "colorCount": 18,
    "regionCount": 417,
-   "contentVersion": 1,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/food/hd_food_sunrise_bakery_counter/thumbnail.jpg",
    "imageUrl": "artworks/food/hd_food_sunrise_bakery_counter/image.jpg",
@@ -736,7 +736,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "766be6bbc2e60236dd92f7e4a5603e94cd2ec3e9fb5d2e40df381cc008f3fb6c",
-   "imageSha256": "1c90f157b0a6a0724c0312809643b73326120b974b84b9b39fb317a9ad3b9f0c",
+   "imageSha256": "39dfae5e9e2f6c6558f014024f95e775d54fe56075ca951afd22dbfa99af4c48",
    "addedAt": "2026-10-27"
   },
   {
@@ -745,7 +745,7 @@
    "category": "food",
    "colorCount": 18,
    "regionCount": 321,
-   "contentVersion": 1,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/food/hd_food_autumn_soup_kitchen/thumbnail.jpg",
    "imageUrl": "artworks/food/hd_food_autumn_soup_kitchen/image.jpg",
@@ -759,7 +759,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "0e314ac638a20b5343f0a89a849240ff49a9fae69e2f43c0126b4b938e323852",
-   "imageSha256": "b191ad47981811e1aed86ffd9974a6935548b915ae808a4f9d00bb5258701188",
+   "imageSha256": "a1d7d15fd00cced84f17d3387f3a482784b1679889bdcf1ec7b1f111abacae8a",
    "addedAt": "2026-10-27"
   },
   {
@@ -768,7 +768,7 @@
    "category": "food",
    "colorCount": 18,
    "regionCount": 402,
-   "contentVersion": 1,
+   "contentVersion": 2,
    "isNew": true,
    "thumbnailUrl": "artworks/food/hd_food_tropical_fruit_market/thumbnail.jpg",
    "imageUrl": "artworks/food/hd_food_tropical_fruit_market/image.jpg",
@@ -782,7 +782,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "087eaad7d514a1d1e6dc419289af8af4269d99dde36abdbbf7454ed814d14ae8",
-   "imageSha256": "18e8e8e974ad021528785dce3675b3ea76b936fd7c3ba9f6044e71e27e0aa5b3",
+   "imageSha256": "a965264e15c54b64a78862905e5e026748fb57963c96aebf5513fafd065116b2",
    "addedAt": "2026-10-27"
   },
   {
