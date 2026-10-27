@@ -28,7 +28,7 @@ VARIANTS = (
     ("test_whitefix_current_lines", "TEST A - Paths fixed, current lines", False),
     ("test_whitefix_clean_lines", "TEST B - Paths fixed + clean lines", True),
 )
-CONTENT_VERSION = 3
+CONTENT_VERSION = 4
 INK_THRESHOLD = 8.0
 INK_BLUR_SIGMA = 2.2
 INK_SUPPORT_RADIUS = 2
@@ -40,6 +40,8 @@ LINE_SMOOTH_SIGMA = 0.8
 LINE_CLOSE_RADIUS = 1
 LINE_MIN_SPECK_AREA = 4.0
 LINE_MIN_HOLE_AREA = 6.0
+MERGE_MIN_OPEN_PIXELS = 4
+MERGE_MIN_OPEN_SHARE = 0.25
 
 
 def sha256(path: Path) -> str:
@@ -98,6 +100,90 @@ def source_line_pixels(line_art_path: Path) -> np.ndarray:
     mask = fill_small_line_holes(keep[components].astype(np.uint8))
     coverage = cv2.resize(mask.astype(np.float32), (width, height), interpolation=cv2.INTER_AREA)
     return coverage > 0
+
+
+def refresh_region_geometry(data: dict, labels: np.ndarray) -> None:
+    areas = np.bincount(labels.ravel(), minlength=int(labels.max()) + 1)
+    spans = ndimage.find_objects(labels)
+    for region in data["regions"]:
+        region_id = region["id"]
+        span = spans[region_id - 1]
+        region["area"] = int(areas[region_id])
+        region["bounds"] = {
+            "left": span[1].start,
+            "top": span[0].start,
+            "right": span[1].stop,
+            "bottom": span[0].stop,
+        }
+
+
+def merge_same_color_without_line(data: dict, labels: np.ndarray, line_art_path: Path) -> dict:
+    """Merge touching same-color ids only where the final page leaves an open boundary.
+
+    A few generated split lines disappear in the clean-line variant. Keeping the two ids after
+    hiding their separator makes one visible shape require two taps. A short antialiasing pinhole
+    must not merge otherwise separate paths, so an opening must cover both a minimum pixel length
+    and a meaningful share of the common boundary.
+    """
+    line = source_line_pixels(line_art_path)
+    color_of = np.zeros(int(labels.max()) + 1, dtype=np.int32)
+    for region in data["regions"]:
+        color_of[region["id"]] = region["colorNumber"]
+
+    boundary: dict[tuple[int, int], list[int]] = {}
+    comparisons = (
+        (labels[:, :-1], labels[:, 1:], line[:, :-1], line[:, 1:]),
+        (labels[:-1], labels[1:], line[:-1], line[1:]),
+    )
+    for first, second, first_line, second_line in comparisons:
+        same_color_edge = (
+            (first != second)
+            & (first > 0)
+            & (second > 0)
+            & (color_of[first] == color_of[second])
+        )
+        left = first[same_color_edge]
+        right = second[same_color_edge]
+        open_edge = ~(first_line[same_color_edge] | second_line[same_color_edge])
+        for first_id, second_id, is_open in zip(left.tolist(), right.tolist(), open_edge.tolist()):
+            pair = (first_id, second_id) if first_id < second_id else (second_id, first_id)
+            counts = boundary.setdefault(pair, [0, 0])
+            counts[0] += 1
+            counts[1] += int(is_open)
+
+    parent = np.arange(len(color_of), dtype=np.int32)
+
+    def root(region_id: int) -> int:
+        while parent[region_id] != region_id:
+            parent[region_id] = parent[parent[region_id]]
+            region_id = int(parent[region_id])
+        return region_id
+
+    accepted = []
+    for pair, (total, opened) in boundary.items():
+        if opened < MERGE_MIN_OPEN_PIXELS or opened / total < MERGE_MIN_OPEN_SHARE:
+            continue
+        first_root, second_root = root(pair[0]), root(pair[1])
+        if first_root != second_root:
+            parent[max(first_root, second_root)] = min(first_root, second_root)
+        accepted.append({"ids": list(pair), "boundary": total, "open": opened})
+
+    lookup = np.array([root(region_id) for region_id in range(len(parent))], dtype=np.int32)
+    merged = lookup[labels]
+    removed = {region["id"] for region in data["regions"] if lookup[region["id"]] != region["id"]}
+    data["regions"] = [region for region in data["regions"] if region["id"] not in removed]
+    if "prefilledRegions" in data:
+        data["prefilledRegions"] = sorted({int(lookup[region_id]) for region_id in data["prefilledRegions"]})
+    labels[:] = merged
+    refresh_region_geometry(data, labels)
+    return {
+        "strategy": "touching-same-color-with-open-final-line",
+        "minimumOpenPixels": MERGE_MIN_OPEN_PIXELS,
+        "minimumOpenShare": MERGE_MIN_OPEN_SHARE,
+        "mergedPairs": len(accepted),
+        "removedRegionIds": len(removed),
+        "pairs": accepted,
+    }
 
 
 def preserve_paper_paths(
@@ -173,18 +259,7 @@ def preserve_paper_paths(
 
     result = copy.deepcopy(data)
     result["regions"].extend(added)
-    areas = np.bincount(labels.ravel(), minlength=next_id)
-    spans = ndimage.find_objects(labels)
-    for region in result["regions"]:
-        region_id = region["id"]
-        span = spans[region_id - 1]
-        region["area"] = int(areas[region_id])
-        region["bounds"] = {
-            "left": span[1].start,
-            "top": span[0].start,
-            "right": span[1].stop,
-            "bottom": span[0].stop,
-        }
+    refresh_region_geometry(result, labels)
     result["contentVersion"] = CONTENT_VERSION
     stats = {
         "strategy": "separate-source-colored-paths-with-centered-boundaries",
@@ -253,9 +328,9 @@ def prepare_variant(
     target.mkdir(parents=True, exist_ok=True)
     for name in ("image.jpg", "original.jpg", "thumbnail.jpg"):
         shutil.copy2(SOURCE / name, target / name)
-    write_region_map(path_labels, target / "region_map.png")
 
     data = copy.deepcopy(path_data)
+    labels = path_labels.copy()
     experiment = {
         "sourceArtworkId": SOURCE_ID,
         "whiteRegions": path_stats["strategy"],
@@ -268,6 +343,10 @@ def prepare_variant(
     else:
         shutil.copy2(SOURCE / "line_art.png", target / "line_art.png")
         shutil.copy2(SOURCE / "line_paths_v3.json", target / "line_paths_v3.json")
+    merge_stats = merge_same_color_without_line(data, labels, target / "line_art.png")
+    data.setdefault("generation", {})["sameColorPathMerges"] = merge_stats
+    experiment["sameColorPathMerges"] = merge_stats
+    write_region_map(labels, target / "region_map.png")
     write_thumbnail(target / "line_art.png", target / "line_art_thumb.webp")
     data.setdefault("generation", {})["comparisonExperiment"] = experiment
     (target / "paint_data.json").write_text(
