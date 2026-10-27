@@ -1044,7 +1044,7 @@
    "category": "halloween",
    "colorCount": 18,
    "regionCount": 421,
-   "contentVersion": 2,
+   "contentVersion": 3,
    "isNew": true,
    "thumbnailUrl": "artworks/halloween/hd_halloween_moonlit_pumpkin_train/thumbnail.jpg",
    "imageUrl": "artworks/halloween/hd_halloween_moonlit_pumpkin_train/image.jpg",
@@ -1058,7 +1058,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "1667308a243f4aa4aa5e20fd62ccb0459e1078bf59fc6df7930b3d4ef233053e",
-   "imageSha256": "e19da0ab7e6365daaaf7ffdbedb3205e295cb5357898b12c1efa8b4ae8867294",
+   "imageSha256": "a87faf6d6f81581d4cb45abbed3c18b3f6950e99bb76541e32d3029aed49da61",
    "addedAt": "2026-10-27"
   },
   {
@@ -1320,7 +1320,7 @@
    "category": "halloween",
    "colorCount": 18,
    "regionCount": 501,
-   "contentVersion": 2,
+   "contentVersion": 3,
    "isNew": true,
    "thumbnailUrl": "artworks/halloween/hd_halloween_witch_cat_garden_party/thumbnail.jpg",
    "imageUrl": "artworks/halloween/hd_halloween_witch_cat_garden_party/image.jpg",
@@ -1334,7 +1334,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "0a2c83224b8d9838e4810f2f13c65f8bc78ba0a07ea06da8263630ac781fdc43",
-   "imageSha256": "d5f6df9bf492d8b16c05ee14e94506e62b7acada7c29926e413af47737963c4d",
+   "imageSha256": "1cd35cac2d5333069e2bb076580ecfc9f48b564ad40b4be7fc586a01c123e9eb",
    "addedAt": "2026-10-27"
   },
   {
@@ -1619,7 +1619,7 @@
    "category": "halloween",
    "colorCount": 18,
    "regionCount": 477,
-   "contentVersion": 2,
+   "contentVersion": 3,
    "isNew": true,
    "thumbnailUrl": "artworks/halloween/hd_halloween_friendly_monster_library/thumbnail.jpg",
    "imageUrl": "artworks/halloween/hd_halloween_friendly_monster_library/image.jpg",
@@ -1633,7 +1633,7 @@
    "creator": null,
    "sourceUrl": null,
    "regionMapSha256": "5cffd68dd15523bb53ba4b1ea7a91fe7aca657e18b8b9cbe2d4e0dfb6bd5dd54",
-   "imageSha256": "5bb8b394795c62118fab80a388978c59d300ca10d6dcc2c7d1d2b98bb8a0623a",
+   "imageSha256": "7466df0c3985b2b5b3035062432e346c0b748d3f6e8bb86de55cea4101cc9fae",
    "addedAt": "2026-10-27"
   },
   {
