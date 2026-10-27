@@ -28,7 +28,7 @@ VARIANTS = (
     ("test_whitefix_current_lines", "TEST A - Paths fixed, current lines", False),
     ("test_whitefix_clean_lines", "TEST B - Paths fixed + clean lines", True),
 )
-CONTENT_VERSION = 4
+CONTENT_VERSION = 5
 INK_THRESHOLD = 8.0
 INK_BLUR_SIGMA = 2.2
 INK_SUPPORT_RADIUS = 2
@@ -42,6 +42,8 @@ LINE_MIN_SPECK_AREA = 4.0
 LINE_MIN_HOLE_AREA = 6.0
 MERGE_MIN_OPEN_PIXELS = 4
 MERGE_MIN_OPEN_SHARE = 0.25
+MICRO_PATH_MAX_AREA = 50
+MICRO_PATH_MAX_RADIUS = 1.0
 
 
 def sha256(path: Path) -> str:
@@ -115,6 +117,107 @@ def refresh_region_geometry(data: dict, labels: np.ndarray) -> None:
             "right": span[1].stop,
             "bottom": span[0].stop,
         }
+
+
+def collapse_microscopic_paper_paths(
+    data: dict,
+    labels: np.ndarray,
+    added_region_ids: set[int],
+) -> dict:
+    """Absorb raster-sized paper fragments into their dominant touching region.
+
+    Antialiased source ink can leave a staircase of one-pixel paper components. Treating every
+    component as a real path makes a visually continuous lock of hair require several taps. Only
+    newly recovered components with no usable interior are eligible; genuine small paths remain
+    separate. Connected microscopic fragments are assigned as one group so they cannot alternate
+    between colors along the same stroke.
+    """
+    microscopic = {
+        region["id"]
+        for region in data["regions"]
+        if region["id"] in added_region_ids
+        and region["area"] <= MICRO_PATH_MAX_AREA
+        and region.get("labelRadius", 0.0) <= MICRO_PATH_MAX_RADIUS
+    }
+    if not microscopic:
+        return {
+            "strategy": "absorb-raster-sized-paper-fragments",
+            "maximumArea": MICRO_PATH_MAX_AREA,
+            "maximumLabelRadius": MICRO_PATH_MAX_RADIUS,
+            "components": 0,
+            "regionsRemoved": 0,
+            "pixelsReassigned": 0,
+        }
+
+    graph = {region_id: set() for region_id in microscopic}
+    outside_edges = {region_id: {} for region_id in microscopic}
+    comparisons = ((labels[:, :-1], labels[:, 1:]), (labels[:-1], labels[1:]))
+    for first, second in comparisons:
+        boundary = first != second
+        for first_id, second_id in zip(first[boundary].tolist(), second[boundary].tolist()):
+            if first_id in microscopic:
+                if second_id in microscopic:
+                    graph[first_id].add(second_id)
+                elif second_id > 0:
+                    outside_edges[first_id][second_id] = outside_edges[first_id].get(second_id, 0) + 1
+            if second_id in microscopic:
+                if first_id in microscopic:
+                    graph[second_id].add(first_id)
+                elif first_id > 0:
+                    outside_edges[second_id][first_id] = outside_edges[second_id].get(first_id, 0) + 1
+
+    areas = np.bincount(labels.ravel(), minlength=int(labels.max()) + 1)
+    assignments: list[dict] = []
+    visited: set[int] = set()
+    pixels_reassigned = 0
+    for start in sorted(microscopic):
+        if start in visited:
+            continue
+        stack = [start]
+        component: set[int] = set()
+        candidates: dict[int, int] = {}
+        while stack:
+            region_id = stack.pop()
+            if region_id in visited:
+                continue
+            visited.add(region_id)
+            component.add(region_id)
+            stack.extend(graph[region_id] - visited)
+            for neighbor_id, edge_count in outside_edges[region_id].items():
+                candidates[neighbor_id] = candidates.get(neighbor_id, 0) + edge_count
+        if not candidates:
+            continue
+        target_id = max(
+            candidates,
+            key=lambda region_id: (candidates[region_id], int(areas[region_id]), -region_id),
+        )
+        component_mask = np.isin(labels, list(component))
+        pixel_count = int(component_mask.sum())
+        labels[component_mask] = target_id
+        pixels_reassigned += pixel_count
+        assignments.append(
+            {
+                "ids": sorted(component),
+                "targetId": target_id,
+                "sharedBoundary": candidates[target_id],
+                "pixels": pixel_count,
+            }
+        )
+
+    removed = {region_id for assignment in assignments for region_id in assignment["ids"]}
+    data["regions"] = [region for region in data["regions"] if region["id"] not in removed]
+    if "prefilledRegions" in data:
+        data["prefilledRegions"] = [region_id for region_id in data["prefilledRegions"] if region_id not in removed]
+    refresh_region_geometry(data, labels)
+    return {
+        "strategy": "absorb-raster-sized-paper-fragments",
+        "maximumArea": MICRO_PATH_MAX_AREA,
+        "maximumLabelRadius": MICRO_PATH_MAX_RADIUS,
+        "components": len(assignments),
+        "regionsRemoved": len(removed),
+        "pixelsReassigned": pixels_reassigned,
+        "assignments": assignments,
+    }
 
 
 def merge_same_color_without_line(data: dict, labels: np.ndarray, line_art_path: Path) -> dict:
@@ -260,6 +363,11 @@ def preserve_paper_paths(
     result = copy.deepcopy(data)
     result["regions"].extend(added)
     refresh_region_geometry(result, labels)
+    micro_stats = collapse_microscopic_paper_paths(
+        result,
+        labels,
+        {region["id"] for region in added},
+    )
     result["contentVersion"] = CONTENT_VERSION
     stats = {
         "strategy": "separate-source-colored-paths-with-centered-boundaries",
@@ -268,6 +376,7 @@ def preserve_paper_paths(
         "boundaryPixelsReassigned": int(claimed_boundary.sum()),
         "pathsExpandedUnderLines": int(np.unique(labels[claimed_boundary]).size),
         "paperPixelsAfter": int((labels == 0).sum()),
+        "microscopicPaths": micro_stats,
     }
     result.setdefault("generation", {})["paperPaths"] = stats
     return result, labels, stats
